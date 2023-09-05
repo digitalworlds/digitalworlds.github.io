@@ -96,7 +96,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.3.1" />
 <meta name="generator" content="WooCommerce 3.8.1" />
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<script src="./style/core.c78901bc.js" type="module"></script>
+	
 	
 	</head>
 
@@ -446,13 +446,6 @@ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
 /* ]]> */
 </script>
 <script type="text/javascript" src="./style/woocommerce.min.js" id="woocommerce-js"></script>
-<script type="text/javascript" id="wc-cart-fragments-js-extra">
-/* <![CDATA[ */
-var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_dc86e9874fbc80c64c741b77bb1bbc1b","fragment_name":"wc_fragments_dc86e9874fbc80c64c741b77bb1bbc1b","request_timeout":"5000"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="./style/cart-fragments.min.js" id="wc-cart-fragments-js"></script>
-<script type="text/javascript" src="./style/awfm-scripts.js" id="woo-floating-minicart-script-js"></script>
 <script type="text/javascript" src="./style/jquery.mCustomScrollbar.concat.min.js" id="woo-floating-minicart-malihu-script-js"></script>
 <script type="text/javascript" src="./style/yith.infinitescroll.min.js" id="yith-infinitescroll-js"></script>
 <script type="text/javascript" id="yith-infs-js-extra">

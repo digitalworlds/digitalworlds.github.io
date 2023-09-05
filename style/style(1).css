@@ -952,7 +952,6 @@ ul.top-bar-menu li i{
 .social-widget-menu ul a:before,
 .em-author-details ul li a:before {
 	vertical-align: middle;
-	font: normal normal normal 14px/1 'Font Awesome 5 Free';
 	font-family: FontAwesome;
 }
 .social-navigation ul li a, .social-widget-menu ul li a, .em-author-details ul li a {
