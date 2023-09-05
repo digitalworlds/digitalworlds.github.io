@@ -1,0 +1,729 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="projects.xsl" ?>
+<data>
+
+<projects>
+<project>
+<title>Imagineering the Technosphere</title>
+<description><![CDATA[<iframe src=https://www.youtube.com/embed/ypmaDq060oY?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
+\n
+\nThe Imagineering and the Technosphere is a UF Intersections project funded by the Andrew W. Mellon Foundation.
+\n
+\nIn the face of our growing technological dependencies, our intersections group explores how humans use technology intentionally and unintentionally to alter our physical world. The group will study the accelerating pace of social technologies, such as the Internet and Artificial Intelligence.
+\n
+\n<iframe src=https://www.youtube.com/embed/ckNEjNj5Lps?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
+\n
+\nThe group aims to discover what the lessons of past inventions can teach us about how to address the problems facing humanity today, particularly as they emerge in the “technosphere,” the landscape shaped by human hands. The group will develop an interactive website, host a regular research workshop, and organize events with speakers and filmmakers about technoscience. To engage students with questions of space, place, and time, a faculty member will work with students to build a mobile app for time travel in augmented reality to examine the hidden role of technology on the UF campus. This work will lay the foundation for team-taught and other new courses that will give students the tools to envision how they will “imagineer” the future of the planet while harnessing the power of technologies in environmentally and socially sustainable way.
+\n
+\nIn Spring 2020 our team will offer a course titled “Imagineernig the Technosphere”. The purpose of this course is to respond to the grand challenge question: “How do technologies influence our lives, then and now?” from the perspectives of our 6 thematic units: 1) Inventions and Sciences, 2) Spaces and Infrastructure, 3) Past and Future, 4) Imagining and Designing, 5) Conservation and Sustainability, 6) Culture and Society. This interdisciplinary approach will equip the students with foundational knowledge and tangible skills through weekly modules and experiential learning activities that will be organized as part of the <a href=https://research.dwi.ufl.edu/projects/technosphere/index.php/uf-quest-game/>“UF Quest Game”</a>, a gamified learning experience specially designed for this course. The students will be able to transcend the boundaries of traditional disciplines and demonstrate how the humanities serve as the foundation for understanding science and technology and how this holistic approach could affect our decision making processes in ourselves, and on a planetary scale.
+\n<div class=uf18-body-copy>
+\n
+\n<strong>In the humanities class “Imagineering the Technosphere,” homework isn’t based on a book chapter, but an adventure through campus guided by the GPS-powered Time Traveler app.</strong>
+\n
+\nSisters Christine and Reyna Mae Cuales, both taking the class this semester, followed the prompts on the app, which steered them closer to their destination. So far, they’ve visited the Harn Museum of Art, the McKnight Brain Institute, the Baughman Center on Lake Alice and the <a href=https://digitalworlds.ufl.edu/institute-information/facilities/>Digital Worlds Institute in Norman Hall</a>, among others. Today, they’re closing in on a location near the historic central campus. When students successfully navigate to the mystery location using the app, a screen pops up that tells them they’ve arrived, offers some background about the place, and poses a reflection question about the place and its use over time.
+\n
+\nProfessor Angelos Barmpoutis says the intention of the app — and its corresponding board game — is to get students to see their surroundings in a new way.
+\n
+\n“These places are deeply connected to the past and tied to the future,” he said. “I’m trying to get them to think about the things they pass every day.”
+\n
+\nWhen students followed the app to the Norman Gym, for example, they saw a facility originally used for basketball, its wood floors still visible, hosting a weekend-long <a href=https://globalgamejam.org/2019/jam-sites/university-florida-digital-worlds-institute>video game design competition</a>. The experience gave them an opportunity to reflect on how not only the space but the nature of sports and competition evolved, Barmpoutis said.
+\n
+\nBarmpoutis is one of <a href=https://research.dwi.ufl.edu/projects/technosphere/Technosphere_Spring2020_SyllabusV1.2_AB.pdf>seven professors</a> who team teach the class, tackling fields that range from anthropology to historic preservation. Each professor’s lesson includes the hunt for several of the game’s 22 3D printed pieces, which students collect after finding the location and submitting video responses to the questions posed in the app.
+\n
+\n<iframe src=https://www.youtube.com/embed/B230Yo5SVmY?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
+\n
+\nWalking north on Buckman Drive, the Cuales sisters can see that they’re getting closer to today’s location. Then they cross the street, and app tells them they’ve arrived. It’s Dauer Hall, an Collegiate Gothic brick building from 1936 with arches, bay windows and stained glass that once served as the student union. They record their video response about connection and continuity in historic places, then check the app for their next destination.
+\n
+\nReyna Mae, a pre-health student, and Christine, who’s studying sustainability and the built environment, both say they have discovered academic interests they wouldn’t have known about without the course.
+\n
+\n“When you’re just focused on your major, you don’t get to explore other classes,” Christine said. “Getting to know all of the professors and fields in this class opens up your eyes.”]]></description>
+<URL>https://research.dwi.ufl.edu/projects/technosphere/</URL>
+<Funding>Andrew W. Mellon Foundation</Funding>
+</project>
+
+<project>
+<title>Java For Kinect (J4K)</title>
+<description><![CDATA[<iframe src=https://www.youtube.com/embed/q0K4Y4g-hj0?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
+\n
+\nThe J4K library is a popular open source Java library that implements a Java binding for the Microsoft's Kinect SDK. It communicates with a native Windows library, which handles the depth, color, infrared, and skeleton streams of the Kinect using the Java Native Interface (JNI).
+\n
+\nThe J4K library is compatible with all kinect devices (Kinect for Windows, Kinect for XBOX, new Kinect, or Kinect 2) and allows you to control multiple sensors of any type from a single application, as long as your system capabilities permit. For example you can control three Kinect 1 sensors, or one Kinect 1 and one Kinect 2 connected via USB 3.0 to the same computer. Furthermore, the J4K library contains several convenient Java classes that convert the packed depth frames, skeleton frames, and color frames received by a Kinect sensor into easy-to-use Java objects.]]></description>
+<URL>https://research.dwi.ufl.edu/projects/ufdw/j4k</URL>
+</project>
+
+<project>
+<title>Digital Epigraphy and Archaeology Project</title>
+<description><![CDATA[<iframe src=https://www.youtube.com/embed/8_KE--_pbzE?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
+\n
+\nDEA is an interdisciplinary project initiated by scientists from the Digital Worlds Institute and the Department of Classics at the University of Florida. The goal of the project is to develop new open-access scientific tools for the Humanities and apply concepts from digital and interactive media and computer science to Archaeology and Classics. In our web-site you can view our 3D collections and interact with our on-line exhibits, read about our recent results, find interactive demos of our projects, and learn more about our future research directions. 
+\n
+\nBringing together Digital Media, Computer Science, and the Humanities.
+\n
+\n<iframe src=https://www.youtube.com/embed/yh6MyLLFSTo?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
+\n]]></description>
+<URL>https://www.digitalepigraphy.org/</URL>
+<Funding>National Endowment for the Humanities\, Office of Digital Humanities\, Grant HD‐51214‐11</Funding>
+</project>
+
+<project>
+<title>Looking for Good</title>
+<description><![CDATA[Looking for Good (LFG) is an interdisciplinary live-stream broadcast production located in the College of the Arts that provides an interactive platform for researchers and artists to explore critical issues in the digital arts with audiences within and beyond the university. With LFG, we specifically research how live-streaming can augment and support the arts by providing a platform to create productive, safe, and democratic spaces that challenge the physical, ideological, cultural, and financial barriers that have traditionally dictated and limited who can access and be involved with the arts. Through our broadcast development, we examine how a wide range of media including 2D and 3D art, live performances, film, video games, research, etc. can be incorporated into live-streaming environments to offer compelling engagements with art, arts research, and the individuals working in these areas. In line with the college’s metanarrative, we also seek to make visible and accessible people, topics, work that falls outside of or is underrepresented in mainstream culture by focusing on LGBTQ+, critical race theory, labor, sexuality, gender, and class in the arts. With over 500 followers and growing, LFG is poised to become a significant, university-based space for democratic and open discussion of critical ideas and work within the arts.]]></description>
+<URL>https://www.twitch.tv/lfgatuf</URL>
+<Twitter>https://twitter.com/lfgatuf?lang=en</Twitter>
+</project>
+
+<project>
+<title>Access Grid</title>
+<description><![CDATA[<h4>DW Pioneers Access Grid for Cultural Projects</h4>
+\nThe Access Grid (AG) is an ensemble of resources used to support human interaction across the Internet. It consists of multimedia displays, multipoint bi-directional audio, cameras, and shared spaces for presentations and interactions. It supports large-scale distributed meetings, collaborative work sessions, seminars, lectures, tutorials and training. The system is designed for group-to-group communication (differentiating it from desktop to desktop based tools that focus on individual communication). Thus, the environment enables both formal and informal group interactions. Access Grid nodes are designed spaces that explicitly contain the high-end audio and visual technology needed to provide a high-quality compelling user experience. Currently, there are one hundred fully operational sites in the US (mostly Universities) and over twenty international sites.
+\n
+\nThe Digital Worlds Institute has constructed four AG nodes. Locations include the Digital Worlds office, the Digital Worlds media lab, a portable node, and a conference room in the College of Fine Arts. Possible public access locations may include Phillips Center for Performing Arts, The University Auditorium, and Constans Theatre. In addition, three other campus groups have constructed their own nodes. Digital Worlds was the first group on campus to have a node operational. It is our charter to elevate the design and functionality to a new level not seen with any of the current nodes installed worldwide.
+\n
+\nDigital Worlds has used the AccessGrid for many distributed collaboration meetings and art performances such as Dancing Beyond Boundaries, Mask, Original Seed, Non Divisi, and Navigating Gravity.
+\n
+\nThe Media Monolith is a hybrid multimedia system for use both as an Access Grid node and as a system for multimedia presentations. The system is located in FAA 102. Two Pioneer 50 plasma screens are stacked vertically to fit a wall limited in width. Video cameras for the AG node are hidden in the structure next to the screens. Wireless microphones complement the Media Monolith for capturing room audio.
+\n
+\nThe College of Fine Arts conference room in FAA 109 also features an AccessGrid node. The display for this room is comprised of three Fujitsu 42 plasma screens tiled horizontally. Two computer controllable Sony video cameras capture people seated at the conference table and there is a stationary camera in the rear of the room. Tabletop or lapel microphones capture the voices of individual speakers.
+\n
+\nThe Digital Worlds media lab in CSE 413 contains a three-screen rear video projection Access Grid node. Each screen is eight feet wide by six feet in height. The two side screens can be positioned at multiple angles to the center screen at angle settings of 90, 120, and 180 degrees. The node has one video camera attached to the center screen and another video camera in the rear. Two handheld and two lapel wireless microphones are included. Audio speakers are mounted above the screens. This setup also functions as the SAGE.
+\n
+\nA portable Access Grid node is available. The rolling unit is configured with one video camera and four wireless microphones (two handheld and two lapel). Amplified audio speakers and at least one video projector must be supplied to use this system. At least one (three is best) duplex multicast 100 Mb network port must be available for the three computers. Three static IP addresses with DNS entries are required to configure the node.]]></description>
+</project>
+
+<project>
+<title>Aesthetic Computing</title>
+<description><![CDATA[<h4>UF Faculty receives grant for Aesthetic Computing</h4>
+\nAesthetic Computing refers to the search for a new development of representation and notation, the exploration on the use of artistic methods and processes within common representations found in computing. A better way for people to better understand currently hard-to-follow structures for computing and mathematics.
+\n
+\nThree faculty, two from Computer Science, and one from English, were awarded $450,000 from the National Science Foundation to study ways in which aesthetic media and presentations can be used in creating formal models for Computer Science. The project was lead by Dr. Paul Fishwick (CISE), working with co-PIs Drs. Tim Davis (CISE) and Jane Douglas (English). With an increased efficiency for creating virtual 3D models and rapidly prototyped physical objects, computer scientists need to explore ways in which the arts can be used in the specification of software. Can software look more like a multimedia art production? The movement toward this goal has been given the name Aesthetic Computing, and it suggests a way for people to better understand currently hard-to-follow structures for computing and mathematics. The image shows a snapshot of a 3D operating system, which is a fairly large program used to control access to hardware and software resources on a computer. Examples of traditional operating systems, built with far more abstract notation and symbols, include Windows, Linux, and Mac OS. Aesthetic Computing paves the way for using personalized and culturally meaningful objects, media, and productions in the internal structures of software. This will lead to more people being able to understand and write their own programs, by building artistic productions.]]></description>
+</project>
+
+<project>
+<title>Exciting Kids to Walk</title>
+<description><![CDATA[<header>
+\n<h3><span style=font-size: 16px;>The UF Clinical and Translation Sciences Institute Funds Interactive Rehabilitation Environment</span></h3>
+\n</header>
+\n<div class=main>
+\n
+\nThe UF Clinical and Translation Sciences Institute awards a $7,500 grant to support a pilot project for promoting walking recovery and enhancing the sensory input in kids with spinal cord injuries. Digital Worlds Professor Angelos Barmpoutis is participating as a co-investigator in this project along with other professors from the UF departments of Neuroscience and Physical Therapy. The goal of this collaborative team, lead by Dr. Emily J. Fox, is the development of a game-type environment to motivate disabled kids to walk.
+\n
+\nThe incorporation of interactive games and virtual reality (VR) is an innovative approach for making rehabilitation more engaging. Game technology motivates children, promotes practice, and performance of specific motor skills. Although games have demonstrated therapeutic effects when applied to children with neurological injuries, most games are not designed with consideration to motor impairments or for use in the LT environment. Therefore, the long-term objective in this project is to develop interactive gaming technology for the advancement of locomotor training interventions for children with neurological injuries. This project is the first phase in meeting this objective and will result in the development of a technical game prototype. A collaborative multidisciplinary team has been formed with expertise in basic neuroscience, rehabilitation, computer science, and game development. Focus groups of 8 children with SCI and CP, along with their caregivers and clinicians (Physical Therapists, Physiatrists) will be formed. Feedback from these groups will be incorporated into the team’s development of a game-design document. Using an iterative game development approach, a game software prototype will be developed and optimized for use with LT. Recently- released PrimeSense™ technology that allows for interactive controller-free play will be used and interfaced with the game prototype. Development of this game prototype and pilot data from its use will lead to a competitive NIH grant application. Moreover, the combined application of basic science, rehabilitation, and game-technology has a high likelihood of enhancing walking rehabilitation approaches for children with neurological injuries.
+\n
+\n</div>]]></description>
+<Funding>UF Clinical and Translational Science Institute</Funding>
+</project>
+
+<project>
+<title>Biomedical Engineering Building Pre-Visualization</title>
+<description><![CDATA[[embed]https://vimeo.com/44736778[/embed]]]></description>
+</project>
+
+<project>
+<title>College of Education Building Pre-Visualization</title>
+<description><![CDATA[[embed]https://vimeo.com/44740488[/embed]]]></description>
+</project>
+
+<project>
+<title>Dream Machine</title>
+<description><![CDATA[As a tribute to the rich 150-year legacy of the University of Florida, Digital Worlds presented an original digital movie entitled DREAM MACHINE. This presentation was produced by the very first graduating classes of the new Digital Arts and Sciences (DAS) program, a partnership founded in the UF Colleges of Engineering and Arts.
+\n
+\nDREAM MACHINE was an interdisciplinary collaboration from a team of over 100 UF students with backgrounds in art, animation, architecture, engineering, theater, English, journalism, computer modeling, music, photography, film making and liberal arts and sciences. It was particularly appropriate that members of the DA's Class of 2003 honored their Alma Mater by creating a work that embodies the spirit of the UF Sesquicentennial: Honoring the Past, Shaping the Future.]]></description>
+</project>
+
+<project>
+<title>Exploring Ancient Egypt</title>
+<description><![CDATA[The Digital Worlds Institute faculty collaborated on the creation of a new interactive experience for young museum visitors entitled <em>Exploring Ancient Egypt.</em> Working across disciplines, including computer programming, 2D and 3D art and animation, music and sound design and interactive narrative, the DW faculty team created the original interactive experience to allow up to four simultaneous players to explore various scenarios based on themes inspired by ancient Egypt. It recently debuted at the South Florida Science Center in West Palm Beach.
+\n
+\nDW computer scientist Angelos Barmpoutis created original code that allows an array of two Microsoft Kinects to bring 4 separate players into one shared virtual environment through the progression of the game. The design team of Diana Reichenbach and Hyuk Jang provided the visual elements to bring the ancient world to life. Game producer Marko Suvajdzic offered consultation on incorporating gameplay elements to keep the participants actively engaged throughout the four scenarios. Patrick Pagano provided research and audio elements to inform the final sound design, and composer James Oliverio provided the soundtrack for both the title sequence and each of the four separate scenarios.
+\n
+\nAs the Art Director for the project, Reichenbach worked closely with Digital Worlds graduate research assistants to create an aesthetically pleasing and balanced user interface, which was a unique challenge for a game with four physical players present on one screen.
+\n
+\n“This project is a great example of the Institute’s capabilities, as it incorporates elements of both aesthetic and programmatic design through collaboration between all Digital Worlds faculty and its graduate research assistants,” Reichenbach said.
+\n
+\nReichenbach designed the backdrops to the four levels of the game, including <em>Travel the Nile</em>,<em>Build the Pyramid</em>, <em>Wrap the Mummy</em> and <em>Dance Egyptian Style</em>, and paid close attention to recreating real-life Egyptian scenery into each level.
+\n
+\nHyuk Jang was in charge of character development for the game. Jang’s creative process began with using various references to explore details like outfits, hairstyles and even eye color, to get a better idea of how he should develop each character, and make them more believable.
+\n
+\nThe next step, character modeling, was made possible with 3D software named Maya.
+\n
+\n“Maya is one of the industry standard software that helps us to create organic or any kinds of 3D objects and characters for games and animation,” Jang said.
+\n
+\nJang began with a box and sculpted out the final model.
+\n
+\n“This was a time consuming part because sometimes I had to spend hours on small details,” Jang explained.
+\n
+\nOnce the model was approved, he started to paint the textures that were placed onto the characters.
+\n
+\nRigging, the process of adding bones to the characters, was the final step of character development for the game. The Xbox Kinect detects the figure primarily where joints are, and sends that data to the character bones in real-time, thus creating its final form.
+\n
+\nReichenbach and Jang recently appeared on LiveVibeTV’s Season Four show “Opening Minds: People Who Make Video Games” to give an overview of the design process.
+\n
+\nUpon completion, <em>Exploring Ancient Egypt</em> was installed at the South Florida Science Center’s <em>Afterlife: Tombs and Treasures of Ancient Egypt </em>exhibit that explores the ancient Egyptian concept of the afterlife including over 200 authentic artifacts. The centerpiece of this award-winning exhibit features a full-size reproduction of the burial chamber of Thutmose III (1490-1436 B.C.), a Ramesside male mummy believed to be the son of Ramses II and several other mummies. Other unique highlights of this exhibit include 3,000 year-old artifacts including fine jewelry, painted reliefs, implements used in religious rituals, coffins and more. The exhibit will run until April 18, 2015.]]></description>
+</project>
+
+<project>
+<title>Gaming Against Plagiarism</title>
+<description><![CDATA[<iframe src=https://player.vimeo.com/video/64391791 width=1200 height=600 frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
+\n
+\n<h4>Synopsis of the Gaming Against Plagiarism (GAP) series</h4>
+\n<strong>Game 1: Cheats and Geeks</strong>
+\nInspired by the board game Candy Land, the player has to navigate through Peer Reviews, hidden Quizzes about plagiarism, and Funding Opportunities as they race to get the first publication in their cohort. Because of the prevailing lax attitudes toward plagiarism on campus, the player is able to try to cheat their way across the game board to victory. The player can cheat (A) by plagiarizing the position of the other player ahead of them, (B) by falsifying their position on the game board to advance, or (C) fabricating a path on the game board that does not exist.
+\n
+\n<strong>Game 2</strong>
+\nThe player goes to work on behalf of the anti-plagiarism corps combating research misconduct around campus. However, they need boots on the ground. In this hybrid management/matching game that builds on the SimCity model, the player navigates a graphical map of a college campus, rushing to and from buildings that have a research misconduct problem. Once at a building where a research misconduct conflict is happening, a player has to identify the type of research misconduct from six types of plagiarism as well as falsification and fabrication, and implement interventions to detect, prevent or resolve issues of research misconduct.
+\n
+\n<strong>Game 3</strong>
+\nTo quash the research misconduct problem on campus and return it to normal, the player is tasked with catching an arch-plagiarist in the act. The player acts as a detective, sleuthing through clues and interviewing suspects and witnesses as she tries to discover who the arch-plagiarist is. The player has to construct proofs using an advanced “argumentation constructor interface“ about what actually constitutes plagiarism, thereby exhibiting their ability to analyze and evaluate different types of plagiarism.
+\n
+\n]]></description>
+<Funding>National Science Foundation Grant #1033002</Funding>
+<URL>http://digitalworlds.ufl.edu/gap/</URL>
+<FundingURL>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1033002</FundingURL>
+</project>
+<project>
+<title>Gator Nation Island</title>
+<description><![CDATA[The Digital Worlds Institute developed Gator Nation Island in the Second Life online world. <a href=https://digitalworlds.ufl.edu/site/assets/files/91828/slstoryingovvideo.pdf>Read More</a>]]></description>
+</project>
+
+<project>
+<title>Grand Guard</title>
+<description><![CDATA[<h4>Grand Guard, Portraits in Digital Media</h4>
+\n<em>University of Florida Alums </em><em>return</em><em> - 50 years after graduation.</em>
+\n
+\nAs a tribute to the UF graduates of the post WWII era, Digital Worlds (DW) and students in the Digital Arts and Sciences (DAS) program partnered with the UF Foundation to create original digital movies. Alumni from the graduating classes of 1952 and 1953 shared their college memories and love for their Alma Mater, and UF students from the graduating classes of 2003 and 2004 created original works of digital media to honor their forebears. The movies premiered at special banquets on the UF campus when the Alums returned to be inducted into the ranks of the Grand Guard, a prestigious element of the UF community.
+\n
+\nProject principals included Adam Portnow (video editor 2002 and '03), Eric Wilson (computer animation '02), Andy Quay (technical director 2002 and '03), Arturo Sinclair (director and animator 2003), Joella Walz (producer 2003) and James Oliverio (executive producer 2002 and '03).]]></description>
+</project>
+
+<project>
+<title>Use of Haptics in a Virtual Reality Environment for Learning of Nanotechnology</title>
+<description><![CDATA[[embed]https://vimeo.com/64391663[/embed]
+\n
+\nHAPNAN<strong> </strong>is an innovative and exciting educational tool geared toward middle school students. It is a collaborative effort between the University of Florida (UF) Digital Worlds Institute and UF professor of Mechanical and Aerospace Engineering and Nanotechnology expert, Dr. Curtis Taylor.  HapNan involves the merging of nanotechnology with haptics. The HapNan project incorporates the use of a haptic mouse and virtual reality computer program to create an interactive learning environment that has the potential to revolutionize the way that science is being taught within a classroom setting.  Students who are able to work with the HapNan technology will be able to explore many abstract scientific concepts in a whole new way, through sight and touch. The Haptic mouse will allow students to actually feel surface textures of the objects they are seeing on the computer screen. Additionally, the new low-cost haptic mouse allows users to actually feel invisible forces (such as gravity, attraction, repulsion and resistance) thus making these concepts tangible. HapNan allows young students to more fully understand concepts such as the covalent bonds within a water molecule and the relationship between gravity and inertia at a variety of physical scales.
+\n
+\nBuilt into the program is a quiz system that will allow individual instructors the ability to gauge and assess how much information each student is retaining after exploring each level. HAPNAN’s built-in lesson plans will be geared toward specific parameters and approved curriculum, giving it the potential to be an influential tool within any classroom and significantly changing the way in which science education is approached.
+\n
+\nHAPNAN is currently still in the developmental phase, with progress being made every day in refining the Haptic systems as well as improving the user interface. User testing is slated to begin in late Spring 2012.]]></description>
+<Funding>NSF Award #0935131\, COLLABORATIVE PROPOSAL: Use of Haptics in a Virtual Reality Environment for Learning of Nanotechnology</Funding>
+<FundingURL>https://www.nsf.gov/awardsearch/showAward?AWD_ID=0935131</FundingURL>
+</project>
+
+<project>
+<title>Human Interactive Simulation and Training</title>
+<description><![CDATA[The Human Interactive Simulation and Training (HIST) system allowed larger numbers of medical students to interact with patient symptoms, both in the local classroom and at a distance. The system tracked each student’s reactions to dynamic medical situations, giving professors a useful tool to assess individual progress and understanding.
+\n
+\nThe Human Patient Simulator (HPS), previously developed by the Department of Anesthesiology in the UF College of Medicine, was an ideal learning tool for anesthesiologists and other health-care providers. With the HPS, computers controlled a mannequin patient to respond to injected medications, changes in mechanical ventilation, and other therapies.
+\n
+\nHowever, high demand and hardware costs for the Human Patient Simulator prohibited timely and frequent access by large numbers of medical students. In response to this situation, UF anesthesiology professors Tammy Euliano and Nik Gravenstein asked the Digital Worlds Institute to collaborate in creating a system that would augment access to the HPS in both the classroom and at remote learning sites. Digital Worlds engineer Andy Quay teamed with digital artist Arturo Sinclair to create the Human Interactive Simulation Training (HIST) system.
+\n
+\nAt the end of the simulated procedure, the professor was able to review the steps taken by each student, help assess their thought processes, and suggest ways to reduce mistakes and time spent on their assessments. Studies at UF (1) indicate that medical students “acquire and retain skills better” using the interactive simulators than they do through lectures or other passive tools like books or videotapes.
+\n
+\nRegarding the new HIST system, Dr Gravenstein said “The department of Anesthesiology of the University of Florida makes use of 'Mental Models' when teaching students and young physicians the intricacies of the cardiovascular system. One such Mental Model was developed in cooperation between anesthesiologists and members of DW. The new model will see almost daily use and will be presented this summer at an international meeting in Europe”.
+\n
+\nDW Associate Director Andy Quay stated that “…the HIST project is an excellent example of how digital artists and media systems engineering can provide tangible benefits to fields ranging from medicine to aerospace engineering and beyond. We are pleased with this initial collaboration with UF anesthesiologists and look forward to expanding our research and development with medical scientist and educators”.]]></description>
+</project>
+
+<project>
+<title>Integrated Situational Awareness System</title>
+<description><![CDATA[[embed]https://vimeo.com/44671745[/embed]
+\n
+\nThe Integrated Situation Awareness System enhances decision-making effectiveness when managing potentially life-threatening situations. Researchers at Digital Worlds have designed a system that combines a variety of inputs, including live video feeds, federated databases, security systems, and satellite imagery, simultaneously, to augment the decision maker's situational awareness. Essentially, this ISAS is designed for public safety, wide-area environmental monitoring, law-enforcement and anti-terror purposes.
+\n
+\nIn a complex and rapidly-changing situation, decision-makers need constant access to timely, accurate, and comprehensible information. To bring a situation to the desired resolution in the shortest possible time, resources must be deployed strategically as critical decisions are being made. The Integrated Situational Awareness System (ISAS) combines a wide variety of inputs, including live video feeds, databases, security systems and satellite imagery simultaneously, to augment the decision-makers' situational awareness.
+\n
+\nThe Officer in the field uses an augmented vision system, to share real-time information with the ISAS Operator at the remote command center. The Operator then supplies the Decision Maker with real-time data as requested. The Decision Maker makes swift correlations and is better able to direct the dynamic relationship between resources and desired outcomes. The Officer is accompanied by 4 Micro Aerial Vehicles called a Halo. The Halo can be controlled by the officer or by the ISAS Operator. The Operator can also control a larger group of MAVs called a Swarm. Each MAV in the Swarm is able to carry out a variety of sensing functions to help augment the Decision Makers' decisional awareness.]]></description>
+</project>
+
+<project>
+<title>International Media Union</title>
+<description><![CDATA[[embed]https://vimeo.com/44743065[/embed]]]></description>
+</project>
+
+<project>
+<title>Legends of Antiquity</title>
+<description><![CDATA[]]></description>
+</project>
+
+<project>
+<title>Mask</title>
+<description><![CDATA[<h4>MASK, Dance and Visual Art Collaboration, U. de Chile - REUNA - and Digital Worlds</h4>
+\nA dance and visual art collaboration over the Internet connected The University of Chile REUNA and Digital Worlds. On May 17, 2004 the University of Florida's Digital Worlds Institute collaborated with the <a href=http://www.reuna.cl/ target=_blank rel=noopener noreferrer>Universitaria Nacional (REUNA)</a> in Santiago de Chile and the New World School of the Arts (NWSA) in Miami for a three-minute intercontinental collaborative dance performance. This experience involved four dancers, one couple in Chile (dancing live in an auditorium during the opening ceremony of the fourth International Meeting Science, Culture and Education on the Research and Development Network) and the other couple in the USA, performing a collaborative choreography, using chroma key technology and MPEG2 over IP running in real time over the Internet2 network.]]></description>
+</project>
+
+<project>
+<title>Micro-Air-Vehicle Environment System</title>
+<description><![CDATA[Micro-Air-Vehicle Virtual Environment System, A Hardware-in-the-Loop Experiment and Simulation Facility for Vision-Based Control of Micro-Air-Vehicles (MAVs)
+\n
+\nThe UF Micro-Air-Vehicle (MAV) Virtual Environment systems provide a synthetic environment in which hardware MAVs can be virtually flight tested. The project, headed by Dr. Andrew Kurdila and Dr. Rick Lind of the UF Mechanical and Aerospace Engineering Department, is funded by the United States Air Force.
+\n
+\nThe facilities operate by measuring physical response of MAVs in a wind tunnel, estimating the MAVs’ inertial location in a virtual urban environment, flying the MAV in this environment, and viewing the virtual urban terrain in real-time. The two compatible research facilities enable the study of:
+\n
+\n1- Vision-processing algorithms for real-time identification of critical features required for coordinated guidance, navigation and control in complex 3D surroundings including urban environments.
+\n
+\n2- Sensor fusion techniques that synthesize vision data and onboard micro-scale sensors that may include micro GPS processors, gyros, accelerometers, inclinometers, and speed sensors
+\n
+\n3- Agile, autonomous closed-loop control methodologies that utilize rapid path planning updates based on vision-derived information and mission requirements.
+\n
+\n4- Agile, autonomous closed-loop control methodologies that explore the tradeoff between vehicle control bandwidth, vision processing algorithm bandwidth, and the resulting stability of the coupled, closed loop system.
+\n
+\nThe Digital Worlds Institute's former Associate Director, Andy Quay, designed and built the virtual environment hardware systems. The display system located on the UF campus consists of three rear-projected video screens and a PC cluster for image generation. The center screen supports passive stereoscopic (polarized eyewear) for use with additional scientific visualization applications. The projection screen from <a href=http://www.stewartfilm.com/ target=_blank rel=noopener noreferrer>Stewart Filmscreen Corporation</a>, the <a href=http://www.projectiondesign.com/ target=_blank rel=noopener noreferrer>Projection Design</a> F1 SXGA video projectors, and the <a href=http://www.cyviz.com/ target=_blank rel=noopener noreferrer>CYVIZ</a> projector stacking mounts were installed by VizEveryWhere. The display system located at the REEF site consists of six 52 plasma screens. A dedicated server houses the 3D urban databases which is networked with a ten channel PC cluster for image generation. Dell sourced the computing resources for both facilities.
+\n
+\nThe virtual environment software is built upon <a href=http://www.multigenparadigm.com/ target=_blank rel=noopener noreferrer>MultiGen-Paradigm's</a> distributed VEGA, which allows the loading of the urban databases and synchronizes the video screens driven by the PC image clusters. Digital Worlds built one of the urban databases which spans several square miles.
+\n
+\nThere are now a total of four compatible visualization systems at UF, three on campus and one at the REEF. Two of the systems are housed in Digital Worlds' own research labs, the REVE and SAGE. All of the systems allow other types of scientific and engineering visualization as well.
+\n<h4>Mechanical and Aerospace Engineering</h4>
+\nDesign and implementation of Hardware in the Loop simulation of Autonomous Micro-Aerial Vehicles (MAV)
+\n<h4>Digital Worlds Institute</h4>
+\nDesign and implementation of virtual environment system to allow testing of MAV design in nondestructive Virtual Space]]></description>
+</project>
+
+<project>
+<title>Museum Biomedical Engineering Kiosk</title>
+<description><![CDATA[[embed]https://vimeo.com/44734836[/embed]
+\n
+\nA computer kiosk for the Museum of Science and Industry presenting the pioneering knee replacement research of UF's Dr. Fregly. Museum visitors learned how to collect data from various scientific machines, analyze the data using scientific visualization techniques, formulate an educated diagnosis of the patient's knee problem, and simulate surgical solutions.
+\n
+\nThe Biomedical Engineering Kiosk is a joint project between the Museum of Science and Industry (MOSI) in Tampa, Florida, the Digital Worlds Institute, and Dr. B.J. Fregly, a University of Florida Biomechanical Engineer and Professor. After receiving his NSF Career Grant, Dr. Fregly contacted the Digital Worlds Institute to present his pioneering knee replacement research to museum visitors in a language and level appropriate for children and adults.
+\n
+\nThe kiosk software allows visitors to play the role of a rising biomedical engineer. Museum visitors learn how to collect data from various scientific machines, analyze the data using scientific visualization techniques, formulate an educated diagnosis of the patient's knee problem, and simulate surgical solutions. The kiosk interface consists of real lab photo-based virtual environments, medical scanner simulators, 2D and 3D scientific visualization engines, and a what-if surgical simulator.]]></description>
+</project>
+
+<project>
+<title>Music Instinct Project</title>
+<description><![CDATA[The University of Florida’s WUFT was chosen as one of the ten PBS stations nationwide for the Music Instinct grant, working in partnership with the Digital Worlds Institute. Research shows that music has enormous potential to help explore the complexities of human brain function. For example, there’s a strong connection between the auditory and motor regions of the brain, and music seems to engage the motor system in a way that other modalities do not. People with motor disorders like Parkinson’s disease have improved their ability to walk while listening to a rhythm track, and stroke patients who have trouble with speech show signs of improvement when they receive music therapy. And there’s new evidence that music can actually change the physical structure of the brain – a fact that has critical implications for both education and medicine. One thing is clear, proven and agreed upon; music has a profound capacity to influence and alter the human experience.  Major funding for this program provided by the National Science Foundation.]]></description>
+<URL>http://www.pbs.org/wnet/musicinstinct/about/</URL>
+</project>
+
+<project>
+<title>Neuroprosthetic Training System</title>
+<description><![CDATA[<header>
+\n<h3>Neuroprosthetic Training System</h3>
+\n</header>
+\n<div class=full>
+\n
+\nWe are taking a multidisciplinary approach that combines existing and emerging techniques and technologies from Virtual Reality (VR) with Brain-Machine Interfaces to develop Virtual World Environments (VWE) as a training medium to enhance task improvement, stimulate new brain function, and provide a seamless learning transfer from a VR to a real environment. The science developed in this project will lead to a Neuroprosthetic Training System (NETS) that uses Virtual Reality to Treat Paralysis. To create this novel neuroprosthetic rehabilitation system, this project assembles a multidisciplinary team and environment in 4 areas: interactive digital media, biomedical engineering, neuroscience, and rehabilitation.
+\n
+\nPI: <strong>James C. Oliverio</strong>, Professor of Digital Media; Director, Digital Worlds Institute
+\nCo-PI: <strong>Justin C. Sanchez</strong> Assistant Professor of Pediatrics, Neuroscience, Biomedical Engineering
+\nCo-PI: <strong>Jose C. Principe </strong>Distinguished Professor of Electrical and Biomedical Engineering
+\nCo-PI: <strong>Jill Sonke-Henderson</strong>, Director, Center for the Arts in Healthcare; Research Director OTRI
+\n<h4>Abstract from funded NETS Project Proposal</h4>
+\nMore than 2 million individuals in the U.S. suffer from a wide variety of neurological disorders that include spinal cord injury and diseases of the peripheral nervous system. While the symptoms and causes of these disabilities are diverse, there are at least two common characteristics in many of these neurological conditions: functioning of the brain remains intact, and the condition has a profoundly negative effect on the patient’s quality of life. New technologies called Brain-Machine Interfaces (BMI) offer an alternative means of communication and control that can bypass affected pathways of motor function through a direct interface with the brain. Many studies in animals and humans have shown the feasibility of closed-loop neural control, which allow the patient to use their “thoughts” to control prosthetic devices; however, they are often tested in specialized laboratory environments that do not translate well to the real world. <em>While functional proof-of-concept <strong>has been shown</strong>, the impact of BMI in the area of rehabilitation has yet to be realized because they have not been studied in the most appropriate environments where sensory and motor actions can be used to enhance performance. </em>Without a realistic and highly instrumented environment to train the user of the BMI, it is not possible to provide real-time performance feedback in the activities of daily life, graduated exposure to new context specific stimuli, augmented attention, or stimulating motivation for the user. <strong>The development of a new more appropriate environmental context for BMI could revolutionize rehabilitation by providing innovative ways to elicit new brain function that restores meaningful motor ability to disabled patients.</strong>
+\n
+\nTo overcome the noted challenges, we propose a multidisciplinary approach that combines existing and emerging techniques and technologies from Virtual Reality (VR) with Brain-Machine Interfaces to develop Virtual World Environments (VWE) as a training medium to enhance task improvement, stimulate new brain function, and provide a seamless learning transfer from a VR to a real environment. The science developed in this project will lead to a Neuroprosthetic Training System (NETS) that uses Virtual Reality to Treat Paralysis.  NETS would improve recovery by retraining the nervous system to improve motor function and reduce secondary conditions that impair physical or cognitive function. This program of research is enabled through Interactive Digital Media (IDM) coupled with a neuroprosthetic device that operates in real-time and is deployed through direct interaction with the brain. To create this novel <em>neuroprosthetic rehabilitation system</em>, this project assembles a multidisciplinary team in 3 research areas: interactive digital media, biomedical engineering, and neuroscience. This project builds upon the complimentary skillsets of the investigators to create a new and highly interdisciplinary collaborative partnership.
+\n
+\nThrough the formation of the Neuroprosthesis Program and Workshop in the past eleven years, the National Institutes of Health (NIH) National Institute of Neurological Disorders and Stroke (NINDS) has identified <em>neuroprosthetic rehabilitation</em> as a potential emergent area that is likely to impact the future of rehabilitation. Other significant sources of continued funding include the NSF, the DoD, the NIH, the Veterans Administration, as well as the prosthetics industry and medical technologies industries at large.
+\n
+\nIn summary, the impact of BMI in the area of rehabilitation has yet to be realized because they have not been studied in the most appropriate environments where sensory and motor actions can be used to enhance performance: <em>Virtual World Environments</em>. Without a rich interactive environment, the time needed to learn to control can be long and the level of mastery of function can be diminished. The development of the NETS rehabilitation system to reduce the time that it takes for a user to reach a specified performance level would be profoundly enabling to the millions of patients worldwide who currently suffer from spinal cord injury and diseases of the peripheral nervous system.
+\n
+\n</div>]]></description>
+</project>
+
+<project>
+<title>Non Divisi</title>
+<description><![CDATA[<h4>Non Divisi, an International Distributed Collaboration in the Performing Arts</h4>
+\nOn October 15, 2003 the University of Florida's Digital Worlds Institute offered two performance/demonstrations of the real-time distributed collaboration Non Divisi (a musical term meaning not divided) joining co-creators from three continents at the Indiana State Museum for Internet2 Fall 2003.
+\n
+\nDancers in Korea rehearsed and performed with musicians, dancers and engineers in North and South America to demonstrate how telepresence can effectively empower multi-national collaborations in the performing arts. These performances were part of the ongoing work of Digital Worlds in growing an international network of Access Grid nodes and Internet2 members interested in creating new works of multi-national music and dance. Other partners included <a href=http://www.kaist.edu/ target=_blank rel=noopener noreferrer>Korean Advanced Institute of Technology (KAIST)</a>, <a href=http://www.sejong.edu/ target=_blank rel=noopener noreferrer>Sejong University</a>, <a href=http://www.reuna.cl/ target=_blank rel=noopener noreferrer>Red Universitaria Nacional (REUNA)</a>, and <a href=http://www.mdc.edu/nwsa/ target=_blank rel=noopener noreferrer>New World School of the Arts (NWSA)</a> with major support from Staff at <a href=http://www.internet2.org/ target=_blank rel=noopener noreferrer>Internet2</a>.]]></description>
+</project>
+
+<project>
+<title>One Hand Clapping</title>
+<description><![CDATA[<h4>World Premiere Performances of *One Hand Clapping*</h4>
+\nDancers from Miami’s <a href=http://www.mdc.edu/nwsa/ target=_blank rel=noopener noreferrer>New World School of the Arts</a> and Musicians from the <a href=http://www.arts.ufl.edu/music/ target=_blank rel=noopener noreferrer>University of Florida’s School of Music</a> opened the Merce in Miami festivities with the premiere performances of the site-specific piece *One Hand Clapping* in the Ziff Ballet Opera House’s Arthur F. and Alice E. Adams Foundation lobby.
+\n
+\nThe large-scale environmental event was created by New World Choreographer Dale Andree in collaboration with the UF Digital Worlds Institute’s multi-media composer James Oliverio.]]></description>
+</project>
+
+<project>
+<title>Pangea and the Age of the Dinosaurs</title>
+<description><![CDATA[]]></description>
+</project>
+
+<project>
+<title>Pruitt Sculpture</title>
+<description><![CDATA[<h4>Sculpture for the J. Crayton Pruitt family Department of Biomedical Engineering</h4>
+\nDigital Worlds created and managed an interdisciplinary team of artists and designers to create an original sculpture given to Dr. J. Crayton Pruitt. The sculpture was presented during a ceremony announcing his major gift of $10 million to the UF College of Engineering’s <a href=http://www.bme.ufl.edu/ target=_blank rel=noopener noreferrer>Biomedical Engineering Department</a>. DW artist in residence Arturo Sinclair worked with UF sculptor Brad Smith to create this distinctive work of alabaster and surgical vanadium steel.
+\n
+\nPruitt's gift is among the largest cash gifts received by UF. It is eligible for matching funds from the State of Florida Major Gift Trust Fund, which could result in a $20 million endowment for the newly named J. Crayton Pruitt Family Department of Biomedical Engineering.]]></description>
+</project>
+
+<project>
+<title>RISK</title>
+<description><![CDATA[<h4>Using Digital Technology for At-Risk youth</h4>
+\nDrug and alcohol use are consistently associated with the occurrence of sexually transmitted diseases (STDs), including HIV. Despite this link, interventions designed to reduce substance use are rarely implemented in clinical settings where the prevalence of STDs and HIV is high (e.g., STD clinics). Brief interventions have proven effective in reducing hazardous drinking and drug use; however they are rarely integrated into clinical practice due to barriers at individual and organizational levels. We proposed that the ideal intervention should incorporate the successful components of brief motivational interviewing and should make use of interactive digital media and game features to enhance interest and acceptability, and should be easily adaptable within clinical settings.]]></description>
+</project>
+
+<project>
+<title>SciPath</title>
+<description><![CDATA[[embed]https://vimeo.com/44670105[/embed]
+\n<h4>Exploring the Frontiers with UF Scientists</h4>
+\nA series of short videos featuring accomplished professors of various areas of science (and their current University students) were created to inform and motivate young students in elementary and middle school to take an interest in careers in science.]]></description>
+</project>
+
+<project>
+<title>Second Life College Fair 2008</title>
+<description><![CDATA[Thanks to today’s rapidly evolving digital landscape, the ability to transcend traditional boundaries over the Internet is increasingly being utilized for not only social and business purposes but for educational advancement as well. Realizing this, the online world of Second Life hosted a virtual College Fair on November 16, 2008 that gave colleges and universities around the world the opportunity to promote their digital programs in a single shared virtual venue.
+\n
+\nThis College Fair allotted each of the participating institutions a parcel of virtual real estate for a “booth” to display its digital media program.  To take advantage of this globally accessible online showcase, the University of Florida (UF) Digital Worlds Institute assembled an interdisciplinary team of staff and students to create an interactive presence for UF on Second Life’s Information Island.
+\n
+\nCreating the booth for the College Fair required the same kind of interdisciplinary collaboration that fuels Digital Worlds’ research and development projects, and underlies the philosophy of its Master of Arts in Digital Arts and Sciences (DAS) degree.
+\n
+\nThe Digital Worlds (DW) team members came from diverse academic backgrounds and experiences, yet were able to work together effectively over the course of just a few weeks to create the interactive virtual booth, which featured video-on-demand and interactive posters.
+\n
+\nThe first team member was Lisa Hope, DW’s Digital Media Specialist, a UF graduate with a B.S. in Journalism and Communications, specializing in Online Media.  Her passion for writing and moviemaking led her to pursue interactive digital media; and her background in marketing and production, news and graphic design, and web-based media made her an ideal candidate for her position at Digital Worlds.
+\n
+\nIn contrast, Christian Tassin, Project Manager at DW, has a B.A. in English Literature and a M.S. in Entrepreneurship from the Warrington College of Business.  Tassin was attracted to the development of new technologies and how they evolve from university labs to marketable products. Before coming to DW, he wrote a business plan as part of a program called Integrated Technology Venture (ITV), where business and engineering students, professors, and industry professionals created a virtual company around patented UF inventions.  A recommendation from his ITV mentor led to his present position at Digital Worlds.
+\n
+\nMr. Gabriel Munoz-Calene is a second-year law student at UF with a B.A. from NYU, where he participated in the study Video as a Tool for Social Change.  He has great enthusiasm for digital video and virtual content and is also very interested in the use of digital media tools to provide a competitive advantage in the global marketplace.  His summer job with DW was extended into this school year as he continues to assist with research and the development of digital content.
+\n
+\nLeading the design of the UF booth was Joshua Javaheri, who has also worked as a professional video game developer at Ignition Entertainment Studios in Gainesville.  His strong interest in interactive technologies provided the catalyst that propelled him to pursue a career in computer entertainment and sciences.  He is currently a fifth-year DAS Engineering major who became involved with DW while working on his senior project: UF's First Virtual Campus Environment.
+\n
+\nAll four team members actually view their differences as an advantage that allows them to specialize in various aspects of a project, while at the same time applying their diverse skillsets to a common result, in this case the UF booth at the College Fair.  To them, interdisciplinary teams tend to create an exciting environment full of dynamic feedback. Chris Tassin put it best when he said, “Peers from different disciplines help you to gain new insights or expose you to new experiences that you may not have even known about.  People from divergent backgrounds can look at a problem from different perspectives and work together to create a better solution than one that could have been generated by a group of like-minded people.”
+\n
+\nWhether bridging the boundaries between academic disciplines, classrooms, continents or cultures, the UF Digital Worlds Institute remains dedicated to providing students an interdisciplinary platform upon which they can build their own career paths into the 21st Century.]]></description>
+</project>
+
+<project>
+<title>The Faux Taxi</title>
+<description><![CDATA[<h4>The Faux Taxi - Sound Image Light In Collaborative Arts</h4>
+\nThe first emanation of ++silica entity took place April 3, 2003 at the 12th annual Florida Electro-acoustic Festival. This incarnation of ++silica entity, brainchild of Patrick Pagano, a graduate student in the Digital Arts and Sciences, featured a unique collaboration with undergraduate wunderkind, Adam Portnow, a senior in the Digital Arts and Sciences program. The presentation included immersive 5.1 digital audio paired with Access Grid technology to deliver high quality video from the Digital Worlds Institute laboratory in CISE 413 to the Phillips Center for the Performing Arts Black Box Theater in real time.
+\n
+\n++silica entity, the performance vehicle of SILICA, was an interdisciplinary ensemble of transmedia DAS sound &amp; video designers operating as a portable television show- AmbienTV. Real-time distributive performances were to be regarded as periodic episodics. Free in performing conception but directed by a shared pallet of audio and video source material, ++silica entity attempted to explore generative audio and video collaboration worldwide. Rehearsed by a shared structure process, then released into specified parameters to interact, ++silica entity existed only during performance, redefining 'improvisation' as it pertained to distributive &amp; collaborative digital works.]]></description>
+</project>
+
+<project>
+<title>The Messenger</title>
+<description><![CDATA[<h4>The Pittsburgh Symphony Orchestra presented The Messenger</h4>
+\n<em>A Collaborative Work with new Music Visualization Technology</em>
+\n
+\n<strong>The Messenger</strong> was specially commissioned by the PSO for soloist <strong>Timothy Adams</strong>. It was a Concerto for Batterie (an old French term with no English equivalent, referring to both timpani and percussion instruments). The soloist actuated the images created by <strong>Steve Walker</strong> (Director of Visual Effects at Turner Studios in Atlanta) as he performed the new orchestral score by <strong>James Oliverio</strong> (Director of the <strong>Digital Worlds Institute</strong> at the <strong>University of Florida</strong>). The computer programming by <strong>Andy Quay</strong> (Associate Director, Digital Worlds ) utilized new music visualization techniques being developed at the <strong>Digital Worlds Institute</strong>.
+\n
+\n<strong>As Performed by The Pittsburgh Symphony Orchestra:</strong>
+\n
+\nJames Oliverio - <em>Music and Concept</em>
+\nOsmo Vanska - <em>Conductor</em>
+\nTimothy Adams - <em>Soloist</em>
+\nAndy Quay - <em>Computer Programming</em>
+\nSteve Walker - <em>Digital Visualization</em>]]></description>
+</project>
+
+<project>
+<title>The Pigskin Professor</title>
+<description><![CDATA[[embed]https://vimeo.com/44391398[/embed]
+\n<h4>The Pigskin Professor, Engineering Around Us</h4>
+\nProfessor Tony Schmitz combined his love of football with mechanical engineering in a series of episodes that showed how engineering pervades our daily lives. These videos, which were shown during the six home football games for the 2003 season, reached a diverse audience of over 84,000 fans at each game and provided a unique opportunity to discuss engineering in a high-profile forum. Using amusing classroom and gridiron-based scenarios, the Pigskin Professor cleverly demonstrated how engineering processes and results permeate our daily existence.
+\n
+\nThe highly entertaining episodes highlighted topics including: nanotechnology, light energy, heat transfer, and kinetic energy. Project principals included Tony Schmitz (writer and on-camera talent), Greg Sawyer (on-camera foil), Arturo Sinclair (director and animator), Marc Hoit (producer), Joella Walz (associate producer) and James Oliverio (executive producer).]]></description>
+</project>
+
+<project>
+<title>Time to Fly Away</title>
+<description><![CDATA[<h4></h4>
+\n[embed]https://vimeo.com/44468125[/embed]
+\n<h4>DW Produces Time to Fly Away: for all-College Commencement</h4>
+\nTime to Fly Away was a tribute to the University of Florida Class of 2004. This five-minute digital media production premiered April 30th at the Convocation ceremony on Reitz Union Lawn for over 4,000 people. It included compelling interviews with students from the graduating class, original music by University students Lanae Hale and Gloria Castellon, and a live performance by Ms. Hale.*]]></description>
+</project>
+
+<project>
+<title>Timpani Master Class</title>
+<description><![CDATA[<h4>World's First Distributed Timpani Master Class</h4>
+\nThe University of Florida's Digital Worlds Institute and Miami's New World Symphony co-hosted the world's first distributed timpani Master Class between the Atlanta Symphony and the New World Symphony. Both timpanists saw and heard each other over DVD quality video links with stereo CD quality audio in real time.
+\n
+\nThe University of Florida's Digital Worlds Institute and Miami's New World Symphony co-hosted the world's first distributed timpani Master Class between Atlanta Symphony timpanist Mark Yancich (located at the UF Digital Worlds Institute in Gainesville, Florida) and timpanist Alex Orfaly of the New World Symphony (located in Miami, Florida). The Master Class was based on performance preparations for Oliverio's Timpani Concerto #1 (The Olympian) with all audio and video transmitted over high-quality Internet2 during the session.
+\n
+\nBoth timpanists saw and heard each other over DVD quality video links with stereo CD quality audio in real time. Online observers around the world were also able to tune into a simultaneous webcast of the Master Class. UF percussion professor Dr. Ken Broadway and his students were present at the Digital Worlds REVE to observe the Master Class interaction.
+\n<h4>Mark C. Yancich - Timpanist</h4>
+\nPrincipal Timpanist of the Atlanta Symphony Orchestra since 1981, Mark Yancich is also active as a clinician, chamber musician, soloist, music publisher and at Emory University where he annually hosts the Mark Yancich Timpani Class each January, as well as The Atlanta Percussion (TAP) Seminar each June. He can be heard on over 95 recordings with the Atlanta Symphony, including most of the great choral/orchestral repertoire with Robert Shaw conducting. This is Mr. Yancich's first appearance at the University of Florida, Gainesville.
+\n
+\nMark is featured on the performance video of the recital version of James Oliverio's Timpani Concerto #1, and can also be seen on the Art of Timpani educational videos entitled, Changing and Tuning Plastic Timpani Heads with Mark Yancich, Tucking Calfskin Timpani Heads with Cloyd Duff, and the recently released (October 2003) video Sewing Felt Timpani Sticks.]]></description>
+</project>
+
+<project>
+<title>Truth Be Told: Pirates</title>
+<description><![CDATA[[embed]https://vimeo.com/64726337[/embed]]]></description>
+</project>
+
+<project>
+<title>Virtual Enviroments for Therapeutic Solutions</title>
+<description><![CDATA[<h4>Healing the Wounded Warrior</h4>
+\n<ul>
+\n 	<li><strong>Charles Levy, </strong>Chief of Physical Medicine and Rehabilitation, Malcolm Randall VA Medical Center (MRVAMC)</li>
+\n 	<li><strong>James Oliverio, </strong>Director, Digital Worlds Institute (DW), Co-Director, Office for Transdisciplinary Research and Innovation (OTRI), University of Florida</li>
+\n 	<li><strong>Jill Sonke, </strong>Director, Center for the Arts in Healthcare (CAHRE), Co-Director, Office for Transdisciplinary Research and Innovation (OTRI), University of Florida</li>
+\n</ul>
+\n<strong>Preamble</strong>
+\nThrough a grant from the US Department of Commerce, the partners listed above have conceptualized and mobilized a major initiative to support returning Iraq war veterans through online virtual reality-based therapeutic, psychosocial, and vocational interventions.  The project focuses on therapeutic rehabilitation and re-integration of wounded warriors into their families, communities, and the workforce.
+\n
+\n<strong>Background and Rationale</strong>
+\nA staggering 31% of soldiers returning from active duty in Afghanistan or Iraq and seen in veterans administration medical centers between 2001-2005 were diagnosed with mental health or psychosocial conditions1.  The prevalence of Post Traumatic Stress Disorder (PTSD) and Mild Traumatic Brain Injury (MTBI) in returning combat veterans is estimated at 20%, and the Defense and Veterans Brain Injury Coalition estimates that roughly 40% of injured warriors suffer from MTBI2.  It is estimated that a significant number of additional veterans suffering from such disorders go undiagnosed and untreated3.
+\n
+\nOften the most troubling symptoms of Post Traumatic Stress Disorder (PTSD) and Mild Traumatic Brain Injury (MTBI) are behavioral: mood changes, depression, anxiety, impulsiveness, emotional outbursts, intolerance of crowds, hyper-vigilance or inappropriate laughter. Other symptoms include disturbances in attention and memory, as well as delayed reaction time during problem-solving. Behavioral therapy, a mainstay of successful rehabilitation, generally requires that veterans be able to organize and negotiate daily activities, travel considerable distances, and interact with individuals in public to meet scheduled appointments - the very areas where impairments may be most profound. An additional barrier to rehabilitation for many returning combat soldiers is generational. Many younger warriors feel uncomfortable entering veterans administration medical centers, where both the patients and health care providers are older, and may be perceived as unsympathetic or unable to understand the issues of newly returning warriors.
+\n
+\nCurrently, there is not a widely recognized and effective treatment procedure to allow returning veterans to successfully re-integrate into the society they fight to defend. Yet there is compelling evidence that the use of virtual reality can contribute greatly to cognitive and affective rehabilitation and recovery4-6. A recent article (Oct. 6, 2007) on the front page of The Washington Post, entitled “Real Hope in Virtual Worlds: Online Identities Leave Limitations Behind”, describes how an increasing number of major health organizations are taking advantage of virtual worlds for public health education and patient support, and that many disabled individuals are “getting their lives back” through virtual world engagement7.
+\n
+\nVirtual World Environments (VWEs) hold great potential to solve many of the problems limiting effective treatment, support, and reintegration of wounded combat veterans into their families and into American society.  Internet-based VWEs are readily accessible from home at the user’s convenience. But unlike the public internet, the content of the VETS interaction can be carefully structured, controlled, and monitored by medical professionals. Many younger warriors are not only familiar with, but actually comfortable and fluent in, virtual realities through their exposure to electronic gaming and virtual combat training programs.  Although there are compelling precedents for the potential use of virtual reality-based scenarios8, not enough research and development has been undertaken to fully utilize today’s online virtual worlds to develop effective therapeutic interventions for veterans.
+\n
+\n<strong>Innovation</strong>
+\nThis VETS initiative combines current digital technologies, clinical expertise, and focused testing to create an accessible and effective 21st century approach to the increasingly urgent problem of PTSD and MTBI in returning service-disabled veterans.
+\n
+\n<strong>Technology</strong>
+\nVirtual World Environments are easily accessible, intuitive, and effective forms of virtual reality that provide secure real-time interaction between multiple users via the Internet. The VETS project will develop and test a novel online VWE platform that will serve as the basis for development and delivery of real-time interactive therapeutic treatment modalities. These readily accessible VWEs provide both psychosocial and psychoeducational interventions and vocational training for service disabled veterans suffering from PTSD/MTBI. The system will embody a unique capability to constantly enhance its efficacy based on user input, including user-designed content, clinical outcomes, and general use patterns. Thus, VWEs show great potential to augment or replace conventional treatment of PTSD/MTBI in returning combat veterans.
+\n
+\n<strong>Expertise</strong>
+\nThe VETS project utilizes the expertise of a unique interdisciplinary team consisting of Malcolm Randall Veterans Administration Medical Center physicians specializing in physical medicine, rehabilitation, psychiatry, and psychology, as well as specialists from UF’s Digital Worlds Institute, Center for the Arts in Healthcare, the UF Health Sciences, and College of Engineering. This team will collaborate to ensure that the system platform and modalities are clinically, technically, and functionally relevant, and likewise appropriate, to the current treatment needs of wounded warriors.  UF’s Digital Worlds Institute, an international leader in digital technology innovation, will lead development of the system.
+\n
+\n<strong>Accessibility</strong>
+\nVWE interventions can be accessed not only during traditional sessions in the offices of healthcare providers, but also from a computer in the privacy of warriors’ homes. In many cases this can reduce or even eliminated the need for recurring travel to a distant medical facility. They provide opportunities for interaction with others in a fully immersive, more controlled, and less threatening virtual environments, and capitalize on pre-existing technological skillsets possessed by many warriors in their 20s and 30s. VWEs can also provide veterans with 24-hour on-demand access to therapeutic modalities, as opposed to the ordinary business hours of healthcare workers. The potential applications of this system are far-reaching in this regard.
+\n
+\n<strong>Objectives</strong>
+\nThe overarching aim of the VETS project is to build working prototypes of VWEs that are conceptually sound and ready for testing and refinement in clinical trials with combat veterans.  Three VWE applications will be modeled within this project:
+\n<ul>
+\n 	<li>Therapeutic Modalities that allow health professionals to interact with patients individually and in groups via the Internet.  The VWE will allow veterans to remotely participate in the creation of their own therapeutic environment using “avatars” (visual representations of themselves) with real-time text and audio communication. It is anticipated that this delivery platform will increase participation, accessibility, and acceptance of therapeutic interaction by warriors;</li>
+\n 	<li>Therapeutic Simulations of ordinary social and vocational challenges to allow veterans to practice problem-solving in virtual real-life scenarios. Participants will be able to review the consequences of decisions, and get direct and immediate feedback regarding choices and responses. Unlike real life, they will have multiple opportunities to learn to deal with challenging situations with <em>no penalty for failure</em>; and</li>
+\n 	<li>Vocational Tools and Creative Learning Modules for the development of digital media skillsets that are increasingly in demand for the workforce of the 21st Century. As the American job market moves from traditional service and manufacturing industries to digital and creativity-based professions, skills in 3D modeling, animation and graphical environments are increasingly sought after. One of the potential outcomes of VWE-assisted therapy is an increased fluency in both the tools and techniques of computer-based interactive media skillsets. We continue to develop our partnership with Navigator Development Group (National Disabled American Veterans (DAV) Small Employer of the Year 20079) and educational programs such as the Advanced Visualization and Interactive Design Center10 to develop and implement programs that are not only therapeutic but also accompanied by a significant vocational component.</li>
+\n</ul>
+\n<strong>Expected Outcome</strong>
+\nThe proposed VWE-based system platform and modalities will effectively augment conventional treatment of PTSD/MTBI in returning combat veterans. It is scalable to regional, state and national levels and will significantly enhance our country's ability to deliver therapeutic and vocational support services to returning warriors as an appropriate reward and recognition of their tremendous sacrifice.
+\n<h4>References Cited</h4>
+\n<ol>
+\n 	<li>Seal, K.H., Bertenthal, D., Miner, C.R., Sen, S., Marmar, C. (2007). Bringing the war back home: mental health disorders among 103,788 US veterans returning from Iraq and Afghanistan seen at Department of Veterans Affairs facilities.  Arch Intern Med., 167(5):476-82.</li>
+\n 	<li>[No authors listed] (2006). The neurological burden of the war in Iraq and Afghanistan. Ann Neurol., 60(4):A13-5</li>
+\n 	<li>Reeves R.R. (2007). Diagnosis and management of posttraumatic stress disorder in returning veterans. J Am Osteopath Assoc. 107(5):181-9.</li>
+\n 	<li>Rose, F.D., Brooks, B.M. &amp; Rizzo, A.A. (2005). Virtual Reality in Brain Damage Rehabilitation: Review. CyberPsychology &amp; Behavior. 8(3):241-262.</li>
+\n 	<li>Rothbaum BO, Hodges LF, Ready D, Graap K, Alarcon RD (2001). Virtual reality exposure therapy for Vietnam veterans with posttraumatic stress disorder.  J Clin Psychiatry, 62(8):617-22.</li>
+\n 	<li>Josman N, Somer E, Reisberg A, Weiss PL, Garcia-Palacios A, Hoffman H. (2006). BusWorld: designing a virtual environment for post-traumatic stress disorder in Israel: a protocol. Cyberpsychol Behav., 9(2):241-4.</li>
+\n 	<li>Stein, R. (2007). Real Hope in Virtual Worlds: Online Identities Leave Limitations Behind.  Washington Post.  Oct 6, 2007 edition, pg A01.</li>
+\n 	<li>Halpern, S (2008). VIRTUAL IRAQ: Using simulation to treat a new generation of traumatized veterans. Annals of Psychology, The New Yorker. August 28, 2008. <a href=http://www.newyorker.com/reporting/2008/05/19/080519fa_fact_halpern?currentPage=all target=_blank rel=noopener noreferrer>http://www.newyorker.com/reporting/2008/05/19/080519fa_fact_halpern?currentPage=all</a></li>
+\n 	<li><a href=http://www.ndgi.com/index.php?option=com_content&amp;view=article&amp;id=86&amp;Itemid=100 target=_blank rel=noopener noreferrer>http://www.ndgi.com/index.php?option=com_content&amp;view=article&amp;id=86&amp;Itemid=100</a></li>
+\n 	<li><a href=http://www.i3dtrain.com/about.html target=_blank rel=noopener noreferrer>http://www.i3dtrain.com/about.html</a></li>
+\n</ol>]]></description>
+</project>
+
+<project>
+<title>Virtual Heritage</title>
+<description><![CDATA[<h4>Extending Virtual Heritage Beyond the Local Site, Creating An International Digital Network</h4>
+\nProfessor James Oliverio and DAS Graduate student Reeti Sompura presented a paper titled Extending Virtual Heritage Beyond the Local Site at the 9th International Conference on Virtual Systems and Multimedia (VSM 2003) in Montreal, Canada. The theme of the conference was “Hybrid Realities: Art, Technology and the Human Factor”.
+\n
+\n<strong>Abstract</strong>
+\nBuilt heritage (i.e. Architecture) is said to be one of the finest forms of human endeavor. Perhaps the idea of capturing time in a tangible form first prompted people to build monuments in a quest for immortality. Given the passage of time, however, there has been significant decay and loss of these historic structures. It is crucial that we preserve our past so that current and future generations can share in our common heritage. But given the widespread geographic locations of cultural heritage sites throughout the world, it is doubtful that any one individual would be able to visit every one of them. Concurrently, even though digital technology is allowing teams around the globe to model (and thus preserve) a number of these sites, there is not a standard format in which these models are built and viewed.]]></description>
+</project>
+
+<project>
+<title>Virtual Learning Forest</title>
+<description><![CDATA[Virtual environments for experiential learning have many applications in sciences with laboratory-based training sessions. Some of the key advantages of such tools are: 1) cost-efficiency compared to real laboratories, 2) safety: the students can familiarize themselves with the proper laboratory safety procedures in a virtual setting before they go to an actual laboratory, and 3) accessibility, which is also important for distance education.
+\n
+\nFor forestry education, experiential learning systems show much potential for offering immersive experiences that simulate environmental areas including forests [Bec09], as well as virtual laboratory tools and processes [JBB<sup>+</sup>10] that simulate traditional real-world teaching and training methodologies. Such an educational interactive virtual reality system, named <em>Virtual Learning Forest</em>, was presented in [JBB<sup>+</sup>10] and offers visual simulation of longleaf pine ecosystems.
+\n
+\nThe target audience for Virtual Learning Forest is mainly undergraduate natural resource students. More specifically, the system has been tested by undergraduate forestry students in sampling, mensuration, and silviculture classes at the University of Florida and Virginia Polytechnic Institute and State University.  The students were involved with testing and evaluating the virtual environment during the development of various phases of this product. The fully-implemented version of a 3D Virtual Learning Forest based on the longleaf pine ecosystem was presented in [JBB<sup>+</sup>10]. In addition to the tridimensional simulation of this ecosystem, the virtual environment simulates several traditional tools and instruments for measuring the diameter of the trees (Fig. 3), the distance of the student from a specific tree, as well as the height of the longleaf pine trees. Finally, the system is connected to a database that records the progress of the students in various virtual laboratory exercises that simulate traditional laboratory methodologies and measure how students react to the virtual system and how this impacts their learning experience.
+\n
+\nThe target audience for Virtual Learning Forests will ultimately be undergraduate natural resource students at universities worldwide.  The immediate audience during the life of this project will be undergraduate forestry students in sampling, mensuration, and silviculture classes at the University of Florida (UF) and Virginia Polytechnic Institute and State University (Virginia Tech).  These students will be involved with testing and evaluating the product during the development of the first phase of this product. The goal during the 24 month life of this project will be to develop a first (<em>beta</em>) version of a 3D Virtual Learning Forest in a virtual world environment (VWE) based on the longleaf pine ecosystem, and to measure how students react to it and how it impacts their learning experience.]]></description>
+</project>
+
+<project>
+<title>Voyage to Tomorrow</title>
+<description><![CDATA[<h4>Voyage to Tomorrow, A Multi-media Suite in Three Movements</h4>
+\nA three-movement symphonic suite performed live to an original digital movie created by the UF Digital Worlds Institute incorporating dramatic time-lapse cinematography, 3D computer animation and imagery from historic Renaissance paintings and sculptures.
+\n
+\n<strong>Voyage to Tomorrow<em> </em></strong>was specially commissioned for the kickoff of the University of Florida’s Capital Campaign, and received its Gainesville community world premiere with the School of Music Concert Choir, featuring six vocal soloists and an original digital media presentation. The innovative collaboration provided the grand finale for an exciting evening of live music that began at 7:30 p.m., Thursday, Oct. 18 in the University Memorial Auditorium.
+\n
+\n<strong>Voyage<em> </em></strong>was created by Digital Worlds Institute’s composer-in-residence James Oliverio, and featured a three-movement symphonic suite with live chorus and vocal soloists under the baton of conductor Will Kesling. It was performed live to an original digital movie created by the UF Digital Worlds Institute incorporating dramatic time-lapse cinematography, 3D computer animation and imagery from historic Renaissance paintings and sculptures.
+\n
+\n“The entire piece is a 21st century symphonic-scale composition, composed not only of the musical notes but also of the imagery, which was also designed to tell the story of mankind's long fascination with light as a metaphor for wisdom,” said James Oliverio, director of the Digital Worlds Institute.
+\n
+\nA special pre-concert dialogue with the composer and conductor was scheduled for 7 p.m. in the Auditorium. The public was welcomed and encouraged to attend.
+\n
+\n+ <a href=https://digitalworlds.ufl.edu/site/assets/files/91934/oct18pressrelease.pdf>Press Release</a>
+\n
+\n<strong>Digital Worlds Media Production Team</strong>
+\n
+\nJoella Wilson - <em>Compositor and Project Manager</em>
+\nArturo Sinclair - <em>Digital Artist and Designer</em>
+\nAndy Quay <em>- Technical Director</em>
+\nLisa Hope - <em>Digital Media Specialist</em>
+\nLindsay Amat - <em>Production Assistant</em>
+\nSteve Walker - <em>Animation and Film</em>
+\nWilliam VanDerKloot - <em>Time-lapse Cinematography</em>
+\nBill Beckett<em> - Choral Recording Engineer</em>
+\nKenneth Lovell - <em>Orchestral Recording Engineer</em>
+\nJames Oliverio - <em>Composer and Project Director</em>
+\nWill Kesling - <em>Conductor, UF Concert Choir</em>]]></description>
+</project>
+
+<project>
+<title>VWE Working Group</title>
+<description><![CDATA[<strong>Virtual World Environments (VWE) Working Group</strong>
+\n
+\nIn the Spring of 2008 a university-wide working group was convened to study the potential uses of Virtual World Environments (VWEs) in research and education at the University of Florida. Active participants came from nearly three-quarters of UF’s sixteen colleges and affiliated units. The group met three times over the course of the Spring semester at the Digital Worlds Institute’s Research, Education and Visualization Environment.
+\n
+\nEach of the Academic Deans was asked to recommend one person from their College to serve as their representative on the VWE Working Group. Additionally, Directors from a number of UF entities that showed an early interest in these technologies were also invited to send a representative. College representatives were given demonstrations of two existing VWE technologies: Linden Labs’ Second Life (SL) and Forterra Systems’ On-Line Interactive Virtual Environment (OLIVE).
+\n
+\nMany of the participants were not familiar with both of these VWEs, so both were demonstrated to afford all participants an equal opportunity to evaluate aspects of the various platforms. The participants were asked to speak with their colleagues across the departments of their respective colleges to ascertain levels of potential interest in the use of VWEs in their programs.
+\n
+\nThe initial reports of each of these representatives has been gathered and formatted herein. All of the images were captured from the two existing Second Life islands (referred to as the <a href=https://digitalworlds.ufl.edu/academics/digital-worlds-institute/research-projects-services/projects/research/gator-nation-island/>UF Islands</a>) constructed and currently maintained by the Digital Worlds Institute.
+\n
+\nAdditionally, the Spring 2008 section of the Interdisciplinary Research Seminar was asked to provide feedback on the use of VWEs from the student perspective. This diverse class consisted of nearly three dozen graduate students from across the UF campus, and a brief overview of their work and final projects for the semester is included herein. While we are at a relatively nascent stage in the awareness, acceptance and application of VWEs, numerous federal agencies, international corporations and universities are already exploiting the potential of this emergent suite of technologies.
+\n
+\nThe fact that so many of UF’s diverse colleges and units sent representatives to substantively participate in this effort is encouraging, and bodes well for UF’s potential adoption and implementation of these early 21st century opportunities.  As a result, the VWE Working Group moved forward with a Phase 2 in the 2008/09 academic year to further explore the potential for creative and collaborative use of these technologies at the University of Florida.]]></description>
+</project>
+
+<project>
+<title>World House</title>
+<description><![CDATA[[embed]https://vimeo.com/44465360[/embed]
+\n<h4>WORLD HOUSE: Connecting the Global Community</h4>
+\nOn the 40th anniversary of Martin Luther King Jr.’s assassination, the technology he lamented had overshadowed the human spirit was used to power four interactive global webcasts that transcend race, class, nation and religion.
+\n
+\nThe University of Florida’s Digital Worlds Institute in cooperation with King’s alma mater Morehouse College in Atlanta kicked off the first of four interactive global webcasts at 10 a.m. EDT on Friday, April 4, when experts from UF and Morehouse, along with institutions in China, India, Kenya and South Africa, discussed and shared in real-time King’s meaning for the 21st century, said James Oliverio, director of UF’s Digital Worlds Institute. The other three programs were also scheduled at 10 a.m. on successive Fridays in April, and all could be viewed at <a href=http://www.worldhouse.morehouse.edu/ target=_blank rel=noopener noreferrer>www.worldhouse.morehouse.edu</a>.
+\n
+\nIn his “World House” speech upon accepting the Nobel Peace Prize, King said “modern man has brought this whole world to an awe-inspiring threshold of the future. He has reached new and astonishing peaks of scientific success. He has produced machines that think….yet, in spite of these spectacular strides in science and technology, and still unlimited ones to come, something basic is missing. There is a sort of poverty of the spirit which stands in glaring contrast to our scientific and technological abundance.”
+\n
+\nThe UF-Morehouse international conversation used technology to bridge that divide, Oliverio said. “We’re going to have a cultural exchange, a scholarly dialogue and a motivational call to action for the students of today to carry forward the work of Dr. Martin Luther King Jr., who proceeded with the nonviolent resistance movement of Mahatma Gandhi in India and influenced Nelson Mandela in South Africa,” he said. “Using technology to literally connect places across the globe simultaneously, we will create a shared virtual space around the world on the network and have performances and workshops over that global platform.”
+\n
+\nThe outreach developed from a collaboration between UF and Morehouse College, the recipient of about 10,000 pieces of Martin Luther King Jr.’s personal writings in 2006. Terry Mills, a former UF dean who moved to Morehouse in 2007 to become the Margaret Mitchell Marsh Dean of Humanities and Social Sciences, said the idea came in discussions he had with Oliverio about how the two institutions might use the acquisition in educational programming.
+\n
+\nThe innovativeness of the technology at Digital Worlds Institute, which Mills called the “Imac Theater of Videoconferencing” for its ability to allow multiple partners around the globe to engage in an interactive, unified virtual space, made UF the natural choice to help produce the program, he said. “There are also geographic and historical reasons for the connection, notably Gainesville’s close proximity to St. Augustine where Dr. King had led freedom marches as well as its location near the site of the Rosewood massacre,” Mills said.
+\n
+\nThe purpose of the global discussions was not only to remind the world of King’s legacy but to keep his vision alive, as his message continues to have relevance today, Oliverio said.
+\n
+\n“This is a memorial to Dr. King, not just in the sense of looking backward to some academic papers in a museum, but honoring his life’s work in the hopes that students of today at Morehouse, UF and the other participating institutions will reassess their involvement with their own societies in the same way that Dr. King took a stand against oppression of African Americans in the United States,” he said. “Even at the beginning of the 21st-century human kind is still butchering each other in tribal conflicts over economic materialism and resources.”
+\n
+\nAlthough King’s “I Have a Dream” speech is well-known among college students, many are not familiar with the “World House” concept mentioned in his 1964 Nobel Peace Prize speech and his writings where he discusses the need to fight racism, war and poverty, he said.
+\n
+\nThe topic of the April 4th 90-minute session was King’s challenge to citizens in “transcending tribe, race, class, nation and religion to embrace the vision of World House.”  Speaker presentations as well as performances by artists, dancers and musicians were planned from each participating location, which, besides UF and Morehouse, included the U.S. Embassy in Beijing, China, the Maharaja Sayajirao University of Baroda in India; Kenyatta University in Nairobi, Kenya; and the U.S. Embassy in Johannesburg, South Africa. UF presenters from the Digital Worlds Institute’s Research, Education and Visualization Environment in 101 Norman Hall included Dr. Stephanie Evans, an African American studies and women’s studies professor, and drummer Mohamed DaCosta, a lecturer in UF’s College of Fine Arts School of Theatre and Dance. The 60-minute April 11 session featured UF social anthropologist Dr. Faye Harrison and poet Sharon Burney of UF’s African American Studies Program.]]></description>
+</project>
+
+<project>
+<title>Virtual reality rehabilitation for ICU patients</title>
+<description><![CDATA[<iframe src=https://www.youtube.com/embed/8A2_ScKBquM?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen data-mce-fragment=1></iframe>
+\n
+\nWhile virtual reality technology is gaining popularity in a variety of contexts from video games to fitting rooms, researchers at the University of Florida are discovering how VR can improve the quality of life of patients in the intensive care units of hospitals.
+\n
+\nUF Digital Worlds Institute Associate Director and Associate Professor Marko Suvajdzic and his team of researchers from digital arts and sciences, bioengineering, psychology and health have developed a VR technology project that is shown to alleviate the pain that ICU patients suffer.
+\n
+\nICU patients experience a variety of stresses and pains in the hospital, including isolation and witnessing tragedies. Moreover, their painkillers often trigger more stress and anxiety.
+\n
+\nAccording to Suvajdzic, previous studies have shown that meditation can be helpful in relieving stress. His team’s project, the Digital Rehabilitation Environment Augmenting Medical System (DREAMS), provides patients with guided meditations to help maintain their mental health in ICU.
+\n<blockquote>“The idea behind DREAMS was to provide a more humane experience to the patients in the ICU unit in a hospital,” Suvajdzic said.</blockquote>
+\nIn the experiment, patients used a VR headset to choose a scene they prefer and follow guided instructions to start the meditation. After various trials, Suvajdzic found that participants are most likely to choose the beach mode.
+\n
+\n“The sense of ‘presence’ has been transported from the reality of hospital to the virtual reality of this beach,” Suvajdzic said.
+\n
+\nBy doing so, the VR system takes patients out of the environment of the ICU that causes stress, anxiety and other negative effects on mental health.
+\n
+\nUnder the supervision of Suvajdzic and his colleague from the UF College of Medicine Dr. Azra Bihorac, the DREAMS team accomplished three trials by February 2019 with 60 ICU patients.
+\n
+\nBesides developing its own apps, the DREAMS team also incorporated some existing meditation apps into the system. In the initial exploratory trial started in early 2018, the team found that some video aspects of the system were not interactive enough.
+\n
+\n“Some of them were difficult to be interactive,” Suvajdzic said. “Some of them may have aspects that some patients didn’t like. So it really helped us hone in on the best system.
+\n
+\nSuvajdzic illustrated that an ideal version of the interactive VR system would employ gamification techniques that positively reinforce meditation behaviors for patients.
+\n
+\nOne example he gave was building a garden. At the beginning of the VR meditation, patients would see a garden with no plants. Every time patients adjust their breath to the level that the meditation recommends, the system would reward them by growing plants gradually.
+\n
+\nOnce patients finish the meditation and meet the breath control and relaxation goals, they would be able to see a beautiful garden in front of them, which Suvajdzic said could imply the rehabilitation of their bodies.
+\n<blockquote>“In the way that the garden becomes a metaphor for their own body, as they get calm, their own body gets to feel better,” Suvajdzic said. “So it gives the person that visualization of the process that is happening internally to them as they are practicing meditation through virtual reality.”</blockquote>
+\nThe DREAMS team is looking for larger, external grants to build a fully customizable app, in which it will create a more customized video to fit the environment of the ICU. In the future, when the system is developed enough, hospitals from all over the world would be able to purchase and implement it in their intensive care units.
+\n
+\nLooking ahead, Suvajdzic said researchers could potentially apply these ideas to designing and developing similar products for other situations, such as pediatrics and end-of-life care.
+\n
+\nSuvajdzic presented the DREAMS project as part of a talk he gave at Google in August about Emerging Technologies and Humanity.
+\n<iframe src=https://www.youtube.com/embed/cSu37-UNP5k?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen data-mce-fragment=1></iframe>]]></description>
+</project>
+
+<project>
+<title>3D Scanning the Rosetta Stone</title>
+<description><![CDATA[Use 1-finger and 2-finger gestures to move, rotate, and zoom the 3D model of the Rosetta Stone below:
+\n<iframe src=https://research.dwi.ufl.edu/op.n/file/2fzrs3i2cvas964f/embed width=1200px height=600px frameborder=0 scrolling=no></iframe>
+\n
+\nWith the permission of the British Museum, an interdisciplinary team from the University of Florida and the University of Leipzig scanned the Rosetta Stone in June 2018 to generate a high-resolution 2D and 3D map of its inscribed surface. In our setup, we used a single DSLR camera (Nikon D3400), which was fixed on a tripod in front of the stone, and calibrated as follows: exposure time = 5 sec., ISO speed = ISO-100, F-stop = f/25, focal length = 135mm, and max aperture = 4.5. To reconstruct the tridimensional inscribed surface using the shape-from-shading method, we controlled the lighting of the stone using a handheld light wand (Ice Light) that served as a 15-inch long light source of 1600 lumen at 5600k color temperature.
+\n
+\nWe divided the artifact in 8 regions (4 rows and 2 columns), which were photographed individually at 6000 x 4000 pixel resolution. Each region was photographed in 4 different lighting directions (light from the left, top, right, bottom) by placing the light wand in the corresponding side of the region of interest. This quadri-directional lighting configuration allowed us to capture information related to the local orientation at each point of the surface through the differences of the light reflection observed in the corresponding four photographs. The entire scanning session, including opening the glass case of the artifact, setting up the equipment, digitizing the artifact, and putting everything in its original configuration before the opening of the museum took us 120 min.
+\n
+\nDuring this time 32 photographs were taken in total (8 regions x 4 lighting conditions), which were then processed to compose high-resolution 2D and 3D representations of the surface with 0.08141mm sampling frequency, which is equivalent to 312 DPI resolution. The tridimensional details of the inscribed surface were captured in the depth map, which was computed by processing the four corresponding images of the same region of interest illuminated with four different lighting orientations using the method by A. Barmpoutis, E. Bozia, and R. Wagman published in the Journal of Machine Vision and Applications 21(6) in 2010. The depth map contains detailed three-dimensional information of the inscribed surface so that it can be visualized in 3D. The 3D reconstructed surface can be rendered as an interactive 3D model that can be manipulated by the user (move, scale, rotate) and can be inspected under different virtual lighting orientations and shading methods.
+\n
+\nFinally, in addition to the 3D reconstruction of the inscribed surface, we used a hand-held laser scanner (Structure Sensor by Occipital) mounted on a tablet computer (iPad Air by Apple) in order to create a 3D model of the entire stone. Although the 3D model generated by this scanner can depict the overall shape of the entire artifact, it does not have enough resolution to capture the fine details of the inscribed surface. Therefore, the 3D reconstructed surface using shape-from-shading is complementary to the laser-scanned 3D model, as both of these forms can co-exist in order to depict different structural details of the artifact.
+\n
+\nThe result of this process is a high resolution 3D representation of the Rosetta Stone that is available on-line as an interactive web app and can be accessed through the project's website.
+\n
+\nIn November 2019, the project was featured in German news outlets: <a href=https://www.mdr.de/wissen/stein-von-rosette-digital-leipzig-100.html>https://www.mdr.de/wissen/stein-von-rosette-digital-leipzig-100.html</a>]]></description>
+<URL>https://research.dwi.ufl.edu/projects/rosettastone</URL>
+<Funding>UF College of the Arts Research Incentive Award\, 2018.</Funding>
+</project>
+
+<project>
+<title>Word Work Mat App for literacy instruction</title>
+<description><![CDATA[<iframe src=https://www.youtube.com/embed/CPgzP6SXouk?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen data-mce-fragment=1><span data-mce-type=bookmark style=display: inline-block; width: 0px; overflow: hidden; line-height: 0; class=mce_SELRES_start>﻿</span></iframe>
+\n
+\nDuring the COVID-19 pandemic, education has been severely impacted across the globe.
+\nOngoing class sessions are especially important for K-12 students, many of whom benefit
+\nespecially from experiential learning that is not typically offered in ad hoc online settings. UF
+\nDigital Worlds Institute professor Angelos Barmpoutis is working in partnership with the UF
+\nLiteracy Institute (UFLI) to address this world-wide need with an innovative virtual platform
+\nsolution.
+\n
+\nThe Virtual Word Work Mat (VWWM) is an interactive app designed for literacy instruction,
+\nbased on the original physical classroom version of the Word Work Mat created by UF doctoral
+\nstudent Valentina Contesse. Valentina stated, “I never imagined when I was making Word Work
+\nMats for my first graders, using file folders and Velcro, that it could be transformed into a
+\ndigital tool that teachers all over the world would use in their classrooms!”
+\n
+\nAccording to Facebook analytics, just two days after its release date the VWWM had already
+\nreached more than 70,000 people, with more than 6,000 engagements and 300 shares. And
+\nUFLI’s online engagement increased by more than 1000 subscriptions during the same period.
+\nCreating and offering ready access to the Virtual Word Work Mat during pandemic lockdown
+\nhas empowered teachers and students continue their literacy instruction as part of their on-line
+\nlearning activities. Designed to work on tablet and other devices using the either iOS or Android
+\nplatforms, VWWM provides a simple user interface in which students can manipulate letter and
+\nphoneme cards with intuitive touch gestures and compose words at home.
+\n
+\nHolly Lane, Director of UFLI said, “We’re so excited about the partnership between the UF
+\nLiteracy Institute and Digital Worlds in our response to the pandemic. Thanks to the
+\ncommitment and technical expertise of Angelos Barmpoutis, we were able to take some our
+\ninteractive literacy instruction materials and bring them to life on a virtual platform. The
+\nresponse from teachers has been overwhelmingly positive. We have many thousands of
+\nteachers accessing the materials and sharing the links on social media.”
+\n
+\nThis excitement is shared by Digital Worlds Director James Oliverio. “One of the great benefits
+\nof experiential online learning is accessibility across the traditional challenges of demographics,
+\ngeography, and time zones. This project is an example of the interdisciplinary strengths of the
+\nUniversity of Florida; faculty stepping up in a time of need to provide tangible benefits from the
+\nongoing research and development happening across our campus.”
+\n
+\nUFLI Director Lane also stated, “Together, UFLI and DW are making a difference for teachers
+\nand their students. We hope this is just the beginning of our collaboration!”
+\n
+\n<strong>Sample Comments from Parents and Teachers:</strong>
+\n
+\nI used this for the first time yesterday in my virtual reading lesson with my struggling readers.
+\nTheir response was priceless. They were so engaged and actively asking me to change the
+\nletters and make new words”
+\n
+\nThis has been amazing for my daughter with a severe Auditory Processing Disorder and
+\ndysgraphia. Thank you!!!
+\n
+\nThis is amazing— thank you! Can’t wait to share with my teachers!
+\n
+\nThis is immeasurably helpful!!!!
+\n
+\n<strong>Press Release by the UF College of the Arts:</strong>
+\n
+\n<a href=https://arts.ufl.edu/in-the-loop/news/digital-worlds-institute-researcher-creates-experiential-online-learning-app/>https://arts.ufl.edu/in-the-loop/news/digital-worlds-institute-researcher-creates-experiential-online-learning-app/</a>
+\n
+\n<strong>Links to the App:</strong>
+\n
+\nTry the Virtual Word Work Mats below:
+\n
+\n<strong>Beginner Word Work Mat</strong>
+\nDirect link: <a href=https://research.dwi.ufl.edu/op.n/file/cbhd8xmn9i4ctf7i/embed>Beginner Word Work Mat</a>
+\nDrag and drop the letter cards below:
+\n<iframe src=https://research.dwi.ufl.edu/op.n/file/cbhd8xmn9i4ctf7i/embed width=1200px height=600px frameborder=0 scrolling=no></iframe>
+\n
+\n<strong>Intermediate Word Work Mat</strong>
+\nDirect link: <a href=https://research.dwi.ufl.edu/op.n/file/gc8nkxns914enc7d/embed>Intermediate Word Work Mat</a>.
+\nDrag and drop the letter cards below:
+\n<iframe src=https://research.dwi.ufl.edu/op.n/file/gc8nkxns914enc7d/embed width=1200px height=600px frameborder=0 scrolling=no></iframe>]]></description>
+<URL>https://education.ufl.edu/ufli/virtual-teaching/main/instructional-activities/decoding-and-encoding/word-work/</URL>
+</project>
+
+</projects>
+</data>
