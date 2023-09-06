@@ -16,30 +16,11 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 !function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 ]]></script>
 <script type="text/javascript">
-function showProduct(id)
+function showProduct(url)
 {
+    if(url)if(url.length!=0)window.location.href = url;
 	document.getElementById("products").style.display="none";
-	document.getElementById("products_header").style.display="none";
-	document.getElementById(id).style.display="block";
-	showDescription(id);
-}
-function showDescription(id)
-{
-	document.getElementById(id+'-tab-description').style.display="block";
-	document.getElementById(id+'-tab-additional_information').style.display="none";
-	document.getElementById(id+'-tab-citation').style.display="none";
-}
-function showInfo(id)
-{
-	document.getElementById(id+'-tab-description').style.display="none";
-	document.getElementById(id+'-tab-additional_information').style.display="block";
-	document.getElementById(id+'-tab-citation').style.display="none";
-}
-function showCitation(id)
-{
-	document.getElementById(id+'-tab-description').style.display="none";
-	document.getElementById(id+'-tab-additional_information').style.display="none";
-	document.getElementById(id+'-tab-citation').style.display="block";
+	document.getElementById("products_header").innerHTML="Loading Profile...";
 }
 function startup()
 {
@@ -185,9 +166,14 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                         Primary Menu</span>
                                      <i class="ham"></i>
                             </span>
-                            <div class="menu main-menu"><ul id="primary-menu" class="menu menu-desktop"><li id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a href="labs.xml">Labs</a></li>
-<li id="menu-item-228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228"><a href="projects.xml">Projects</a></li>
-<li id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-229"><a href="publications.xml">Publications</a></li>
+                            <div class="menu main-menu"><ul id="primary-menu" class="menu menu-desktop">
+                            
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="projects.xml">Projects</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="publications.xml">Publications</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="repositories.xml">Repositories</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="labs.xml">Labs</a></li>
+
+
 </ul></div>                        </nav><!-- #site-navigation -->
                     </div>
                 </div>
@@ -202,243 +188,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
    
    
 
-<xsl:for-each select="data/presons/person">
 
-<div id="{id}" class="post-614 product type-product status-publish has-post-thumbnail product_cat-publications first instock shipping-taxable purchasable product-type-simple" style="display:none;">
-        <div class="storecommerce-product-summary-wrap clearfix">
-           <div class="product-summary-wrapper">
-                <div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 1; transition: opacity 0.25s ease-in-out 0s;">
-
-	<figure class="woocommerce-product-gallery__wrapper">
-		<div data-thumb-alt="" class="woocommerce-product-gallery__image" style="position: relative; overflow: hidden;">
-		<img width="600" height="452" src="style/server-450x450.jpeg" class="wp-post-image" alt="" decoding="async"/>
-		</div>	
-	</figure>
-</div>
-            </div>
-            <div class="summary entry-summary">
-                <h1 class="product_title entry-title"><xsl:value-of select="title"/></h1><div>by <xsl:value-of select="author"/><br/><br/><i><xsl:value-of select="journal"/></i>
-				<xsl:choose>
-        <xsl:when test="volume"><xsl:value-of select="volume"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="number">(<xsl:value-of select="number"/>)</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="month">, <xsl:value-of select="month"/>, <xsl:value-of select="year"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="pages">, pp. <xsl:value-of select="pages"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>. 
-  <xsl:choose>
-        <xsl:when test="doi"><a href="{doi}"><xsl:value-of select="doi"/></a></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-				 <br/><br/></div><a href="{doi}"><div class="woocommerce-product-details__short-description"><button name="add-to-cart" value="87" class="button alt" style="background:#f00;border-color:#f00;">Download PDF</button></div></a>
-	
-
-
-	
-<div class="product_meta">
-	<span class="posted_in">Category: <a href="index.xml?publications" rel="tag">Publications</a></span>
-</div>
-            </div>
-        </div>
-
-        
-	<div class="woocommerce-tabs wc-tabs-wrapper">
-		<ul class="tabs wc-tabs" role="tablist">
-							<li class="description_tab active" id="tab-title-description" role="tab" aria-controls="tab-description">
-					<a onclick="showDescription('{id}')">
-						Description					</a>
-				</li>
-							<li class="additional_information_tab" id="tab-title-additional_information" role="tab" aria-controls="tab-additional_information">
-					<a onclick="showInfo('{id}')">
-						Additional information					</a>
-				</li>
-							<li class="citation_tab" id="tab-title-citation" role="tab" aria-controls="tab-citation">
-					<a onclick="showCitation('{id}')">
-						Citation					</a>
-				</li>
-					</ul>
-	<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="{id}-tab-description" role="tabpanel" aria-labelledby="tab-title-description" style="">
-				
-	<h2>Description</h2>
-<p>
-<xsl:choose>
-        <xsl:when test="description"><xsl:value-of select="description"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-</p>
-			</div>
-	
-	<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--additional_information panel entry-content wc-tab" id="{id}-tab-additional_information" role="tabpanel" aria-labelledby="tab-title-additional_information" style="display: none;">
-				
-	<h2>Additional information</h2>
-
-<table class="woocommerce-product-attributes shop_attributes">
-			<tbody>
-			
-<xsl:choose>
-        <xsl:when test="author">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Author</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="author"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="journal">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Journal</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="journal"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="volume">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Volume</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="volume"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="number">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Number</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="number"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="month">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Month</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="month"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="year">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Year</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="year"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="pages">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Pages</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="pages"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="doi">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">DOI</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="doi"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-			
-
-	</tbody></table>
-			</div>
-					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--citation panel entry-content wc-tab" id="{id}-tab-citation" role="tabpanel" aria-labelledby="tab-title-citation" style="display: none;">
-				
-	<h2>Citation</h2>
-
-<h1>Citation</h1><div>
-
-<xsl:value-of select="author"/> (<xsl:value-of select="year"/>), <xsl:value-of select="title"/>, <i><xsl:value-of select="journal"/></i>
-				<xsl:choose>
-        <xsl:when test="volume"><xsl:value-of select="volume"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="number">(<xsl:value-of select="number"/>)</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="month">, <xsl:value-of select="month"/>, <xsl:value-of select="year"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="pages">, pp. <xsl:value-of select="pages"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>. 
-  <xsl:choose>
-        <xsl:when test="doi"><a href="{doi}"><xsl:value-of select="doi"/></a></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-
-<br/><br/></div>
-
-<h1>BibTex</h1><pre>@article{<xsl:value-of select="id"/>,<br/>
-<xsl:choose>
-        <xsl:when test="author">author = {<xsl:value-of select="author"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="title">title = {<xsl:value-of select="title"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="journal">journal = {<xsl:value-of select="journal"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="month">month = {<xsl:value-of select="month"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="year">year = {<xsl:value-of select="year"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="pages">pages = {<xsl:value-of select="pages"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-}</pre>			</div>
-		
-			</div>
-
-
-
-    </div>
-
-
-</xsl:for-each>
 
                 <header id="products_header" class="woocommerce-products-header">
                     <h1 class="woocommerce-products-header__title page-title">People</h1>    
@@ -454,7 +204,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         <div class="product-wrapper show-on-hover">
                 <div class="product-image-wrapper">
             <div class="horizontal">
-                            <a href="people.xml?id={id}">
+                            <a href="people.xml?id={url}">
                 <xsl:choose>
             <xsl:when test="image"><img src="img/{image}"/></xsl:when>
             <xsl:otherwise><img src="img/laptop.jpg"/></xsl:otherwise>
@@ -473,7 +223,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                  People
                              </a>
                         </li></ul>            </span>
-            <h4 class="product-title"><a href="people.xml?id={id}"><xsl:value-of select="title"/></a></h4>
+            <h4 class="product-title"><a href="people.xml?id={url}"><xsl:value-of select="title"/></a></h4>
             
         </div>
     </div>

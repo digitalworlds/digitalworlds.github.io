@@ -4,34 +4,36 @@
 <categories>
 
 <category>
-<title>Publications</title>
-<url>publications.xml</url>
-<image>publications.jpg</image>
-</category>
-
-<category>
 <title>Projects</title>
 <url>projects.xml</url>
 <image>projects.jpg</image>
 </category>
 
 <category>
-<title>People</title>
-<url>people.xml</url>
-<image>labs.jpg</image>
-</category>
-
-<category>
-<title>Labs</title>
-<url>labs.xml</url>
-<image>labs.jpg</image>
+<title>Publications</title>
+<url>publications.xml</url>
+<image>publications.jpg</image>
 </category>
 
 <category>
 <title>Repositories</title>
 <url>repositories.xml</url>
-<image>publications.jpg</image>
+<image>JTSS2018.png</image>
 </category>
+
+<category>
+<title>People</title>
+<url>people.xml</url>
+<image>people.jpg</image>
+</category>
+
+<category>
+<title>Labs</title>
+<url>labs.xml</url>
+<image>CEVA2015.jpg</image>
+</category>
+
+
 
 </categories>
 </data>

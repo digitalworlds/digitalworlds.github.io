@@ -185,9 +185,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                         Primary Menu</span>
                                      <i class="ham"></i>
                             </span>
-                            <div class="menu main-menu"><ul id="primary-menu" class="menu menu-desktop"><li id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a href="labs.xml">Labs</a></li>
-<li id="menu-item-228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228"><a href="projects.xml">Projects</a></li>
-<li id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-229"><a href="publications.xml">Publications</a></li>
+                            <div class="menu main-menu"><ul id="primary-menu" class="menu menu-desktop">
+
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="projects.xml">Projects</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="publications.xml">Publications</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="repositories.xml">Repositories</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="labs.xml">Labs</a></li>
+
 </ul></div>                        </nav><!-- #site-navigation -->
                     </div>
                 </div>
