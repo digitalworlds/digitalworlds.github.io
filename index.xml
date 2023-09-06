@@ -21,5 +21,17 @@
 <image>labs.jpg</image>
 </category>
 
+<category>
+<title>Labs</title>
+<url>labs.xml</url>
+<image>labs.jpg</image>
+</category>
+
+<category>
+<title>Repositories</title>
+<url>repositories.xml</url>
+<image>publications.jpg</image>
+</category>
+
 </categories>
 </data>

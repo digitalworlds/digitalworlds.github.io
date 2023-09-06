@@ -2,11 +2,11 @@
 <html xsl:version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <link rel="icon" href="https://research.dwi.ufl.edu/favicon.ico"/>
-	<link rel="apple-touch-icon" href="https://research.dwi.ufl.edu/favicon.png"/>
+    <link rel="icon" href="favicon.ico"/>
+	<link rel="apple-touch-icon" href="favicon.png"/>
 	<meta name="msapplication-TileColor" content="#ffffff"/>
 	<meta name="msapplication-TileImage" content="/favicon.png"/>
-	    <title>Publications – Digital Worlds Research</title>
+	    <title>People – Digital Worlds Research</title>
 <meta name="robots" content="max-image-preview:large"/>
 <link rel="dns-prefetch" href="https://static.addtoany.com/"/>
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/"/>
@@ -102,11 +102,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <style id="storecommerce-woocommerce-style-inline-css" type="text/css">
 @font-face {
 			font-family: "star";
-			src: url("https://research.dwi.ufl.edu/wp-content/plugins/wooacademia/assets/fonts/star.eot");
-			src: url("https://research.dwi.ufl.edu/wp-content/plugins/wooacademia/assets/fonts/star.eot?#iefix") format("embedded-opentype"),
-				url("https://research.dwi.ufl.edu/wp-content/plugins/wooacademia/assets/fonts/star.woff") format("woff"),
-				url("https://research.dwi.ufl.edu/wp-content/plugins/wooacademia/assets/fonts/star.ttf") format("truetype"),
-				url("https://research.dwi.ufl.edu/wp-content/plugins/wooacademia/assets/fonts/star.svg#star") format("svg");
 			font-weight: normal;
 			font-style: normal;
 		}
@@ -122,18 +117,14 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <script type="text/javascript" src="./style/jquery.min.js" id="jquery-core-js"></script>
 <script type="text/javascript" src="./style/jquery-migrate.min.js" id="jquery-migrate-js"></script>
 <script type="text/javascript" src="./style/script.js" id="wpcee_frontend_js-js"></script>
-<link rel="https://api.w.org/" href="https://research.dwi.ufl.edu/wp-json/"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://research.dwi.ufl.edu/xmlrpc.php?rsd"/>
-
-	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	
-	
-	</head>
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>	
+</head>
 
 <body class="archive tax-product_cat term-publications term-16 theme-storecommerce woocommerce woocommerce-page woocommerce-js hfeed default-content-layout full-width-content woocommerce-active" onload="startup();">
 
 
 <div id="page" class="site">
-    <a class="skip-link screen-reader-text" href="https://research.dwi.ufl.edu/list/publications/#content">Skip to content</a>
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
     <section id="above-banner-section-wrapper" class="above-banner section">
             </section>
 
@@ -163,9 +154,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                                     </ul>
                             </div>
                                                                             <div class="top-bar-right inside-float col-3 float-l ">
-                                <div class="social-navigation"><ul id="social-menu" class="menu"><li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158"><a href="https://research.dwi.ufl.edu/list/projects/"><span class="screen-reader-text">Projects</span></a></li>
-<li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-159"><a href="https://research.dwi.ufl.edu/list/publications/" aria-current="page"><span class="screen-reader-text">Publications</span></a></li>
-<li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160"><a href="https://research.dwi.ufl.edu/list/people/"><span class="screen-reader-text">People</span></a></li>
+                                <div class="social-navigation"><ul id="social-menu" class="menu"><li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158"><a href="projects.xml"><span class="screen-reader-text">Projects</span></a></li>
+<li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-159"><a href="publications.xml" aria-current="page"><span class="screen-reader-text">Publications</span></a></li>
+<li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160"><a href="people.xml"><span class="screen-reader-text">People</span></a></li>
 <li id="menu-item-238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238"><a href="https://www.digitalworlds.ufl.edu/institute-information/contact-information/"><span class="screen-reader-text">Contact</span></a></li>
 <li id="menu-item-237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237"><a href="https://www.digitalworlds.ufl.edu/institute-information/about-the-institute/"><span class="screen-reader-text">About</span></a></li>
 </ul></div>                            </div>
@@ -180,50 +171,37 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             <div class="header-left-part">
                 <div class="logo-brand">
                     <div class="site-branding">
-                                                    <h3 class="site-title"><a href="https://research.dwi.ufl.edu/" rel="home">Digital Worlds Research</a></h3>
-                                                    <p class="site-description">Empowering the world with emerging technologies.</p>
-                                            </div><!-- .site-branding -->
+                            <h3 class="site-title"><a href="index.xml" rel="home">Digital Worlds Research</a></h3>
+                            <p class="site-description">Empowering the world with emerging technologies.</p>
+                        </div><!-- .site-branding -->
                 </div>
             </div>
             <div class="header-middle-right-part">
                 <div class="header-middle-part">
                     <div class="navigation-container">
-
                         <nav id="site-navigation" class="main-navigation">
                                 <span class="toggle-menu" aria-controls="primary-menu" aria-expanded="false">
                                     <span class="screen-reader-text">
                                         Primary Menu</span>
                                      <i class="ham"></i>
                             </span>
-                            <div class="menu main-menu"><ul id="primary-menu" class="menu menu-desktop"><li id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a href="https://research.dwi.ufl.edu/list/labs/">Labs</a></li>
-<li id="menu-item-228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228"><a href="https://research.dwi.ufl.edu/list/projects/">Projects</a></li>
-<li id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-229"><a href="https://research.dwi.ufl.edu/list/publications/" aria-current="page">Publications</a></li>
+                            <div class="menu main-menu"><ul id="primary-menu" class="menu menu-desktop"><li id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a href="labs.xml">Labs</a></li>
+<li id="menu-item-228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228"><a href="projects.xml">Projects</a></li>
+<li id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-229"><a href="publications.xml" aria-current="page">Publications</a></li>
 </ul></div>                        </nav><!-- #site-navigation -->
-
                     </div>
                 </div>
-                <div class="header-right-part">
-                    
-
-                                                            
-                    
-                    
-
-                                    </div>
+                <div class="header-right-part"></div>
             </div>
         </div>
     </div>
 </div>    </header><!-- #masthead -->
-
-    
-    
     <div id="content" class="site-content container-wrapper">
-
-        <nav class="woocommerce-breadcrumb"><a href="index.xml">Home</a>&#160;/&#160;People</nav>
-    
                         <div id="primary" class="content-area">
         <main id="main" class="site-main" role="main">
-        
+   
+   
+
 <xsl:for-each select="data/presons/person">
 
 <div id="{id}" class="post-614 product type-product status-publish has-post-thumbnail product_cat-publications first instock shipping-taxable purchasable product-type-simple" style="display:none;">
@@ -521,69 +499,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <div class="container-wrapper">
                     <div class="row">
                                         <div class="section-body clearfix">
-                        <div class="col-3 float-l pad btm-margi product-ful-wid">
-                            <div class="sale-single-wrap">
-                                                <div class="data-bg data-bg-hover sale-background" data-background="https://research.dwi.ufl.edu/wp-content/uploads/2020/04/dreams_project-936x897.jpeg" style="background-image: url(&quot;https://research.dwi.ufl.edu/wp-content/uploads/2020/04/dreams_project-936x897.jpeg&quot;);">
-                    <a href="https://research.dwi.ufl.edu/list/projects/"></a>
-                </div>
-                <div class="sale-info">
-            <span class="off-tb">
-                <span class="off-tc">
-                                            <span class="product-count"><span class="item-count"></span><span class="item-texts">browse</span></span>
+        
+        
                     
-                    <h4 class="sale-title">Projects</h4>
-
-
-
-                </span>
-            </span>
-
-                </div>
-
-                                        </div>
-                        </div>
-                        <div class="col-3 float-l pad btm-margi product-ful-wid">
-                            <div class="sale-single-wrap">
-                                                <div class="data-bg data-bg-hover sale-background" data-background="https://research.dwi.ufl.edu/wp-content/uploads/2019/12/img_6650_2.480x480.jpg" style="background-image: url(&quot;https://research.dwi.ufl.edu/wp-content/uploads/2019/12/img_6650_2.480x480.jpg&quot;);">
-                    <a href="https://research.dwi.ufl.edu/list/publications/"></a>
-                </div>
-                <div class="sale-info">
-            <span class="off-tb">
-                <span class="off-tc">
-                                            <span class="product-count"><span class="item-count"></span><span class="item-texts">browse</span></span>
                     
-                    <h4 class="sale-title">Publications</h4>
-
-
-
-                </span>
-            </span>
-
-                </div>
-
-                                        </div>
-                        </div>
-                        <div class="col-3 float-l pad btm-margi product-ful-wid">
-                            <div class="sale-single-wrap">
-                                                <div class="data-bg data-bg-hover sale-background" data-background="https://research.dwi.ufl.edu/wp-content/uploads/2022/04/holokey-936x897.jpeg" style="background-image: url(&quot;https://research.dwi.ufl.edu/wp-content/uploads/2022/04/holokey-936x897.jpeg&quot;);">
-                    <a href="https://research.dwi.ufl.edu/list/labs/"></a>
-                </div>
-                <div class="sale-info">
-            <span class="off-tb">
-                <span class="off-tc">
-                                            <span class="product-count"><span class="item-count"></span><span class="item-texts">browse</span></span>
-                    
-                    <h4 class="sale-title">Labs</h4>
-
-
-
-                </span>
-            </span>
-
-                </div>
-
-                                        </div>
-                        </div>
                     </div>
                 </div>
                 </div>
@@ -598,17 +517,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <div class="container-wrapper">
                                                     <div class="col-2 float-l">
                                 <div class="footer-nav-wrapper">
-                                    <div class="footer-navigation"><ul id="footer-menu" class="menu"><li id="menu-item-222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="https://research.dwi.ufl.edu/list/projects/">Projects</a></li>
-<li id="menu-item-223" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-223"><a href="https://research.dwi.ufl.edu/list/publications/" aria-current="page">Publications</a></li>
-<li id="menu-item-224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-224"><a href="https://research.dwi.ufl.edu/list/labs">Labs</a></li>
+                                    <div class="footer-navigation"><ul id="footer-menu" class="menu"><li id="menu-item-222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="projects.xml">Projects</a></li>
+<li id="menu-item-223" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-223"><a href="publications.xml" aria-current="page">Publications</a></li>
+<li id="menu-item-224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-224"><a href="labs.xml">Labs</a></li>
 </ul></div>                                </div>
                             </div>
                         
                                                     <div class="col-2 float-l">
                                 <div class="footer-social-wrapper">
-                                    <div class="social-navigation"><ul id="social-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158"><a href="https://research.dwi.ufl.edu/list/projects/"><span class="screen-reader-text">Projects</span></a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-159"><a href="https://research.dwi.ufl.edu/list/publications/" aria-current="page"><span class="screen-reader-text">Publications</span></a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160"><a href="https://research.dwi.ufl.edu/list/people/"><span class="screen-reader-text">People</span></a></li>
+                                    <div class="social-navigation"><ul id="social-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158"><a href="projects.xml"><span class="screen-reader-text">Projects</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-159"><a href="publications.xml" aria-current="page"><span class="screen-reader-text">Publications</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160"><a href="people.xml"><span class="screen-reader-text">People</span></a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238"><a href="https://www.digitalworlds.ufl.edu/institute-information/contact-information/"><span class="screen-reader-text">Contact</span></a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237"><a href="https://www.digitalworlds.ufl.edu/institute-information/about-the-institute/"><span class="screen-reader-text">About</span></a></li>
 </ul></div>                                </div>
@@ -639,7 +558,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<div class="yith-wcqv-wrapper" style="left: 186px; top: 60px; width: 1000px; height: 598px;">
 		<div class="yith-wcqv-main">
 			<div class="yith-wcqv-head">
-				<a href="https://research.dwi.ufl.edu/list/publications/#" id="yith-quick-view-close" class="yith-wcqv-close">X</a>
+				<a href="#" id="yith-quick-view-close" class="yith-wcqv-close">X</a>
 			</div>
 			<div id="yith-quick-view-content" class="woocommerce single-product"></div>
 		</div>
@@ -743,5 +662,4 @@ var wc_single_product_params = {"i18n_required_rating_text":"Please select a rat
 
 
 <div id="sidr" class="sidr right" style="transition: right 0.2s ease 0s;"></div></body></html>
-
 
