@@ -5,6 +5,8 @@
 
 <publication>
 <id>AHFE2017</id>
+<date>20170709</date>
+<image>AHFE2017.jpg</image>
 <title>Assessing the Effectiveness of Emoticon-Like Scripting in Computer Programming</title>
 <description><![CDATA[<iframe src=https://www.youtube.com/embed/Lsn6bj3X8o8?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
 \n
@@ -20,20 +22,9 @@
 
 
 <publication>
-<title>Reading, Writing, Lexigraphing: Active Passivity as Queer Play in Walking Simulators</title>
-<description><![CDATA[In this article, we address the histories and influences of reading and writing within the genre of digital games called “walking simulators.” Reading is framed as an activity separate from (and, sometimes, incompatible with) the set of actions afforded to players in most game genres. Walking simulators, on the other hand, converge the act of reading and walking in complex ways that expose the playful but putatively inactive action of reading as a disruptive queering. This queering subverts the standard expectation that to count as “player” (and for walking simulatorsto count as games) one must act and produce. We call this subversion “lexigraphing,”our repurposed verb form of Garrett Stewart’s (2006) neologism “lexigraph,” which refers to paintings of written text. Lexigraphing, applied to digital games, describes the seemingly passive action of walking in a gamespace, and reading its texts, as a recursive act of writing reading. We argue that the disruptive “passivity” of lexigraphing operates as a form of queering gamespace, citing J. Jack Halberstam’s (2011) rejection of a world that is constantly doing, acting, and producing. We apply lexigraphing to walking simulators through the lens of queer game studiesas articulated by Bonnie Ruberg and Adrienne Shaw (2017), which invites us to reject limited conceptions of gamic action and participate in a more playful queering. Reading “queer”as a verb is crucial to understanding the feminist and queer actions that walking simulators welcome. With our own verb, lexigraphing, we re-articulate the active passivity of reading-as-writing in walking simulators.]]></description>
-<author>Milligan\, Caleb Andrew, Bohunicky\, Kyle</author>
-<journal>Press Start Journal\, Special Issue: Walking Simulators</journal>
-<volume>5</volume>
-<number>2</number>
-<year>2019</year>
-<URL>https://press-start.gla.ac.uk/index.php/press-start/article/view/136/89</URL>
-<pages>51-71</pages>
-<PDF>Bohunicky_PressStart_2019.pdf</PDF>
-</publication>
-
-<publication>
 <id>VR2016</id>
+<date>20160319</date>
+<image>VR2016.png</image>
 <title>Exploration of Kinesthetic Gaming for Enhancing Elementary Math Education using Culturally Responsive Teaching Methodologies</title>
 <description><![CDATA[In this paper a novel computer-assisted culturally responsive teaching (CRT) framework is presented for teaching mathematics to 5th grade students. The curricular basis for this framework is Gloria JeanMerriex’s award winning curriculum program, which uses music and body gestures to help students build associations between mathematical concepts and culturally inspired metaphors. The proposed framework uses low-cost kinesthetic sensors along with a embodied virtual reality gamimg environment that extends such proven CRT methodologies from a traditional classroom into a digital form. A pilot study was performed to investigate the efficacy of this framework in 5th grade students. A group of 35 students participated in this study and the results are discussed in detail.]]></description>
 <author>Barmpoutis\, Angelos, Ding\, Q., Anthony\, Lisa, Eugene\, Wanda, Suvajdzic\, Marko</author>
@@ -46,15 +37,25 @@
 </publication>
 
 <publication>
+<id>JTSS2018</id>
+<date>20180501</date>
+<image>JTSS2018.png</image>
 <title>A 3D Body Posture Analysis Framework During Merging And Lane Changing Maneuvers</title>
 <description><![CDATA[Although significant advances have been done with respect to vehicle technology and roadway construction, driver behavior remains the number one contributing factor of traffic crashes worldwide. Studies show that one of the major causes of crashes is driver inattention, which may occur when drivers are involved with secondary activities (e.g. texting, talking on the phone, or eating), and when they fail to follow the cues of the surrounding environment while driving. The objective of this study was to develop a method that monitors driver body posture and movements inside the cabin and test it among different drivers when performing merging and lane changing maneuvers, since these types of maneuvers require significant body movement and may also result in unsafe situations. The developed method was applied in a naturalistic setting where 35 drivers were invited to participate. Participants’ 3D body posture was recorded with the use of a low-cost infrared depth sensor (Microsoft Kinect). Participants’ eye gaze was also recorded with the help of an eye-tracking equipment. This paper presents analysis results of 3D body posture in conjunction with the eye tracking information during 236 merging and 287 lane changing maneuvers.]]></description>
 <Funding>US DOT/RITA through STRIDE (Project 2013-051S)\, Alabama Department of Transportation (ALDOT)\, Florida Department of Transportation (FDOT)</Funding>
 <author>Kondyli\, Alexandra, Barmpoutis\, Angelos, Sisiopiku\, Virginia, Zhang\, L., Zhao\, L., Islam\, M. M., Patil\, S. S., Hosuri\, S. Rostami</author>
-<journal>undefined</journal>
+<journal>Journal of Transportation Safety and Security</journal>
+<volume>10</volume>
+<number>5</number>
+<year>2018</year>
+<pages>411-428</pages>
+<doi>https://doi.org/10.1080/19439962.2017.1294226</doi>
 </publication>
 
 <publication>
 <id>AECAI2014</id>
+<date>20140914</date>
+<image>AECAI2014.jpg</image>
 <title>Augmented-reality environment for locomotor training in children with neurological injuries</title>
 <description><![CDATA[In this paper a novel augmented-reality environment is presented for enhancing locomotor training. The main goal of this environment is to excite kids for walking and hence facilitate their locomotor therapy and at the same time provide the therapist with a quantitative framework for monitoring and evaluating the progress of the therapy. This paper focuses on the quantitative part of our framework, which uses a depth camera to capture the patient's body motion. More specifically, we present a model-free graph-based segmentation algorithm that detects the regions of the arms and legs in the depth frames. Then, we analyze their motion patterns in real-time by extracting various features such as the pace, length of stride, symmetry of walking pattern, and arm-leg synchronization. Several experimental results are presented that demonstrate the efficacy and robustness of the proposed methods.]]></description>
 <Funding>NIH/NCATS Clinical and Translational Science Award to the University of Florida UL1 TR000064\, and the University of Florida Informatics Institute Seed Fund Award</Funding>
@@ -70,6 +71,8 @@
 
 <publication>
 <id>TC2013</id>
+<date>20131005</date>
+<image>TC2013.png</image>
 <title>Tensor Body: Real-time Reconstruction of the Human Body and Avatar Synthesis from RGB-D</title>
 <description><![CDATA[Real-time 3D reconstruction of the human body has many applications in anthropometry, telecommunications, gaming, fashion, and other areas of human-computer interaction. In this paper a novel framework is presented for reconstructing the 3D model of the human body from a sequence of RGBD frames. The reconstruction is performed in real time while the human subject moves arbitrarily in front of the camera. The method employs a novel parameterization of cylindrical-type objects using Cartesian tensor and b-spline bases along the radial and longitudinal dimension respectively. The proposed model, dubbed tensor body, is fitted to the input data using a multistep framework that involves segmentation of the different body regions, robust filtering of the data via a dynamic histogram, and energy-based optimization with positive-definite constraints. A Riemannian metric on the space of positive-definite tensor splines is analytically defined and employed in this framework. The efficacy of the presented methods is demonstrated in several real-data experiments using the Microsoft Kinect sensor.]]></description>
 <author>Barmpoutis\, Angelos</author>
@@ -84,15 +87,25 @@
 </publication>
 
 <publication>
-<id></id>
+<id>SHTI2016</id>
+<date>20160401</date>
+<image>SHTI2016.jpg</image>
 <title>Assessment of Haptic Interaction for Home-Based Physical Tele-Therapy using Wearable Devices and Depth Sensors</title>
 <description><![CDATA[<ul>
 \n 	<li>In this paper a prototype system is presented for home-based physical tele-therapy using a wearable device for haptic feedback. The haptic feedback is generated as a sequence of vibratory cues from 8 vibrator motors equally spaced along an elastic wearable band. The motors guide the patients’ movement as they perform a prescribed exercise routine in a way that replaces the physical therapists’ haptic guidance in an unsupervised or remotely supervised home-based therapy session. A pilot study of 25 human subjects was performed that focused on: a) testing the capability of the system to guide the users in arbitrary motion paths in the space and b) comparing the motion of the users during typical physical therapy exercises with and without haptic-based guidance. The results demonstrate the efficacy of the proposed system.</li>
 \n</ul>]]></description>
+<journal>Studies in Health Technology and Informatics, IOS press</journal>
+<month>April</month>
+<volume>220</volume>
+<year>2016</year>
+<pages>33-38</pages>
+<doi>https://doi.org/10.3233/978-1-61499-625-5-33</doi>
 </publication>
 
 <publication>
 <id>STL2015</id>
+<date>20150325</date>
+<image>STL2015.jpg</image>
 <title>Teaching Carolingian Chant with Interactive Software: Theory, Application and Assessment</title>
 <description><![CDATA[The science of teaching/learning and the development of interactive technology are now at a stage where an effective interactive system can be developed for the teaching and learning of the basic vocabulary and grammar of early musical notation systems. Our interdisciplinary team is developing the first such system, in addition to the first assessment tool for evaluating the effectiveness of the system. We propose to offer a presentation session that will include the following: an explanation of the software and the learning research behind it; a demonstrate of the system; an explanation of the assessment process used to determine the effectiveness of the software; an audience participation segment in which audience members will see a short demonstration video regarding a particular segment of the notation work in self-correcting, interactive exercises take an online assessment. Participants in this presentation session will gain an understanding of the benefits of interactive learning; gain an understanding of an assessment process for an interactive learning that also provides a framework for ensuring an unbiased assessment; have an experience of a new interactive software, the principals behind which could be applied to various disciplines.]]></description>
 <author>Schaefer\, Ed, Barmpoutis\, Angelos, Tripp\, Ethan, Quincy\, S. L.</author>
@@ -104,6 +117,8 @@
 
 <publication>
 <id>CEVA2015</id>
+<date>20150707</date>
+<image>CEVA2015.jpg</image>
 <title>Enhancing Global Collaboration Through Network-empowered Live Performance</title>
 <description><![CDATA[Research and development of real-time arts performance systems has been underway at the University of Florida Digital Worlds Institute since 2001. Significant attributes of this research include the successful facilitation of synchronous global-scale performing arts events, the evolution of process and practice for arts and engineering collaborations between multi-point performance sites across the high-speed network, and the development and utilization of a unique toolkit of techniques and technologies. Examples of our global-scale networked performances include: the synchronous musical union of ethnic performers located in seven cities across five continents for 'In Common: Time' at SIGGRAPH 2005; a quartet of modern dancers located in four remote cities across Asia and North American motion-captured and mapped into a single shared Cartesian coordinate space performing on virtual percussion instruments with 3D audio in 'Same Space Same Time' (2010); the integration of multiple remote audiences providing character choices and feedback on their mobile devices (aggregated, visualized and given to the performers in real-time) during a multi-continental performance featuring network-attached Kinect devices driving synchronous representations of the distributed performers in a gaming engine for 'Icons of Innovation' at IDMAA 2012. In addition to developing the methodologies necessary to integrate various traditional and emergent technologies into these multi-faceted real-time performance systems, a number of novel techniques and collaborative relationships have resulted from this work. Using several of our distributed performances as exemplars, we will outline and then detail the esthetic, procedural, technological, and logistic considerations inherent in working with artists, engineers, and media producers across multiple time zones, cultures, and sub-nets. We have learned a considerable number of lessons that can optimize the strategic planning and implementation of distributed performing arts events, and will offer not only background and recommendations for those interested in working in this space, but also examples of the specific tools, techniques and technologies we have developed and integrated into the design and production of this work.]]></description>
 <author>Oliverio\, James, Barmpoutis\, Angelos, Juehring\, Chad, Yudin\, Anton</author>
@@ -116,6 +131,8 @@
 
 <publication>
 <id>APTA2020</id>
+<date>20200212</date>
+<image>APTA2020.jpg</image>
 <title>Custom Virtual Reality System with Real-Time Therapist Interactions to Enhance Home Exercise Performance and Adherence</title>
 <description><![CDATA[Purpose/Hypothesis:
 \nFollowing lower extremity (LE) joint replacement, patients are increasingly prescribed virtual reality-based home exercise programs (HEP). One goal of virtual reality (VR) use is to promote HEP adherence. Exercise adherence, as well as exercise performance, is increased with human interaction and real-time therapist feedback, which is not commonly incorporated in commercially available VR systems. To address these limitations, a custom VR system was developed using an infrared camera for motion tracking, avatar streaming, and real-time remote therapist interactions. The primary aim of this study was to evaluate the use of this custom VR system on HEP performance in adults post LE joint replacement. We also examined patient and therapist opinions of VR system feedback features and ability to improve HEP adherence.
@@ -138,6 +155,8 @@
 
 <publication>
 <id>HC2013</id>
+<date>20130228</date>
+<image>HC2013.jpg</image>
 <title>Digital Epigraphy Toolbox</title>
 <description><![CDATA[<iframe src=https://www.youtube.com/embed/dt1CpBkZDNQ?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
 \n
@@ -153,6 +172,8 @@
 
 <publication>
 <id>HVE2014</id>
+<date>20140701</date>
+<image>HVE2014.png</image>
 <title>Applications of Virtual Environments in Experiential, STEM, and Health Science Education</title>
 <description><![CDATA[This chapter presents examples of utilizing virtual environments for experiential learning and training purposes, with applications to several areas in the Science, Technology, Engineering &amp; Mathematics (STEM), and Health Sciences. The chapter starts with a general introduction to experiential learning, followed by a presentation of various technologies for enhancing the experience in virtual environments. The rest of the chapter is organized into two sections that discuss specific examples of virtual environments for experiential learning and therapeutic medical applications respectively. More specifically, the examples will demonstrate: the use of low-cost haptic devices in virtual environments for learning nanotechnology, experiential learning environments for forest education, the use of virtual reality theaters as an educational tool in the arts and the humanities, virtual environments for therapeutic solutions, interactive tools for treating motor disabilities using brain-computer interface for interaction with virtual environments, and experiential learning applications for microsurgical training using mixed reality and haptic feedback. The chapter concludes with a final section that discusses future research directions.]]></description>
 <author>Barmpoutis\, Angelos, DeVane\, Benjamin, Oliverio\, James</author>
@@ -165,6 +186,8 @@
 
 <publication>
 <id>IG2019</id>
+<date>20190101</date>
+<image>IG2019.jpg</image>
 <title>A Study on Visual Perturbations Effect on Balance in a VR Environment</title>
 <description><![CDATA[Users sometimes lost their balance or even fell down when they played virtual reality (VR) games or projects. This may be attributed to degree of content, high-rate of latency, coordination of various sensory inputs, and others. The authors investigated the effect of sudden visual perturbations on human balance in VR environment. This research used the latest VR head mounted display to present visual perturbations to disturb balance. To quantify balance, measured by double-support and single-support stance, the authors measured the subject's center of pressure (COP) using a force plate. The results indicated that visual perturbations presented in virtual reality disrupted balance control in the single support condition but not in the double support condition. Results from this study can be applied to clinical research on balance and VR environment design.
 \n
@@ -179,6 +202,8 @@
 
 <publication>
 <id>ACCCPHS2018</id>
+<date>20181214</date>
+<image>ACCCPHS2018.jpg</image>
 <title>Center of Pressure Response to Visual Perturbation in Virtual Reality</title>
 <description><![CDATA[Human maintain their balance based on variety of sensory inputs and one of it is visual systems. In this research, authors observed the implementation of Virtual Reality (VR) technology as visual perturbations to distort healthy human’s balance. To support this research, the subject’s center of pressure (COP) was measured using force sensor. The pilot data showed a strong evidence that VR technology would work as visual perturbations to distort healthy human’s balance.]]></description>
 <author>Santoso\, Markus, Phillips\, David</author>
@@ -190,6 +215,8 @@
 
 <publication>
 <id>ICCE2019a</id>
+<date>20190111</date>
+<image>ICCE2019a.jpg</image>
 <title>‘Captain Carroll’: Camera-Movement and Device Orientation based Procedural Object Rendering Approach for Mobile VR Game</title>
 <description><![CDATA[Mobile devices are one of the most promising platforms to bring Virtual Reality (VR) to the mass market in the present day. However, mobile device has a limited computational power compare to the personal computer (PC) meanwhile VR consume a lot of powers during its operational. In this paper, authors developed a mobile VR game, titled Captain Carroll, that employed camera-movement based procedural object rendering approach to make sure that the audience would have a seamless VR gaming experience.
 \n
@@ -206,6 +233,8 @@
 
 <publication>
 <id>ICCE2019b</id>
+<date>20190111</date>
+<image>ICCE2019b.gif</image>
 <title>Single-Support Stance and VR Implementation as Visual Perturbation in Human Balance Assessment</title>
 <description><![CDATA[Human controls their balance through variety of sensors and one of it is visual input. Previous study found that the visual proprioceptive information is more potent than the nonvisual. In this research, authors conducted an experiment on the implementation virtual reality (VR) as visual perturbation combined with single-support stance to distort human's balance. This research focused on the single-support stance where subject stood on their dominant leg during the experiment with VR goggle.
 \n
@@ -221,35 +250,9 @@
 </publication>
 
 <publication>
-<title>The Pro Strats of Healsluts: Overwatch, Sexuality, and Perverting the Mechanics of Play</title>
-<description><![CDATA[Obey or play? In digital games, sex is often confined by medial references and mechanical impositions. Tanya Krzywinska, in “The Strange Case of the Misappearance of Sex in Video Games” (2015), explains that games often obscure representations of sex and minimize playing sex. Game series like Mass Effect (2007 – 2017) use cinematic techniques such as the fade to black to allude to the climax to come, whereas games like Playboy: The Mansion (2005) abstract sex into the act of two characters comically bouncing on each other. And when sex is featured as something for players to perform, it often emerges as a mini-game in which the play is restricted by a series of button inputs, from its origins in the 1990 bedroom of Virtual Valerie (1990) to the more recent versions seen in the God of War (2005 – 2018) games until 2010. Far from an emergent, improvisational process, sexual actions in video games feel decidedly assembled and constructed; consider the Second Life (2003) universe, where sexual positions are purchasable encoded processes within “pose balls” that repeat the same action, over and over again.
-\nYet despite procedural and medial impositions designed to control sexual play in digital games, fan communities have found their own ways to erotically engage within—and outside—the game, playing out their fantasies via emergent mechanics, in-game behavior, fan art, roleplaying, and fanfiction. Building upon prior work from writers like Jenny Sundén exploring how a queer relationship within and outside World of Warcraft (2004) responded and implemented mechanics of play (2012), or Stephen Greer’s analysis of how to “play queer” within digital worlds (2013), this paper focuses on one such community surrounding the game Overwatch (2016), a competitive team-based shooter. While Overwatch has cultivated a massive fan community who are drawn to its diverse and non-normative characters, Blizzard Entertainment, the game’s developer, has been decidedly coy about the sexualities (and sexual habits) of its cast, making only a few nods via comics and other supplemental media to their love lives. As a Teen-rated cartoonish shooter meant to welcome the maximum number of consumers, little within its designed world of play would seem to acknowledge sex.]]></description>
-<author>Bohunicky\, Kyle, Youngblood\, Jordan</author>
-<journal>Widerscreen\, Special Issue on Sexuality and Play</journal>
-<volume>1</volume>
-<number>2</number>
-<year>2019</year>
-<pages>1-26</pages>
-<URL>http://widerscreen.fi/numerot/2019-1-2/the-pro-strats-of-healsluts-overwatch-sexuality-and-perverting-the-mechanics-of-play/</URL>
-<PDF>Bohunicky_Youngblood_1_2_2019.pdf</PDF>
-<ISSN>1795-6161</ISSN>
-</publication>
-
-<publication>
-<title>Ecomods: An Ecocritical Approach to Game Modification</title>
-<description><![CDATA[As systems that model complex relationships, digital games encourage players to enact Morton's ecological thought through the actions players perform within the game world. Yet these representations, as Alenda Chang (2011) has noted, commit at least one if not all of the following missteps in their realization of in-game environments: relegating environment to background scenery, relying on stereotyped landscapes, and predicating player success on extraction and use of natural resources (58). In other words, the flora and fauna players find are often reduced to non-interactive set pieces, thereby stripping actions of the ecological and environmental impact they could have. Despite these problems, ecocritical approaches to digital games have sought to re-assert the significance of connections between game ecologies and their environmental representations by tracing cultural associations (Bianchi, Barton), and by investigating problems with materiality and waste (Apperley and Jayemanne). This essay builds on these approaches by considering “modding,” short for “modifications,” as an area for ecocritical intervention in the flattening of games' environmental representations. Specifically, this essay examines the thriving environmental modding communities around Bethesda Softworks’ The Elder Scrolls V: Skyrim. Although some of the mods released for Skyrim emphasize visual enhancements, others re-connect players to the game’s ecology and environment in meaningful ways]]></description>
-<author>Bohunicky\, Kyle</author>
-<journal>Ecozon@\, European Journal of Literature\, Culture and Environment: Green Computer and Video Games</journal>
-<volume>8</volume>
-<number>2</number>
-<year>2017</year>
-<pages>72-87</pages>
-<URL>http://ecozona.eu/issue/view/124</URL>
-<PDF>Bohunicky_ecozona2017.pdf</PDF>
-</publication>
-
-<publication>
 <id>HCII2020a</id>
+<date>20200719</date>
+<image>HCII2020a.jpg</image>
 <title>Assessing the Role of Virtual Reality with Passive Haptics in Music Conductor Education: A Pilot Study</title>
 <description><![CDATA[<iframe src=https://www.youtube.com/embed/0wY5gh8elq4?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
 \n
@@ -279,6 +282,8 @@
 
 <publication>
 <id>HCII2020b</id>
+<date>20200719</date>
+<image>HCII2020b.jpg</image>
 <title>Virtual Kayaking: A study on the effect of low-cost passive haptics on the user experience while exercising</title>
 <description><![CDATA[<iframe src=https://www.youtube.com/embed/QiO9ZzyffAY?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
 \n
@@ -309,6 +314,8 @@
 
 <publication>
 <id>VR2020a</id>
+<date>20200322</date>
+<image>VR2020a.png</image>
 <title>A Comparative Analysis of 3D User Interaction: How to Move Virtual Objects in Mixed Reality</title>
 <description><![CDATA[This study explores three hand-interaction techniques, including the gaze and pinch, touch and grab, and worlds-in-miniature interaction. Overall, a comparative analysis reveals that the WIM provided the best usability and task performance than other studied techniques. We also conducted in-depth interviews and analyzed participants’ hand gestures. Gesture analysis reveals that shapes of furniture, as well as its perceived features such as weight, largely determined the participant’s instinctive form of hand interaction. Based on these findings, we present design suggestions that can aid 3D interaction designers to develop a natural hand interaction for mixed reality.
 \n
@@ -326,6 +333,8 @@
 
 <publication>
 <id>VR2020b</id>
+<date>20200322</date>
+<image>VR2020b.jpg</image>
 <title>Optical Flow, Perturbation Velocities and Postural Response In Virtual Reality</title>
 <description><![CDATA[The purpose of this study was to investigate the effect of optical flow velocity in a virtual reality (VR) environment on user’s postural control. We hypothesized that the velocity of the optical flow will perturb user’s balance. Seventeen young, healthy participants were tested in one-foot support stances. Our study showed the visual perturbations increased COP distance and the slowest perturbation velocity induced the highest response. For VR communities, developers could use this information to raise their awareness that any sudden shift in the virtual environment at any velocity could reduce a user’s postural stability and place them at risk of falling, particularly at slower perturbation velocities.
 \n
@@ -340,6 +349,8 @@
 
 <publication>
 <id>ICBC2020</id>
+<date>20200503</date>
+<image>ICBC2020.png</image>
 <title>Discover DaVinci – A Gamified Blockchain Learning App</title>
 <description><![CDATA[Discover DaVinci is a novel augmented reality system that incorporates blockchain technology with experiential learning to engage participants in an interactive discovery of Leonardo da Vinci’s ouvre. In the true spirit of this “Renaissance man”, Discover DaVinci explores new ideas and technologies “ahead of their time”.
 \n
@@ -373,6 +384,8 @@
 
 <publication>
 <id>HC2018</id>
+<date>20180628</date>
+<image>HC2018.jpg</image>
 <title>Depth map of the Rosetta Stone</title>
 <description><![CDATA[This artifact depicts the depth map of the Rosetta stone, which was algorithmically generated in 2018 as part of the Digital Rosetta Stone project. The Digital Rosetta Stone is a project developed at Leipzig University by the Chair of Digital Humanities and the Egyptological Institute/Egyptian Museum Georg Steindorff in collaboration with the British Museum and the Digital Epigraphy and Archaeology Project of the University of Florida. The aims of the project are to produce a collaborative digital edition of the Rosetta Stone, address standardization and customization issues for the scholarly community, create data that can be used by students to understand the document in terms of language and content, and produce a high-resolution 3D model of the inscription. The three versions of the text were transcribed and outputted in XML, according to the EpiDoc guidelines. Next, the versions were aligned with the Ugarit iAligner tool that supports the alignment of ancient texts with modern languages, such as English and German. All three texts were then parsed syntactically and morphologically through Treebank annotation. Finally, the project explored new 3D-digitization methodologies of the Rosetta Stone in the British Museum that enhances traditional archaeological methods and facilitates the study of the artifact. The results of this work were used in different courses in Digital Humanities, Digital Philology, and Egyptology.]]></description>
 <author>Amin\, Miriam, Barmpoutis\, Angelos, Berti\, Monica, Bozia\, Eleni, Hensel\, Josephine, Naether\, Franziska</author>
@@ -385,6 +398,8 @@
 
 <publication>
 <id>MIT2021</id>
+<date>20210801</date>
+<image>MIT2021.jpg</image>
 <title>What is Decentralized Storytelling?</title>
 <description><![CDATA[This piece offers highlights from a research framework called Decentralized Storytelling I developed as a Guild of Future Architects member. I continued this research as a Mozilla and Co-Creation Studio fellow in 2019–2020. We are cross-publishing this piece at the Guild of Future Architect’s publication GoFAr.
 \n
@@ -405,6 +420,8 @@
 
 <publication>
 <id>CCE2020</id>
+<date>20200201</date>
+<image>CCE2020.jpg</image>
 <title>Improving the intensive care patient experience with virtual reality—a feasibility study</title>
 <description><![CDATA[<div>
 \n<div id=__sec1 class=sec sec-first>
@@ -454,6 +471,8 @@
 
 <publication>
 <id>SEGAH2019</id>
+<date>20190101</date>
+<image>SEGAH2019.png</image>
 <title>Developing a Patient-Centered Virtual Reality Healthcare System To Prevent the Onset of Delirium in ICU Patients.</title>
 <description><![CDATA[Abstract—The purpose of the DREAMS project (DREAMS = Digital Rehabilitation Environment-Augmenting Medical System) is to research the feasibility and clinical potential of a virtual reality (VR) system for reducing the occurrence of delirium among patients in the intensive care unit (ICU). Preliminary results of this ongoing study show VR produces minimal clinical effects but are strongly enjoyed by patients and easy to administer. We discuss important lessons learned from applying VR in the ICU. Keywords—VR, Serious games, Health, VR therapy, ICU]]></description>
 <author>Suvajdzic\, Marko, Bihorac\, Azra, Rashidi\, Parisa, Ruppert\, Matthew, Williams\, Seth, Ozrazgat-Baslanti\, Tezcan, Ong\, Triton, Appelbaum\, Joel</author>
@@ -465,6 +484,8 @@
 
 <publication>
 <id>TA2018</id>
+<date>20180101</date>
+<image>TA2018.jpg</image>
 <title>Virtual reality and human consciousness: the use of immersive environments in delirium therapy</title>
 <description><![CDATA[<div>
 \n<p id=P1 class=p p-first-last>Immersive virtual environments can produce a state of behavior referred to as “presence,” during which the individual responds to the virtual environment as if it were real. Presence can be arranged to scientifically evaluate and affect our consciousness within a controlled virtual environment. This phenomenon makes the use of virtual environments amenable to existing and in-development forms of therapy for various conditions. Delirium in the intensive care unit is one such condition for which virtual reality technology has not been evaluated to date. We are currently assessing the feasibility and utility of a delirium prevention and treatment system which implements virtual reality to improve quality of sleep, reduce pain, lower usage of sedatives, and stimulate cognition. The proposed system will consist of 3-axis wearable accelerometers, 6-DOF position trackers, a virtual reality system, and apps designed to promote sleep quality and mindfulness. Our <em>a priori</em> hypothesis is that our virtual reality therapy system would lower the occurrence of delirium in patients admitted to intensive care units.</p>
@@ -482,6 +503,8 @@
 
 <publication>
 <id>TIMESICON2019</id>
+<date>20190101</date>
+<image>TIMESICON2019.jpg</image>
 <title>Blockchain art and blockchain facilitated art economy: two ways in which art and blockchain collide</title>
 <description><![CDATA[<strong>Abstract:</strong>
 \n<div>Exploring the blockchain as a subject, method, and medium, the world of art has embarked on a voyage of technological discovery unlike any other to date. So far, blockchain technology has been embraced by leaders in finance, computer sciences, transportation, bookkeeping and others, to bring efficiency, transparency, and added value to their products and services. The art world is exploring blockchain technology as well, experimenting with it as an art medium, creating art pieces that comment on it, and embracing it as a whole new way to revolutionize how art is being tracked, purchased and sold. In this paper we explore two vast categories in which art and blockchain collide today: (1) Blockchain art, and (2) Blockchain facilitated art economy.</div>]]></description>
@@ -494,6 +517,8 @@
 
 <publication>
 <id>SEGAH2017</id>
+<date>20170101</date>
+<image>SEGAH2017.jpg</image>
 <title>DREAMS (Digital rehabilitation environment-altering medical system)</title>
 <description><![CDATA[Abstract
 \n<ul>
@@ -511,6 +536,8 @@
 
 <publication>
 <id>ICBA2021</id>
+<date>20210101</date>
+<image>ICBA2021.jpg</image>
 <title>Blockchain and AI in Art: A Quick Look into Contemporary Art Industries</title>
 <description><![CDATA[<h2 id=Abs1 class=c-article-section__title js-section-title js-c-reading-companion-sections-item>Abstract</h2>
 \n<div id=Abs1-content class=c-article-section__content>
@@ -527,6 +554,8 @@
 
 <publication>
 <id>CHIP2017</id>
+<date>20170101</date>
+<image>CHIP2017.jpg</image>
 <title>From Board Game to Digital Game: Designing a Mobile Game for Children to Learn About Invasive Species</title>
 <description><![CDATA[<div class=colored-block__title>
 \n<h2 id=d18505035e1 class=section__title left-bordered-title>ABSTRACT</h2>
@@ -544,18 +573,9 @@
 </publication>
 
 <publication>
-<id>CIVRT2018</id>
-<title>A study on visual perturbations effect on balance in a VR environment</title>
-<description><![CDATA[<h2 id=abstract class=margin-top-sm>Abstract</h2>
-\nUsers sometimes lost their balance or even fell down when they played virtual reality (VR) games or projects. This may be attributed to degree of content, high-rate of latency, coordination of various sensory inputs, and others. The authors investigated the effect of sudden visual perturbations on human balance in VR environment. This research used the latest VR head mounted display to present visual perturbations to disturb balance. To quantify balance, measured by double-support and single-support stance, the authors measured the subject's center of pressure (COP) using a force plate. The results indicated that visual perturbations presented in virtual reality disrupted balance control in the single support condition but not in the double support condition. Results from this study can be applied to clinical research on balance and VR environment design.]]></description>
-<author>Santoso\, Markus, Phillips\, David</author>
-<journal>Cases on Immersive Virtual Reality Techniques</journal>
-<year>2018</year>
-<doi>https://www.igi-global.com/chapter/a-study-on-visual-perturbations-effect-on-balance-in-a-vr-environment/225123</doi>
-</publication>
-
-<publication>
 <id>JES2021</id>
+<date>20210101</date>
+<image>JES2021.png</image>
 <title>Development and Student Perception of Virtual Reality for Implant Surgery</title>
 <description><![CDATA[<div class=custom-accordion-for-small-screen-link active>
 \n<h2>Abstract</h2>
@@ -571,6 +591,8 @@
 
 <publication>
 <id>JTIES2021</id>
+<date>20210101</date>
+<image>JTIES2021.jpg</image>
 <title>Sudden visual perturbations induce postural responses in a virtual reality environment</title>
 <description><![CDATA[<div class=sectionInfo abstractSectionHeading>
 \n<div class=sectionHeading>Abstract</div>
@@ -588,6 +610,8 @@
 
 <publication>
 <id>JDE2020</id>
+<date>20200101</date>
+<image>JDE2020.jpg</image>
 <title>Faculty perceptions of virtual reality as an alternative solution for preclinical skills during the pandemic</title>
 <description><![CDATA[Abstract
 \n
@@ -600,6 +624,8 @@
 
 <publication>
 <id>VR2022</id>
+<date>20220312</date>
+<image>VR2022.jpg</image>
 <title>DentalVerse: Interactive Multiusers Virtual Reality Implementation to train preclinical dental student psychomotor skill</title>
 <description><![CDATA[The COVID-19 pandemic created the largest disruption of education systems in history. Distance learning through online platforms were part of the solution. However, preclinical exercises to train psychomotor skills of learners have been challenging. The use of virtual reality (VR) in training medical students is innovative and has attracted much attention. In this study, authors presented the development of multi-user VR application for dental education. Our preliminary results showed the potential of using VR in the preclinical curriculum of dental education.
 \n
@@ -613,6 +639,8 @@
 
 <publication>
 <id>ICACHI2021</id>
+<date>20210101</date>
+<image>ICACHI2021.jpg</image>
 <title>Immersive Learning with AI-enhanced Virtual Standardized Patient (VSP) to Improve Dental Student’s Communication Proficiencies</title>
 <description><![CDATA[<strong>Abstract:</strong>
 \nCOVID-19’s lockdown policy is causing the dental schools to halt their preclinical curricular and clinical activities, including a learning session with Standardized Satient (SP) to train student’s communication proficiencies. In this project, we developed Virtual Standardized Patient (VSP): an immersive learning with Artificial Intelligence (AI)- enhanced Virtual Standardized Patient to improve dental student’s communication proficiencies. Augmented Reality (AR) was used to immerse the virtual patient into user’s space, user also has an option to switch to Virtual Reality (VR) to fully immerse the user with the digital environment. AI element facilitates a seamless communication between virtual patient and user, and we also added an adaptive storytelling to allow student to explore several discussion’s options.]]></description>
@@ -622,42 +650,11 @@
 <doi><![CDATA[http://www.thinkmind.org/index.php?view=article&articleid=achi_2021_3_20_20010]]></doi>
 </publication>
 
-<publication>
-<title>Virtual Reality: Combating Dental Anxiety in the Pediatric Patient</title>
-<description><![CDATA[To be presented at University of Illinois, College of Dentistry, Clinical and Research Day, 2022]]></description>
-<author>Bertucci\, D., Sukotjo\, C., Yuan\, J. C., Santoso\, M.</author>
-<journal>University of Illinois\, College of Dentistry\, Clinical and Research Day</journal>
-<year>2021</year>
-</publication>
-
-<publication>
-<title>Virtual Reality to Relieve Dental Anxiety: A Literature Review</title>
-<description><![CDATA[To be presented <span style=font-weight: 400>University of Illinois, College of Dentistry, Clinical and Research Day 2022</span>]]></description>
-<author>S. Steiner\, C. Sukotjo\, J. C. Yuan\, M. Santoso</author>
-<journal>Virtual Reality to Relieve Dental Anxiety: A Literature Review</journal>
-<year>2021</year>
-</publication>
-
-<publication>
-<id>ICCE2019a</id>
-<title>Single-Support Stance and VR Implementation as Visual Perturbation in Human Balance Assessment</title>
-<description><![CDATA[Will be presented at <span style=font-weight: 400>The 37</span><span style=font-weight: 400>th</span><span style=font-weight: 400> IEEE International Conference on Consumer Electronics, 2022</span>]]></description>
-<author>Santoso\, M., Phillips\, D.</author>
-<journal>37th IEEE International Conference on Consumer Electronics</journal>
-<year>2019</year>
-</publication>
-
-<publication>
-<id>ICCE2019b</id>
-<title>‘Captain Carroll’: Camera-Movement and Device Orientation based Procedural Object Rendering Approach for Mobile VR Game</title>
-<description><![CDATA[To be presented at <span style=font-weight: 400>The 37</span><span style=font-weight: 400>th</span><span style=font-weight: 400> IEEE International Conference on Consumer Electronics</span>]]></description>
-<author>Carroll\, L., O’Neil\, J., Sado\, M., Mabaso\, N., Santoso\, M.</author>
-<journal>The 37th IEEE International Conference on Consumer Electronics</journal>
-<year>2019</year>
-</publication>
 
 <publication>
 <id>HCII2022</id>
+<date>20220101</date>
+<image>HCII2022.jpg</image>
 <title>AI-driven Human Motion Classification and Analysis using Laban Movement System</title>
 <description><![CDATA[Human movement classification and analysis are important in the research of health sciences and the arts. Laban movement analysis is an effective method to annotate human movement in dance that describes communication and expression. Technology-supported human movement analysis employs motion sensors, infrared cameras, and other wearable devices to capture critical joints of the human skeleton and facial key points. However, the aforementioned technologies are not mainstream, and the most popular form of motion capture is conventional video recording, usually from a single stationary camera. Such video recordings can be used to evaluate human movement or dance performance. Any methods that can systematically analyze and annotate these raw video footage would be of great importance to this field. Therefore, this research offers an analysis and comparison of AI-based computer vision methods that can annotate the human movement automatically. This study trained and compared four different machine learning algorithms (random forest, K neighbors, neural network, and decision tree) through supervised learning on existing video datasets of dance performances. The developed system was able to automatically produce annotation in the four dimensions (effort, space, shape, body) of Laban movement analysis. The results demonstrate accurately produced annotations in comparison to manually entered ground truth Laban annotation.]]></description>
 <author>Guo\, W., Craig\, O., Difato\, T., Oliverio\, J., Santoso\, M., Sonke\, J., Barmpoutis\, A.</author>
@@ -671,6 +668,8 @@
 
 <publication>
 <id>ICDSCA2021</id>
+<date>20210101</date>
+<image>ICDSCA2021.jpg</image>
 <title>Design and Implementation of a New Serverless Conversational Survey System</title>
 <description><![CDATA[<strong>Abstract:</strong>
 \n<div>Conversational agents or chatbots have great potentials in improving survey responses and accessibility. However, it is still a challenge for researchers without programming skills to create voice-enabled chatbots to conduct customizable surveys. This paper presents a new easy-to-use serverless survey chatbot system based on the existing TigerAware mobile survey platform, called TigerAware chatbot. This chatbot system enables non-technical persons to build and deploy customized surveys on mobile devices as text or voice-based conversations. The system is based on Dialogflow and Firebase Realtime database, supports voice input and social dialog, and provides visual responses for users to select answers among several options. The chatbots can be deployed on any iOS and Android mobile device and platform that support Google Assistant. Survey question types that have been implemented include yes/no, multiple-choice, free response, numeric entry, date/time picker, and scale. This system is more efficient and effective than existing survey chatbot systems.</div>]]></description>
@@ -683,6 +682,8 @@
 
 <publication>
 <id>VR2020</id>
+<date>20200101</date>
+<image>VR2020.png</image>
 <title>Comparative analysis  of 3D user interaction: How to move an object in mixed reality</title>
 <description><![CDATA[<strong>Abstract:</strong>
 \n<div>Using one’s hands can be a natural and intuitive method for interacting with 3D objects in a mixed reality environment. This study explores three hand-interaction techniques, including the gaze and pinch, touch and grab, and worlds-in-miniature interaction for selecting and moving virtual furniture in the 3D scene. Overall, a comparative analysis reveals that the worlds-in-miniature provided the best usability and task performance than other studied techniques. We also conducted in-depth interviews and analyzed participants’ hand gestures in order to identify desired attributes for 3D hand interaction design. Findings from interviews suggest that, when it comes to enjoyment and discoverability, users prefer directly manipulating the virtual furniture to interacting with objects remotely or using in-direct interactions such as gaze. Another insight this study provides is the critical roles of the virtual object’s visual appearance in designing natural hand interaction. Gesture analysis reveals that shapes of furniture, as well as its perceived features such as weight, largely determined the participant’s instinctive form of hand interaction (i.e., lift, grab, push). Based on these findings, we present design suggestions that can aid 3D interaction designers to develop a natural and intuitive hand interaction for mixed reality.</div>]]></description>
@@ -690,11 +691,13 @@
 <journal>Proceedings of 2020 IEEE Virtual Reality and 3D User Interface (IEEE VR)</journal>
 <year>2020</year>
 <pages>275-284</pages>
-<doi>doi: 10.1109/VR46266.2020.00047</doi>
+<doi>https://doi.org/10.1109/VR46266.2020.00047</doi>
 </publication>
 
 <publication>
 <id>JIM2020</id>
+<date>20200101</date>
+<image>JIM2020.jpg</image>
 <title>How 3D virtual interface can shape consumer decision: The role of informativeness and playfulness</title>
 <description><![CDATA[<h2 class=section-title u-h3 u-margin-l-top u-margin-xs-bottom>Abstract</h2>
 \n<div id=as0005>
@@ -711,6 +714,8 @@
 
 <publication>
 <id>VRST2021a</id>
+<date>202010101</date>
+<image>VRST2021a.jpg</image>
 <title>SpArc: A VR Animating Tool at Your  Fingertips</title>
 <description><![CDATA[<div class=colored-block__title>
 \n<h2 id=d21865898e1 class=section__title left-bordered-title>ABSTRACT</h2>
@@ -728,6 +733,8 @@
 
 <publication>
 <id>VRST2021b</id>
+<date>20210101</date>
+<image>VRST2021b.png</image>
 <title>Holokeys: Interactive Piano Education  Using Augmented Reality and IoT</title>
 <description><![CDATA[<div class=colored-block__title>
 \n<h2 id=d19460167e1 class=section__title left-bordered-title>ABSTRACT</h2>
@@ -745,6 +752,8 @@
 
 <publication>
 <id>IDC2021</id>
+<date>20210101</date>
+<image>IDC2021.jpg</image>
 <title>To be Defined  or Not to Be? Addressing Internal Questions in the Online Community for  Gender Diverse Youth</title>
 <description><![CDATA[<div class=colored-block__title>
 \n<h2 id=d29494502e1 class=section__title left-bordered-title>ABSTRACT</h2>
@@ -763,23 +772,13 @@
 
 <publication>
 <id>MIT2022</id>
+<date>20221101</date>
+<image>MIT2022.jpg</image>
 <title>In Conversation: Decentralized Storytelling</title>
-<description><![CDATA[<div class=book-wrapper__btn-tabs site-container>
-\n<div class=book-wrapper__information site-container js-responsive-tabs r-tabs>
-\n<div id=tab-1 class=tabs__panel tabs__panel--description r-tabs-panel r-tabs-state-active>
-\n<div class=tabs__content>
-\n
-\n<strong>How to co-create—and why: the emergence of media co-creation as a concept and as a practice grounded in equity and justice.</strong>
-\n
-\nCo-creation is everywhere: It's how the internet was built; it generated massive prehistoric rock carvings; it powered the development of vaccines for COVID-19 in record time. Co-creation offers alternatives to the idea of the solitary author privileged by top-down media. But co-creation is easy to miss, as individuals often take credit for—and profit from—collective forms of authorship, erasing whole cultures and narratives as they do so. <em>Collective Wisdom</em> offers the first guide to co-creation as a concept and as a practice, tracing co-creation in a media-making that ranges from collaborative journalism to human–AI partnerships.
-\n
-\nWhy co-create—and why now? The many coauthors, drawing on a remarkable array of professional and personal experience, focus on the radical, sustained practices of co-creating media within communities and with social movements. They explore the urgent need for co-creation across disciplines and organization, and the latest methods for collaborating with nonhuman systems in biology and technology. The idea of “collective intelligence” is not new, and has been applied to such disparate phenomena as decision making by consensus and hived insects. Collective <em>wisdom</em> goes further. With conceptual explanation and practical examples, this book shows that co-creation only becomes wise when it is grounded in equity and justice.
-\n
-\n</div>
-\n</div>
-\n</div>
-\n</div>
-\n<div class=book-wrapper__related-books related-books site-container></div>]]></description>
+<description>How to co-create—and why: the emergence of media co-creation as a concept and as a practice grounded in equity and justice.
+Co-creation is everywhere: It's how the internet was built; it generated massive prehistoric rock carvings; it powered the development of vaccines for COVID-19 in record time. Co-creation offers alternatives to the idea of the solitary author privileged by top-down media. But co-creation is easy to miss, as individuals often take credit for—and profit from—collective forms of authorship, erasing whole cultures and narratives as they do so. <em>Collective Wisdom</em> offers the first guide to co-creation as a concept and as a practice, tracing co-creation in a media-making that ranges from collaborative journalism to human–AI partnerships.
+Why co-create—and why now? The many coauthors, drawing on a remarkable array of professional and personal experience, focus on the radical, sustained practices of co-creating media within communities and with social movements. They explore the urgent need for co-creation across disciplines and organization, and the latest methods for collaborating with nonhuman systems in biology and technology. The idea of “collective intelligence” is not new, and has been applied to such disparate phenomena as decision making by consensus and hived insects. Collective <em>wisdom</em> goes further. With conceptual explanation and practical examples, this book shows that co-creation only becomes wise when it is grounded in equity and justice.
+</description>
 <author>Winger-Bearskin\, Amelia</author>
 <pages>256-269</pages>
 <journal>In Chapter 5: Field Guide: Risks And Lessons Of Co-CreationCollective\, in book Wisdom: Co-Creating Media for Equity and Justice\, MIT press</journal>
@@ -792,6 +791,8 @@
 
 <publication>
 <id>ISBI2023</id>
+<date>20230418</date>
+<image>ISBI2023.png</image>
 <title>Prostate Capsule Segmentation in Micro-Ultrasound Images Using Deep Neural Networks</title>
 <description><![CDATA[Prostate cancer is the most common internal malignancy among males. Micro-Ultrasound is a promising imaging modality for cancer identification and computer-assisted visualization. Identifying the prostate capsule area is essential in active surveillance monitoring and treatment planning. In this paper, we present a pilot study that assesses prostate capsule segmentation using the U-Net deep neural network framework. To the best of our knowledge, this is the first study on prostate capsule segmentation in Micro-Ultrasound images. For our study, we collected multi-frame volumes of Micro-Ultrasound images, and then expert prostate cancer surgeons annotated the capsule border manually. The lack of clear boundaries and variation of shapes between patients make the task challenging, especially for novice Micro-Ultrasound operators. In total 2099 images were collected from 8 subjects, 1296 of which were manually annotated and were split into a training set (1008), a validation set (112), and a test set from a different subject (176). The performance of the model was evaluated by calculating the Intersection over Union (IoU) between the manually annotated area of the capsule and the segmentation mask computed from the trained deep neural network. The results demonstrate high IoU values for the training set (95.05%), the validation set (93.18%) and the test set from a separate subject (85.14%). In 10-fold cross-validation, IoU was 94.25%, and accuracy was 99%, validating the robustness of the model. Our pilot study demonstrates that deep neural networks can produce reliable segmentation of the prostate capsule in Micro-Ultrasound images and pave the road for the segmentation of other anatomical structures within the capsule, which will be the subject of our future studies.]]></description>
 <author>Guo\, Wenbin, Brisbane\, Wayne, Ashouri\, Rani, Nguyen\, Brianna, Barmpoutis\, Angelos</author>
@@ -805,6 +806,8 @@
 
 <publication>
 <id>ISEC2023</id>
+<date>20230311</date>
+<image>ISEC2023.png</image>
 <title><![CDATA[Developing Mini VR Game Engines as an Engaging Learning Method for Digital Arts & Sciences]]></title>
 <description><![CDATA[Digital Arts and Sciences curricula have been known for combining topics of emerging technologies and artistic creativity for the professional preparation of future technical artists and other creative media professionals. One of the key challenges in such an interdisciplinary curriculum is the instruction of complex technical concepts to an audience that lacks prior computer science background. This paper discusses how developing small custom virtual and augmented reality game engines can become an effective and engaging method for teaching various fundamental technical topics from Digital Arts and Sciences curricula. Based on empirical evidence, we demonstrate examples that integrate concepts from geometry, linear algebra, and computer programming to 3D modeling, animation, and procedural art. The paper also introduces an open-source framework for implementing such a curriculum in Quest VR headsets, and we provide examples of small-scale focused exercises and learning activities.]]></description>
 <author>Barmpoutis\, Angelos, Guo\, Wenbin, Said\, Ines</author>

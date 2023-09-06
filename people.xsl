@@ -477,7 +477,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <div class="product-image-wrapper">
             <div class="horizontal">
                             <a href="people.xml?id={id}">
-                <img src="style/server-450x450.jpeg"/>
+                <xsl:choose>
+            <xsl:when test="image"><img src="img/{image}"/></xsl:when>
+            <xsl:otherwise><img src="img/laptop.jpg"/></xsl:otherwise>
+            </xsl:choose>
                 </a>
         </div>
                         

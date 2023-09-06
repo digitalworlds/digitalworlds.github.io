@@ -233,8 +233,14 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 	<figure class="woocommerce-product-gallery__wrapper">
 		<div data-thumb-alt="" class="woocommerce-product-gallery__image" style="position: relative; overflow: hidden;">
-		<img width="600" height="452" src="style/server-450x450.jpeg" class="wp-post-image" alt="" decoding="async"/>
-		</div>	
+		
+		
+        <xsl:choose>
+            <xsl:when test="image"><img width="600" height="452" src="img/{image}" class="wp-post-image" alt="" decoding="async"/></xsl:when>
+            <xsl:otherwise><img width="600" height="452" src="img/laptop" class="wp-post-image" alt="" decoding="async"/></xsl:otherwise>
+            </xsl:choose>
+        
+        </div>	
 	</figure>
 </div>
             </div>
@@ -469,7 +475,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 <xsl:for-each select="data/publications/publication">
-<xsl:sort select="year" order="descending"/>
+<xsl:sort select="date" order="descending"/>
 
 <li class="product type-product status-publish has-post-thumbnail product_cat-publications last instock shipping-taxable purchasable product-type-simple">
 
@@ -477,7 +483,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <div class="product-image-wrapper">
             <div class="horizontal">
                             <a href="publications.xml?id={id}">
-                <img src="style/server-450x450.jpeg"/>
+            <xsl:choose>
+            <xsl:when test="image"><img src="img/{image}"/></xsl:when>
+            <xsl:otherwise><img src="img/laptop.jpg"/></xsl:otherwise>
+            </xsl:choose>
+                
                 </a>
         </div>
                         

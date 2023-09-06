@@ -236,7 +236,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <div class="product-image-wrapper">
             <div class="horizontal">
                             <a href="{url}">
-                <img src="style/server-450x450.jpeg"/>
+                <img src="img/{image}"/>
                 </a>
         </div>
                         
