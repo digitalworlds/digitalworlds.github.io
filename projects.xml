@@ -62,6 +62,8 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>digitalepigraphy</id>
+<date>20110301</date>
 <title>Digital Epigraphy and Archaeology Project</title>
 <description><![CDATA[<iframe src=https://www.youtube.com/embed/8_KE--_pbzE?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
 \n

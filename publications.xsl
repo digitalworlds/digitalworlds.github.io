@@ -25,9 +25,10 @@ function showProduct(id)
 }
 function showDescription(id)
 {
-	document.getElementById(id+'-tab-description').style.display="block";
-	document.getElementById(id+'-tab-additional_information').style.display="none";
-	document.getElementById(id+'-tab-citation').style.display="none";
+	let element=document.getElementById(id+'-tab-description');
+    element.style.display="block";
+    let doc=new DOMParser().parseFromString(element.innerHTML,"text/html");
+    element.innerHTML=doc.documentElement.textContent.replaceAll("\\n","<br/>");
 }
 function showInfo(id)
 {
@@ -280,7 +281,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					</ul>
 	<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="{id}-tab-description" role="tabpanel" aria-labelledby="tab-title-description" style="">
 				
-	<h2>Description</h2>
+	
 <p>
 <xsl:choose>
         <xsl:when test="description"><xsl:value-of select="description"/></xsl:when>
