@@ -223,7 +223,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		
         <xsl:choose>
             <xsl:when test="image"><img width="600" height="452" src="img/{image}" class="wp-post-image" alt="" decoding="async"/></xsl:when>
-            <xsl:otherwise><img width="600" height="452" src="img/laptop" class="wp-post-image" alt="" decoding="async"/></xsl:otherwise>
+            <xsl:otherwise><img width="600" height="452" src="img/laptop.jpg" class="wp-post-image" alt="" decoding="async"/></xsl:otherwise>
             </xsl:choose>
         
         </div>	
@@ -545,9 +545,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <div class="container-wrapper">
                                                     <div class="col-2 float-l">
                                 <div class="footer-nav-wrapper">
-                                    <div class="footer-navigation"><ul id="footer-menu" class="menu"><li id="menu-item-222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="projects.xml">Projects</a></li>
-<li id="menu-item-223" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-223"><a href="publications.xml" aria-current="page">Publications</a></li>
-<li id="menu-item-224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-224"><a href="labs.xml">Labs</a></li>
+                                    <div class="footer-navigation"><ul id="footer-menu" class="menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="projects.xml">Projects</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="publications.xml" aria-current="page">Publications</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="repositories.xml">Repositories</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="labs.xml">Labs</a></li>
 </ul></div>                                </div>
                             </div>
                         

@@ -7,6 +7,7 @@
 <id>technosphere</id>
 <date>20200101</date>
 <title>Imagineering the Technosphere</title>
+<image>technosphere.jpg</image>
 <short>The Imagineering and the Technosphere is a UF Intersections project funded by the Andrew W. Mellon Foundation.
 
 In the face of our growing technological dependencies, our intersections group explores how humans use technology intentionally and unintentionally to alter our physical world. The group will study the accelerating pace of social technologies, such as the Internet and Artificial Intelligence.</short>
@@ -50,6 +51,7 @@ In the face of our growing technological dependencies, our intersections group e
 <id>j4k</id>
 <date>20130101</date>
 <title>Java For Kinect (J4K)</title>
+<image>j4k.jpg</image>
 <short>The J4K library is a popular open source Java library that implements a Java binding for the Microsoft’s Kinect SDK. It communicates with a native Windows library, which handles the depth, color, infrared, and skeleton streams of the Kinect using the Java Native Interface (JNI).
 
 The J4K library is compatible with all kinect devices (Kinect for Windows, Kinect for XBOX, new Kinect, or Kinect 2) and allows you to control multiple sensors of any type from a single application, as long as your system capabilities permit. For example you can control three Kinect 1 sensors, or one Kinect 1 and one Kinect 2 connected via USB 3.0 to the same computer. Furthermore, the J4K library contains several convenient Java classes that convert the packed depth frames, skeleton frames, and color frames received by a Kinect sensor into easy-to-use Java objects.</short>
@@ -65,6 +67,7 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 <id>digitalepigraphy</id>
 <date>20110301</date>
 <title>Digital Epigraphy and Archaeology Project</title>
+<image>digitalepigraphy.jpg</image>
 <description><![CDATA[<iframe src=https://www.youtube.com/embed/8_KE--_pbzE?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen></iframe>
 \n
 \nDEA is an interdisciplinary project initiated by scientists from the Digital Worlds Institute and the Department of Classics at the University of Florida. The goal of the project is to develop new open-access scientific tools for the Humanities and apply concepts from digital and interactive media and computer science to Archaeology and Classics. In our web-site you can view our 3D collections and interact with our on-line exhibits, read about our recent results, find interactive demos of our projects, and learn more about our future research directions. 
@@ -77,15 +80,12 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 <funding>National Endowment for the Humanities\, Office of Digital Humanities\, Grant HD‐51214‐11</funding>
 </project>
 
-<project>
-<title>Looking for Good</title>
-<description><![CDATA[Looking for Good (LFG) is an interdisciplinary live-stream broadcast production located in the College of the Arts that provides an interactive platform for researchers and artists to explore critical issues in the digital arts with audiences within and beyond the university. With LFG, we specifically research how live-streaming can augment and support the arts by providing a platform to create productive, safe, and democratic spaces that challenge the physical, ideological, cultural, and financial barriers that have traditionally dictated and limited who can access and be involved with the arts. Through our broadcast development, we examine how a wide range of media including 2D and 3D art, live performances, film, video games, research, etc. can be incorporated into live-streaming environments to offer compelling engagements with art, arts research, and the individuals working in these areas. In line with the college’s metanarrative, we also seek to make visible and accessible people, topics, work that falls outside of or is underrepresented in mainstream culture by focusing on LGBTQ+, critical race theory, labor, sexuality, gender, and class in the arts. With over 500 followers and growing, LFG is poised to become a significant, university-based space for democratic and open discussion of critical ideas and work within the arts.]]></description>
-<url>https://www.twitch.tv/lfgatuf</url>
-<Twitter>https://twitter.com/lfgatuf?lang=en</Twitter>
-</project>
 
 <project>
+<id>accessgrid</id>
+<date>20010101</date>
 <title>Access Grid</title>
+<image>accessgrid.jpg</image>
 <description><![CDATA[<h4>DW Pioneers Access Grid for Cultural Projects</h4>
 \nThe Access Grid (AG) is an ensemble of resources used to support human interaction across the Internet. It consists of multimedia displays, multipoint bi-directional audio, cameras, and shared spaces for presentations and interactions. It supports large-scale distributed meetings, collaborative work sessions, seminars, lectures, tutorials and training. The system is designed for group-to-group communication (differentiating it from desktop to desktop based tools that focus on individual communication). Thus, the environment enables both formal and informal group interactions. Access Grid nodes are designed spaces that explicitly contain the high-end audio and visual technology needed to provide a high-quality compelling user experience. Currently, there are one hundred fully operational sites in the US (mostly Universities) and over twenty international sites.
 \n
@@ -103,7 +103,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>aestheticcomputing</id>
+<date>20010102</date>
 <title>Aesthetic Computing</title>
+<image>aestheticcomputing.jpg</image>
 <description><![CDATA[<h4>UF Faculty receives grant for Aesthetic Computing</h4>
 \nAesthetic Computing refers to the search for a new development of representation and notation, the exploration on the use of artistic methods and processes within common representations found in computing. A better way for people to better understand currently hard-to-follow structures for computing and mathematics.
 \n
@@ -111,7 +114,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>excitingkids</id>
+<date>20140101</date>
 <title>Exciting Kids to Walk</title>
+<image>excitingkids.jpg</image>
 <description><![CDATA[<header>
 \n<h3><span style=font-size: 16px;>The UF Clinical and Translation Sciences Institute Funds Interactive Rehabilitation Environment</span></h3>
 \n</header>
@@ -126,24 +132,36 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>biomedical</id>
+<date>20010103</date>
 <title>Biomedical Engineering Building Pre-Visualization</title>
+<image>biomedical.jpg</image>
 <description><![CDATA[[embed]https://vimeo.com/44736778[/embed]]]></description>
 </project>
 
 <project>
+<id>educationbuilding</id>
+<date>20140101</date>
+<image>educationbuilding.jpg</image>
 <title>College of Education Building Pre-Visualization</title>
 <description><![CDATA[[embed]https://vimeo.com/44740488[/embed]]]></description>
 </project>
 
 <project>
+<id>dreammachine</id>
+<date>20100101</date>
 <title>Dream Machine</title>
+<image>dreammachine.jpg</image>
 <description><![CDATA[As a tribute to the rich 150-year legacy of the University of Florida, Digital Worlds presented an original digital movie entitled DREAM MACHINE. This presentation was produced by the very first graduating classes of the new Digital Arts and Sciences (DAS) program, a partnership founded in the UF Colleges of Engineering and Arts.
 \n
 \nDREAM MACHINE was an interdisciplinary collaboration from a team of over 100 UF students with backgrounds in art, animation, architecture, engineering, theater, English, journalism, computer modeling, music, photography, film making and liberal arts and sciences. It was particularly appropriate that members of the DA's Class of 2003 honored their Alma Mater by creating a work that embodies the spirit of the UF Sesquicentennial: Honoring the Past, Shaping the Future.]]></description>
 </project>
 
 <project>
+<id>egypt</id>
+<date>20160101</date>
 <title>Exploring Ancient Egypt</title>
+<image>egypt.png</image>
 <description><![CDATA[The Digital Worlds Institute faculty collaborated on the creation of a new interactive experience for young museum visitors entitled <em>Exploring Ancient Egypt.</em> Working across disciplines, including computer programming, 2D and 3D art and animation, music and sound design and interactive narrative, the DW faculty team created the original interactive experience to allow up to four simultaneous players to explore various scenarios based on themes inspired by ancient Egypt. It recently debuted at the South Florida Science Center in West Palm Beach.
 \n
 \nDW computer scientist Angelos Barmpoutis created original code that allows an array of two Microsoft Kinects to bring 4 separate players into one shared virtual environment through the progression of the game. The design team of Diana Reichenbach and Hyuk Jang provided the visual elements to bring the ancient world to life. Game producer Marko Suvajdzic offered consultation on incorporating gameplay elements to keep the participants actively engaged throughout the four scenarios. Patrick Pagano provided research and audio elements to inform the final sound design, and composer James Oliverio provided the soundtrack for both the title sequence and each of the four separate scenarios.
@@ -174,7 +192,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>gap</id>
+<date>20130101</date>
 <title>Gaming Against Plagiarism</title>
+<image>gap.png</image>
 <description><![CDATA[<iframe src=https://player.vimeo.com/video/64391791 width=1200 height=600 frameborder=0 allow=autoplay; fullscreen allowfullscreen></iframe>
 \n
 \n<h4>Synopsis of the Gaming Against Plagiarism (GAP) series</h4>
@@ -190,15 +211,22 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 \n]]></description>
 <funding>National Science Foundation Grant #1033002</funding>
 <url>http://digitalworlds.ufl.edu/gap/</url>
-<Fundingurl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1033002</Fundingurl>
+<fundingurl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1033002</fundingurl>
 </project>
+
 <project>
+<id>gni</id>
+<date>20100101</date>
+<image>gni.jpg</image>
 <title>Gator Nation Island</title>
 <description><![CDATA[The Digital Worlds Institute developed Gator Nation Island in the Second Life online world. <a href=https://digitalworlds.ufl.edu/site/assets/files/91828/slstoryingovvideo.pdf>Read More</a>]]></description>
 </project>
 
 <project>
+<id>grandguard</id>
+<date>20030101</date>
 <title>Grand Guard</title>
+<image>grandguard.jpg</image>
 <description><![CDATA[<h4>Grand Guard, Portraits in Digital Media</h4>
 \n<em>University of Florida Alums </em><em>return</em><em> - 50 years after graduation.</em>
 \n
@@ -208,7 +236,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>hapnan</id>
+<date>20120101</date>
 <title>Use of Haptics in a Virtual Reality Environment for Learning of Nanotechnology</title>
+<image>hapnan.jpg</image>
 <description><![CDATA[[embed]https://vimeo.com/64391663[/embed]
 \n
 \nHAPNAN<strong> </strong>is an innovative and exciting educational tool geared toward middle school students. It is a collaborative effort between the University of Florida (UF) Digital Worlds Institute and UF professor of Mechanical and Aerospace Engineering and Nanotechnology expert, Dr. Curtis Taylor.  HapNan involves the merging of nanotechnology with haptics. The HapNan project incorporates the use of a haptic mouse and virtual reality computer program to create an interactive learning environment that has the potential to revolutionize the way that science is being taught within a classroom setting.  Students who are able to work with the HapNan technology will be able to explore many abstract scientific concepts in a whole new way, through sight and touch. The Haptic mouse will allow students to actually feel surface textures of the objects they are seeing on the computer screen. Additionally, the new low-cost haptic mouse allows users to actually feel invisible forces (such as gravity, attraction, repulsion and resistance) thus making these concepts tangible. HapNan allows young students to more fully understand concepts such as the covalent bonds within a water molecule and the relationship between gravity and inertia at a variety of physical scales.
@@ -217,11 +248,14 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 \n
 \nHAPNAN is currently still in the developmental phase, with progress being made every day in refining the Haptic systems as well as improving the user interface. User testing is slated to begin in late Spring 2012.]]></description>
 <funding>NSF Award #0935131\, COLLABORATIVE PROPOSAL: Use of Haptics in a Virtual Reality Environment for Learning of Nanotechnology</funding>
-<Fundingurl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=0935131</Fundingurl>
+<fundingurl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=0935131</fundingurl>
 </project>
 
 <project>
+<id>hist</id>
+<date>20010104</date>
 <title>Human Interactive Simulation and Training</title>
+<image>hist.jpg</image>
 <description><![CDATA[The Human Interactive Simulation and Training (HIST) system allowed larger numbers of medical students to interact with patient symptoms, both in the local classroom and at a distance. The system tracked each student’s reactions to dynamic medical situations, giving professors a useful tool to assess individual progress and understanding.
 \n
 \nThe Human Patient Simulator (HPS), previously developed by the Department of Anesthesiology in the UF College of Medicine, was an ideal learning tool for anesthesiologists and other health-care providers. With the HPS, computers controlled a mannequin patient to respond to injected medications, changes in mechanical ventilation, and other therapies.
@@ -236,7 +270,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>isas</id>
+<date>20010101</date>
 <title>Integrated Situational Awareness System</title>
+<image>isas.jpg</image>
 <description><![CDATA[[embed]https://vimeo.com/44671745[/embed]
 \n
 \nThe Integrated Situation Awareness System enhances decision-making effectiveness when managing potentially life-threatening situations. Researchers at Digital Worlds have designed a system that combines a variety of inputs, including live video feeds, federated databases, security systems, and satellite imagery, simultaneously, to augment the decision maker's situational awareness. Essentially, this ISAS is designed for public safety, wide-area environmental monitoring, law-enforcement and anti-terror purposes.
@@ -247,23 +284,35 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>mediaunion</id>
+<date>20010101</date>
 <title>International Media Union</title>
+<image>mediaunion.jpg</image>
 <description><![CDATA[[embed]https://vimeo.com/44743065[/embed]]]></description>
 </project>
 
 <project>
+<id>legends</id>
+<date>20160101</date>
 <title>Legends of Antiquity</title>
+<image>legends.jpg</image>
 <description><![CDATA[]]></description>
 </project>
 
 <project>
+<id>mask</id>
+<date>20010101</date>
 <title>Mask</title>
+<image>mask.jpg</image>
 <description><![CDATA[<h4>MASK, Dance and Visual Art Collaboration, U. de Chile - REUNA - and Digital Worlds</h4>
 \nA dance and visual art collaboration over the Internet connected The University of Chile REUNA and Digital Worlds. On May 17, 2004 the University of Florida's Digital Worlds Institute collaborated with the <a href=http://www.reuna.cl/ target=_blank rel=noopener noreferrer>Universitaria Nacional (REUNA)</a> in Santiago de Chile and the New World School of the Arts (NWSA) in Miami for a three-minute intercontinental collaborative dance performance. This experience involved four dancers, one couple in Chile (dancing live in an auditorium during the opening ceremony of the fourth International Meeting Science, Culture and Education on the Research and Development Network) and the other couple in the USA, performing a collaborative choreography, using chroma key technology and MPEG2 over IP running in real time over the Internet2 network.]]></description>
 </project>
 
 <project>
+<id>mav</id>
+<date>20010101</date>
 <title>Micro-Air-Vehicle Environment System</title>
+<image>mav.jpg</image>
 <description><![CDATA[Micro-Air-Vehicle Virtual Environment System, A Hardware-in-the-Loop Experiment and Simulation Facility for Vision-Based Control of Micro-Air-Vehicles (MAVs)
 \n
 \nThe UF Micro-Air-Vehicle (MAV) Virtual Environment systems provide a synthetic environment in which hardware MAVs can be virtually flight tested. The project, headed by Dr. Andrew Kurdila and Dr. Rick Lind of the UF Mechanical and Aerospace Engineering Department, is funded by the United States Air Force.
@@ -290,7 +339,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>mosi</id>
+<date>20010101</date>
 <title>Museum Biomedical Engineering Kiosk</title>
+<image>mosi.jpg</image>
 <description><![CDATA[[embed]https://vimeo.com/44734836[/embed]
 \n
 \nA computer kiosk for the Museum of Science and Industry presenting the pioneering knee replacement research of UF's Dr. Fregly. Museum visitors learned how to collect data from various scientific machines, analyze the data using scientific visualization techniques, formulate an educated diagnosis of the patient's knee problem, and simulate surgical solutions.
@@ -301,13 +353,18 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>musicinstinct</id>
+<date>20010101</date>
 <title>Music Instinct Project</title>
 <description><![CDATA[The University of Florida’s WUFT was chosen as one of the ten PBS stations nationwide for the Music Instinct grant, working in partnership with the Digital Worlds Institute. Research shows that music has enormous potential to help explore the complexities of human brain function. For example, there’s a strong connection between the auditory and motor regions of the brain, and music seems to engage the motor system in a way that other modalities do not. People with motor disorders like Parkinson’s disease have improved their ability to walk while listening to a rhythm track, and stroke patients who have trouble with speech show signs of improvement when they receive music therapy. And there’s new evidence that music can actually change the physical structure of the brain – a fact that has critical implications for both education and medicine. One thing is clear, proven and agreed upon; music has a profound capacity to influence and alter the human experience.  Major funding for this program provided by the National Science Foundation.]]></description>
 <url>http://www.pbs.org/wnet/musicinstinct/about/</url>
 </project>
 
 <project>
+<id>nets</id>
+<date>20120101</date>
 <title>Neuroprosthetic Training System</title>
+<image>nets.jpg</image>
 <description><![CDATA[<header>
 \n<h3>Neuroprosthetic Training System</h3>
 \n</header>
@@ -332,7 +389,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>nondivisi</id>
 <title>Non Divisi</title>
+<date>20031015</date>
+<image>nondivisi.jpg</image>
 <description><![CDATA[<h4>Non Divisi, an International Distributed Collaboration in the Performing Arts</h4>
 \nOn October 15, 2003 the University of Florida's Digital Worlds Institute offered two performance/demonstrations of the real-time distributed collaboration Non Divisi (a musical term meaning not divided) joining co-creators from three continents at the Indiana State Museum for Internet2 Fall 2003.
 \n
@@ -340,7 +400,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>onehand</id>
+<date>20010101</date>
 <title>One Hand Clapping</title>
+<image>onehand.gif</image>
 <description><![CDATA[<h4>World Premiere Performances of *One Hand Clapping*</h4>
 \nDancers from Miami’s <a href=http://www.mdc.edu/nwsa/ target=_blank rel=noopener noreferrer>New World School of the Arts</a> and Musicians from the <a href=http://www.arts.ufl.edu/music/ target=_blank rel=noopener noreferrer>University of Florida’s School of Music</a> opened the Merce in Miami festivities with the premiere performances of the site-specific piece *One Hand Clapping* in the Ziff Ballet Opera House’s Arthur F. and Alice E. Adams Foundation lobby.
 \n
@@ -348,12 +411,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
-<title>Pangea and the Age of the Dinosaurs</title>
-<description><![CDATA[]]></description>
-</project>
-
-<project>
+<id>sculpture</id>
+<date>20010101</date>
 <title>Pruitt Sculpture</title>
+<image>sculpture.jpg</image>
 <description><![CDATA[<h4>Sculpture for the J. Crayton Pruitt family Department of Biomedical Engineering</h4>
 \nDigital Worlds created and managed an interdisciplinary team of artists and designers to create an original sculpture given to Dr. J. Crayton Pruitt. The sculpture was presented during a ceremony announcing his major gift of $10 million to the UF College of Engineering’s <a href=http://www.bme.ufl.edu/ target=_blank rel=noopener noreferrer>Biomedical Engineering Department</a>. DW artist in residence Arturo Sinclair worked with UF sculptor Brad Smith to create this distinctive work of alabaster and surgical vanadium steel.
 \n
@@ -361,12 +422,16 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>risk</id>
+<date>20010101</date>
 <title>RISK</title>
 <description><![CDATA[<h4>Using Digital Technology for At-Risk youth</h4>
 \nDrug and alcohol use are consistently associated with the occurrence of sexually transmitted diseases (STDs), including HIV. Despite this link, interventions designed to reduce substance use are rarely implemented in clinical settings where the prevalence of STDs and HIV is high (e.g., STD clinics). Brief interventions have proven effective in reducing hazardous drinking and drug use; however they are rarely integrated into clinical practice due to barriers at individual and organizational levels. We proposed that the ideal intervention should incorporate the successful components of brief motivational interviewing and should make use of interactive digital media and game features to enhance interest and acceptability, and should be easily adaptable within clinical settings.]]></description>
 </project>
 
 <project>
+<id>scipath</id>
+<date>20010101</date>
 <title>SciPath</title>
 <description><![CDATA[[embed]https://vimeo.com/44670105[/embed]
 \n<h4>Exploring the Frontiers with UF Scientists</h4>
@@ -374,7 +439,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>secondlife</id>
+<date>20080101</date>
 <title>Second Life College Fair 2008</title>
+<image>secondlife.jpg</image>
 <description><![CDATA[Thanks to today’s rapidly evolving digital landscape, the ability to transcend traditional boundaries over the Internet is increasingly being utilized for not only social and business purposes but for educational advancement as well. Realizing this, the online world of Second Life hosted a virtual College Fair on November 16, 2008 that gave colleges and universities around the world the opportunity to promote their digital programs in a single shared virtual venue.
 \n
 \nThis College Fair allotted each of the participating institutions a parcel of virtual real estate for a “booth” to display its digital media program.  To take advantage of this globally accessible online showcase, the University of Florida (UF) Digital Worlds Institute assembled an interdisciplinary team of staff and students to create an interactive presence for UF on Second Life’s Information Island.
@@ -397,7 +465,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>fauxtaxi</id>
+<date>20030403</date>
 <title>The Faux Taxi</title>
+<image>fauxtaxi.jpg</image>
 <description><![CDATA[<h4>The Faux Taxi - Sound Image Light In Collaborative Arts</h4>
 \nThe first emanation of ++silica entity took place April 3, 2003 at the 12th annual Florida Electro-acoustic Festival. This incarnation of ++silica entity, brainchild of Patrick Pagano, a graduate student in the Digital Arts and Sciences, featured a unique collaboration with undergraduate wunderkind, Adam Portnow, a senior in the Digital Arts and Sciences program. The presentation included immersive 5.1 digital audio paired with Access Grid technology to deliver high quality video from the Digital Worlds Institute laboratory in CISE 413 to the Phillips Center for the Performing Arts Black Box Theater in real time.
 \n
@@ -405,7 +476,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>messenger</id>
+<date>20010101</date>
 <title>The Messenger</title>
+<image>messenger.jpg</image>
 <description><![CDATA[<h4>The Pittsburgh Symphony Orchestra presented The Messenger</h4>
 \n<em>A Collaborative Work with new Music Visualization Technology</em>
 \n
@@ -421,7 +495,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>pigskin</id>
+<date>20010101</date>
 <title>The Pigskin Professor</title>
+<image>pigskin.jpg</image>
 <description><![CDATA[[embed]https://vimeo.com/44391398[/embed]
 \n<h4>The Pigskin Professor, Engineering Around Us</h4>
 \nProfessor Tony Schmitz combined his love of football with mechanical engineering in a series of episodes that showed how engineering pervades our daily lives. These videos, which were shown during the six home football games for the 2003 season, reached a diverse audience of over 84,000 fans at each game and provided a unique opportunity to discuss engineering in a high-profile forum. Using amusing classroom and gridiron-based scenarios, the Pigskin Professor cleverly demonstrated how engineering processes and results permeate our daily existence.
@@ -430,7 +507,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>tff</id>
+<date>20010101</date>
 <title>Time to Fly Away</title>
+<image>ttf.jpg</image>
 <description><![CDATA[<h4></h4>
 \n[embed]https://vimeo.com/44468125[/embed]
 \n<h4>DW Produces Time to Fly Away: for all-College Commencement</h4>
@@ -438,7 +518,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>tmc</id>
+<date>20010101</date>
 <title>Timpani Master Class</title>
+<image>tmc.jpg</image>
 <description><![CDATA[<h4>World's First Distributed Timpani Master Class</h4>
 \nThe University of Florida's Digital Worlds Institute and Miami's New World Symphony co-hosted the world's first distributed timpani Master Class between the Atlanta Symphony and the New World Symphony. Both timpanists saw and heard each other over DVD quality video links with stereo CD quality audio in real time.
 \n
@@ -452,12 +535,17 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>tbt</id>
+<date>20010101</date>
 <title>Truth Be Told: Pirates</title>
 <description><![CDATA[[embed]https://vimeo.com/64726337[/embed]]]></description>
 </project>
 
 <project>
+<id>vets</id>
+<date>20010101</date>
 <title>Virtual Enviroments for Therapeutic Solutions</title>
+<image>vets.jpg</image>
 <description><![CDATA[<h4>Healing the Wounded Warrior</h4>
 \n<ul>
 \n 	<li><strong>Charles Levy, </strong>Chief of Physical Medicine and Rehabilitation, Malcolm Randall VA Medical Center (MRVAMC)</li>
@@ -513,7 +601,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>vh</id>
+<date>20010101</date>
 <title>Virtual Heritage</title>
+<image>vh.jpg</image>
 <description><![CDATA[<h4>Extending Virtual Heritage Beyond the Local Site, Creating An International Digital Network</h4>
 \nProfessor James Oliverio and DAS Graduate student Reeti Sompura presented a paper titled Extending Virtual Heritage Beyond the Local Site at the 9th International Conference on Virtual Systems and Multimedia (VSM 2003) in Montreal, Canada. The theme of the conference was “Hybrid Realities: Art, Technology and the Human Factor”.
 \n
@@ -522,7 +613,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>vlf</id>
+<date>20010101</date>
 <title>Virtual Learning Forest</title>
+<image>vlf.png</image>
 <description><![CDATA[Virtual environments for experiential learning have many applications in sciences with laboratory-based training sessions. Some of the key advantages of such tools are: 1) cost-efficiency compared to real laboratories, 2) safety: the students can familiarize themselves with the proper laboratory safety procedures in a virtual setting before they go to an actual laboratory, and 3) accessibility, which is also important for distance education.
 \n
 \nFor forestry education, experiential learning systems show much potential for offering immersive experiences that simulate environmental areas including forests [Bec09], as well as virtual laboratory tools and processes [JBB<sup>+</sup>10] that simulate traditional real-world teaching and training methodologies. Such an educational interactive virtual reality system, named <em>Virtual Learning Forest</em>, was presented in [JBB<sup>+</sup>10] and offers visual simulation of longleaf pine ecosystems.
@@ -533,7 +627,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>voyage</id>
+<date>20010101</date>
 <title>Voyage to Tomorrow</title>
+<image>voyage.jpg</image>
 <description><![CDATA[<h4>Voyage to Tomorrow, A Multi-media Suite in Three Movements</h4>
 \nA three-movement symphonic suite performed live to an original digital movie created by the UF Digital Worlds Institute incorporating dramatic time-lapse cinematography, 3D computer animation and imagery from historic Renaissance paintings and sculptures.
 \n
@@ -563,7 +660,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>vwe</id>
+<date>20010101</date>
 <title>VWE Working Group</title>
+<image>vwe.jpg</image>
 <description><![CDATA[<strong>Virtual World Environments (VWE) Working Group</strong>
 \n
 \nIn the Spring of 2008 a university-wide working group was convened to study the potential uses of Virtual World Environments (VWEs) in research and education at the University of Florida. Active participants came from nearly three-quarters of UF’s sixteen colleges and affiliated units. The group met three times over the course of the Spring semester at the Digital Worlds Institute’s Research, Education and Visualization Environment.
@@ -580,7 +680,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>wh</id>
+<date>20010101</date>
 <title>World House</title>
+<image>wh.jpg</image>
 <description><![CDATA[[embed]https://vimeo.com/44465360[/embed]
 \n<h4>WORLD HOUSE: Connecting the Global Community</h4>
 \nOn the 40th anniversary of Martin Luther King Jr.’s assassination, the technology he lamented had overshadowed the human spirit was used to power four interactive global webcasts that transcend race, class, nation and religion.
@@ -605,7 +708,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>dreams</id>
+<date>20210101</date>
 <title>Virtual reality rehabilitation for ICU patients</title>
+<image>dreams.jpg</image>
 <description><![CDATA[<iframe src=https://www.youtube.com/embed/8A2_ScKBquM?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen data-mce-fragment=1></iframe>
 \n
 \nWhile virtual reality technology is gaining popularity in a variety of contexts from video games to fitting rooms, researchers at the University of Florida are discovering how VR can improve the quality of life of patients in the intensive care units of hospitals.
@@ -643,7 +749,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>rosettastone</id>
+<date>20180701</date>
 <title>3D Scanning the Rosetta Stone</title>
+<image>rosettastone.png</image>
 <description><![CDATA[Use 1-finger and 2-finger gestures to move, rotate, and zoom the 3D model of the Rosetta Stone below:
 \n<iframe src=https://research.dwi.ufl.edu/op.n/file/2fzrs3i2cvas964f/embed width=1200px height=600px frameborder=0 scrolling=no></iframe>
 \n
@@ -663,7 +772,10 @@ The J4K library is compatible with all kinect devices (Kinect for Windows, Kinec
 </project>
 
 <project>
+<id>wordworkmat</id>
+<date>20200601</date>
 <title>Word Work Mat App for literacy instruction</title>
+<image>wordworkmat.jpg</image>
 <description><![CDATA[<iframe src=https://www.youtube.com/embed/CPgzP6SXouk?feature=oembed width=1200 height=600 frameborder=0 allowfullscreen=allowfullscreen data-mce-fragment=1><span data-mce-type=bookmark style=display: inline-block; width: 0px; overflow: hidden; line-height: 0; class=mce_SELRES_start>﻿</span></iframe>
 \n
 \nDuring the COVID-19 pandemic, education has been severely impacted across the globe.
