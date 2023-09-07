@@ -2,8 +2,8 @@
 <html xsl:version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <link rel="icon" href="favicon.ico"/>
-	<link rel="apple-touch-icon" href="favicon.png"/>
+    <link rel="icon" href="/favicon.ico"/>
+	<link rel="apple-touch-icon" href="/favicon.png"/>
 	<meta name="msapplication-TileColor" content="#ffffff"/>
 	<meta name="msapplication-TileImage" content="/favicon.png"/>
 	    <title>People – Digital Worlds Research</title>

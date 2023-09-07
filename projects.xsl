@@ -215,7 +215,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 	<figure class="woocommerce-product-gallery__wrapper">
 		<div data-thumb-alt="" class="woocommerce-product-gallery__image" style="position: relative; overflow: hidden;">
-		<img width="600" height="452" src="style/server-450x450.jpeg" class="wp-post-image" alt="" decoding="async"/>
+		<img width="600" height="452" src="img/laptop.jpg" class="wp-post-image" alt="" decoding="async"/>
 		</div>	
 	</figure>
 </div>
