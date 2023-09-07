@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html xsl:version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="icon" href="favicon.ico"/>
@@ -26,20 +28,6 @@ function showProduct(id)
 function showDescription(id)
 {
 	document.getElementById(id+'-tab-description').style.display="block";
-	document.getElementById(id+'-tab-additional_information').style.display="none";
-	document.getElementById(id+'-tab-citation').style.display="none";
-}
-function showInfo(id)
-{
-	document.getElementById(id+'-tab-description').style.display="none";
-	document.getElementById(id+'-tab-additional_information').style.display="block";
-	document.getElementById(id+'-tab-citation').style.display="none";
-}
-function showCitation(id)
-{
-	document.getElementById(id+'-tab-description').style.display="none";
-	document.getElementById(id+'-tab-additional_information').style.display="none";
-	document.getElementById(id+'-tab-citation').style.display="block";
 }
 function startup()
 {
@@ -208,6 +196,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <xsl:for-each select="data/projects/project">
 
+    
 <div id="{id}" class="post-614 product type-product status-publish has-post-thumbnail product_cat-publications first instock shipping-taxable purchasable product-type-simple" style="display:none;">
         <div class="storecommerce-product-summary-wrap clearfix">
            <div class="product-summary-wrapper">
@@ -221,34 +210,27 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </div>
             </div>
             <div class="summary entry-summary">
-                <h1 class="product_title entry-title"><xsl:value-of select="title"/></h1><div>by <xsl:value-of select="author"/><br/><br/><i><xsl:value-of select="journal"/></i>
-				<xsl:choose>
-        <xsl:when test="volume"><xsl:value-of select="volume"/></xsl:when>
+                <h1 class="product_title entry-title"><xsl:value-of select="title"/></h1><div>
+		<xsl:choose>
+        <xsl:when test="funding">Funded by:  <xsl:value-of select="funding"/><br/><br/></xsl:when>
         <xsl:otherwise></xsl:otherwise>
   </xsl:choose>
   <xsl:choose>
-        <xsl:when test="number">(<xsl:value-of select="number"/>)</xsl:when>
+  <xsl:when test="short"><xsl:value-of select="short"/></xsl:when>
         <xsl:otherwise></xsl:otherwise>
   </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="month">, <xsl:value-of select="month"/>, <xsl:value-of select="year"/></xsl:when>
+ 
+				 <br/><br/></div>
+                 
+<xsl:choose>
+        <xsl:when test="url"><a href="{url}"><div class="woocommerce-product-details__short-description"><button name="add-to-cart" value="87" class="button alt" style="background:#f00;border-color:#f00;">Visit project's website</button></div></a><br/></xsl:when>
         <xsl:otherwise></xsl:otherwise>
   </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="pages">, pp. <xsl:value-of select="pages"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>. 
-  <xsl:choose>
-        <xsl:when test="doi"><a href="{doi}"><xsl:value-of select="doi"/></a></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-				 <br/><br/></div><a href="{doi}"><div class="woocommerce-product-details__short-description"><button name="add-to-cart" value="87" class="button alt" style="background:#f00;border-color:#f00;">Download PDF</button></div></a>
-	
 
 
 	
 <div class="product_meta">
-	<span class="posted_in">Category: <a href="index.xml?publications" rel="tag">Publications</a></span>
+	<span class="posted_in">Category: <a href="projects.xml" rel="tag">Projects</a></span>
 </div>
             </div>
         </div>
@@ -260,14 +242,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					<a onclick="showDescription('{id}')">
 						Description					</a>
 				</li>
-							<li class="additional_information_tab" id="tab-title-additional_information" role="tab" aria-controls="tab-additional_information">
-					<a onclick="showInfo('{id}')">
-						Additional information					</a>
-				</li>
-							<li class="citation_tab" id="tab-title-citation" role="tab" aria-controls="tab-citation">
-					<a onclick="showCitation('{id}')">
-						Citation					</a>
-				</li>
+							
 					</ul>
 	<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="{id}-tab-description" role="tabpanel" aria-labelledby="tab-title-description" style="">
 				
@@ -280,167 +255,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </p>
 			</div>
 	
-	<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--additional_information panel entry-content wc-tab" id="{id}-tab-additional_information" role="tabpanel" aria-labelledby="tab-title-additional_information" style="display: none;">
-				
-	<h2>Additional information</h2>
-
-<table class="woocommerce-product-attributes shop_attributes">
-			<tbody>
-			
-<xsl:choose>
-        <xsl:when test="author">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Author</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="author"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="journal">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Journal</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="journal"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="volume">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Volume</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="volume"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="number">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Number</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="number"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="month">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Month</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="month"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="year">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Year</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="year"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="pages">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">Pages</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="pages"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-
-<xsl:choose>
-        <xsl:when test="doi">
-		<tr class="woocommerce-product-attributes-item">
-			<th class="woocommerce-product-attributes-item__label">DOI</th>
-			<td class="woocommerce-product-attributes-item__value"><p><xsl:value-of select="doi"/></p>
-		</td>
-		</tr>
-		</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-			
-
-	</tbody></table>
-			</div>
-					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--citation panel entry-content wc-tab" id="{id}-tab-citation" role="tabpanel" aria-labelledby="tab-title-citation" style="display: none;">
-				
-	<h2>Citation</h2>
-
-<h1>Citation</h1><div>
-
-<xsl:value-of select="author"/> (<xsl:value-of select="year"/>), <xsl:value-of select="title"/>, <i><xsl:value-of select="journal"/></i>
-				<xsl:choose>
-        <xsl:when test="volume"><xsl:value-of select="volume"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="number">(<xsl:value-of select="number"/>)</xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="month">, <xsl:value-of select="month"/>, <xsl:value-of select="year"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-  <xsl:choose>
-        <xsl:when test="pages">, pp. <xsl:value-of select="pages"/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>. 
-  <xsl:choose>
-        <xsl:when test="doi"><a href="{doi}"><xsl:value-of select="doi"/></a></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-  </xsl:choose>
-
-<br/><br/></div>
-
-<h1>BibTex</h1><pre>@article{<xsl:value-of select="id"/>,<br/>
-<xsl:choose>
-        <xsl:when test="author">author = {<xsl:value-of select="author"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="title">title = {<xsl:value-of select="title"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="journal">journal = {<xsl:value-of select="journal"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="month">month = {<xsl:value-of select="month"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="year">year = {<xsl:value-of select="year"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-<xsl:choose>
-        <xsl:when test="pages">pages = {<xsl:value-of select="pages"/>},<br/></xsl:when>
-        <xsl:otherwise></xsl:otherwise>
-</xsl:choose>
-}</pre>			</div>
+	
 		
 			</div>
 
 
 
     </div>
-
 
 </xsl:for-each>
 
@@ -451,7 +272,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 <xsl:for-each select="data/projects/project">
-<xsl:sort select="year" order="descending"/>
+<xsl:sort select="date" order="descending"/>
 
 <li class="product type-product status-publish has-post-thumbnail product_cat-publications last instock shipping-taxable purchasable product-type-simple">
 
@@ -473,7 +294,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
                             <span class="prodcut-catagory">
                 <ul class="cat-links"><li class="meta-category">
-                             <a class="storecommerce-categories category-color-1" href="projects.xml" alt="View all posts in Publications"> 
+                             <a class="storecommerce-categories category-color-1" href="projects.xml" alt="View all posts in projects"> 
                                  Projects
                              </a>
                         </li></ul>            </span>
