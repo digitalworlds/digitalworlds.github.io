@@ -1,5 +1,7 @@
 # This repository renders the website of the DigitalWorlds github organization
 
+https://digitalworlds.github.io/
+
 ## How it works
 
 The website is organized in a simple way by keeping the data entries in separate files. This makes it easy to add or modify content by using the github web editor.
