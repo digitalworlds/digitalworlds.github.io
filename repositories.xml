@@ -27,5 +27,13 @@
 <url>https://github.com/digitalworlds/Discovering-DaVinci</url>
 </repository>
 
+<repository>
+<id>chant</id>
+<date>20150325</date>
+<image>STL2015.jpg</image>
+<title>Chant</title>
+<url>https://github.com/digitalworlds/chant</ul>
+</repository>
+
 </repositories>
 </data>
