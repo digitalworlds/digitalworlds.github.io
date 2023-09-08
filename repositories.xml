@@ -19,5 +19,13 @@
 <image>j4q.jpg</image>
 </repository>
 
+<repository>
+<id>discoverdavinci</id>
+<date>20200503</date>
+<image>ICBC2020.png</image>
+<title>Discovering DaVinci</title>
+<url>https://github.com/digitalworlds/Discovering-DaVinci</url>
+</repository>
+
 </repositories>
 </data>
