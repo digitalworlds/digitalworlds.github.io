@@ -3,5 +3,21 @@
 <data>
 <repositories>
 
+<repository>
+<id>androidforbeginners</id>
+<title>Android for Beginners</title>
+<date>20230901</date>
+<url>https://github.com/digitalworlds/AndroidForBeginners</url>
+<image>android_for_beginners.jpg</image>
+</repository>
+
+<repository>
+<id>j4q</id>
+<title>Java for Oculus Quest (J4Q)</title>
+<date>20230901</date>
+<url>https://github.com/digitalworlds/JavaForQuest</url>
+<image>j4q.jpg</image>
+</repository>
+
 </repositories>
 </data>
