@@ -252,8 +252,16 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         <xsl:when test="doi"><a href="{doi}"><xsl:value-of select="doi"/></a></xsl:when>
         <xsl:otherwise></xsl:otherwise>
   </xsl:choose>
-				 <br/><br/></div><a href="{doi}"><div class="woocommerce-product-details__short-description"><button name="add-to-cart" value="87" class="button alt" style="background:#f00;border-color:#f00;">Download PDF</button></div></a>
-	
+
+<br/><br/></div>
+
+   <xsl:choose>
+        <xsl:when test="doi"><a href="{doi}"><div class="woocommerce-product-details__short-description"><button name="add-to-cart" value="87" class="button alt" style="background:#f00;border-color:#f00;">Download PDF</button></div></a>
+	</xsl:when>
+        <xsl:otherwise><a href="{url}"><div class="woocommerce-product-details__short-description"><button name="add-to-cart" value="87" class="button alt" style="background:#f00;border-color:#f00;">Download PDF</button></div></a>
+	</xsl:otherwise>
+  </xsl:choose>
+				 
 
 
 	
