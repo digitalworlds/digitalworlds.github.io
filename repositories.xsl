@@ -6,7 +6,7 @@
 	<link rel="apple-touch-icon" href="favicon.png"/>
 	<meta name="msapplication-TileColor" content="#ffffff"/>
 	<meta name="msapplication-TileImage" content="/favicon.png"/>
-	    <title>Repositories – Digital Worlds Research</title>
+	    <title>Repositories - Digital Worlds Institute Research Website, University of Florida</title>
 <meta name="robots" content="max-image-preview:large"/>
 <link rel="dns-prefetch" href="https://static.addtoany.com/"/>
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/"/>
