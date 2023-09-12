@@ -1,6 +1,11 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="repositories.xsl" ?>
 <data>
+<meta property="og:title" content="Repositories - Digital Worlds Institute, University of Florida" />
+<meta property="og:description" content="List of repositories at the University of Florida Digital Worlds Instite." />
+<meta property="og:image" content="https://digitalworlds.github.io/img/projects.jpg" />
+
+
 <repositories>
 
 <repository>

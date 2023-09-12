@@ -1,6 +1,11 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="index.xsl" ?>
 <data>
+<meta property="og:title" content="Digital Worlds Institute, University of Florida" />
+<meta property="og:description" content="The research website of the Digital Worlds Instite at the University of Florida. Through the use of interactive tools and technologies, the Digital Worlds Institute promotes transdisciplinary creativity across classrooms, continents, and cultures. The diversity of projects featured attests to the wide range of domains that can be substantively supported and enhanced with interactive digital media." />
+<meta property="og:image" content="https://digitalworlds.github.io/img/projects.jpg" />
+
+
 <categories>
 
 <category>

@@ -1,6 +1,10 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="projects.xsl" ?>
 <data>
+<meta property="og:title" content="Projects - Digital Worlds Institute, University of Florida" />
+<meta property="og:description" content="List of projects at the University of Florida Digital Worlds Instite." />
+<meta property="og:image" content="https://digitalworlds.github.io/img/projects.jpg" />
+
 
 <projects>
 <project>

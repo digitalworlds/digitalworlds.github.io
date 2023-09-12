@@ -1,6 +1,11 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="publications.xsl" ?>
 <data>
+<meta property="og:title" content="Publications - Digital Worlds Institute, University of Florida" />
+<meta property="og:description" content="List of publications by the research faculty of the University of Florida Digital Worlds Instite." />
+<meta property="og:image" content="https://digitalworlds.github.io/img/projects.jpg" />
+
+
 <publications>
 
 <publication>
