@@ -202,23 +202,16 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     
 <div id="{id}" class="post-614 product type-product status-publish has-post-thumbnail product_cat-publications first instock shipping-taxable purchasable product-type-simple" style="display:none;">
         <div class="storecommerce-product-summary-wrap clearfix">
-           <div class="product-summary-wrapper">
-                <div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 1; transition: opacity 0.25s ease-in-out 0s;">
-
-	<figure class="woocommerce-product-gallery__wrapper">
-		<div data-thumb-alt="" class="woocommerce-product-gallery__image" style="position: relative; overflow: hidden;">
-		
-         <xsl:choose>
+          
+                    <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns: 30% 1fr;">
+    <figure class="wp-block-media-text__media" >
+        <xsl:choose>
             <xsl:when test="image"><img width="600" height="452" src="img/{image}" class="wp-post-image" alt="" decoding="async"/></xsl:when>
             <xsl:otherwise><img width="600" height="452" src="img/laptop.jpg" class="wp-post-image" alt="" decoding="async"/></xsl:otherwise>
-            </xsl:choose>
-
-		</div>	
-	</figure>
-</div>
-            </div>
-            <div class="summary entry-summary">
-                <h1 class="product_title entry-title"><xsl:value-of select="title"/></h1><div>
+        </xsl:choose>
+    </figure>
+<div class="wp-block-media-text__content" style="padding-top:2%;padding-bottom:2%;">       
+    <h1 class="product_title entry-title"><xsl:value-of select="title"/></h1><div>
 		<xsl:choose>
         <xsl:when test="funding">Funded by:  <xsl:value-of select="funding"/><br/><br/></xsl:when>
         <xsl:otherwise></xsl:otherwise>
@@ -243,6 +236,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             </div>
         </div>
 
+</div>
         
 	<div class="woocommerce-tabs wc-tabs-wrapper">
 		<ul class="tabs wc-tabs" role="tablist">
