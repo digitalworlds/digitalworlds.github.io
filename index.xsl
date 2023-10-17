@@ -93,7 +93,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				#yith-quick-view-close{color:#cdcdcd;}
 				#yith-quick-view-close:hover{color:#ff0000;}
 </style>
-<link rel="stylesheet" id="minimal_shop-google-fonts-css" href="./style/css" type="text/css" media="all"/>
+<link rel="stylesheet" id="minimal_shop-google-fonts-css" href="./style/css.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="bootstrap-css" href="./style/bootstrap.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="owl-carousel-css" href="./style/owl.carousel.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="owl-theme-default-css" href="./style/owl.theme.default.css" type="text/css" media="all"/>
@@ -112,7 +112,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 [data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
 </style>
 <link rel="stylesheet" id="sidr-css" href="./style/jquery.sidr.dark.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="storecommerce-google-fonts-css" href="./style/css(1)" type="text/css" media="all"/>
+<link rel="stylesheet" id="storecommerce-google-fonts-css" href="./style/css(1).css" type="text/css" media="all"/>
 <script async="" type="text/javascript" src="./style/page.js" id="wpss_addtoany_script-js"></script>
 <script type="text/javascript" src="./style/jquery.min.js" id="jquery-core-js"></script>
 <script type="text/javascript" src="./style/jquery-migrate.min.js" id="jquery-migrate-js"></script>
